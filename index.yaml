@@ -1,8 +1,7 @@
 ---
 positionTitle:
-- <span class="c5">連勝文</span>
-- <span class="c5">柯文哲</span>
-- <span class="c5">馮光遠</span>
+- <span class="c0">蔡英文</span>
+- <span class="c0">洪秀柱</span>
 perspectives:
 - title: 市政與財政
   positions:
@@ -54,28 +53,6 @@ perspectives:
       ref: 首場辯論會公民提問(四) 倒數33”
     - content: 成立公民參政委員會
       ref: 首場辯論會結論 倒數 7:09
-  - summary: ''
-    debateArguments:
-    - content: 建立「市長踹共」網站，市民連署後、市府出面說明
-      ref: 夯民意──如有民怨，市長踹共
-    - content: 建構「網上罷免」網站、並可推動「罷免市長」
-      ref: ''
-    - content: 加強里長功能
-      ref: ''
-    - content: 定期舉辦發布政策記者會
-      ref: ''
-    - content: 與企業合約納入人權條款
-      ref: ''
-    - content: 檢討並節制派遣人力
-      ref: ''
-    - content: 保障市民基本權利
-      ref: ''
-    - content: 每年演練核災
-      ref: ''
-    - content: 不妥協，我們就是反核
-      ref: ''
-    - content: 禁止媒體置入性行銷政策
-      ref: ''
 - title: 嬰幼兒照顧
   positions:
   - summary: ''
@@ -96,14 +73,6 @@ perspectives:
       ref: 新政#6影片 2’28”
     - content: 鬆綁法規、推行社區保母，由社區提供場地，每 3 名保姆收托 10 名以內幼兒
       ref: 新政影片 2’39”，柯P新政#6
-  - summary: ''
-    debateArguments:
-    - content: 實踐婚姻平權 多元成家
-      ref: 夯同婚──支持婚姻平權，支持多元成家
-    - content: 保障市民相互代理及伴侶權益
-      ref: ''
-    - content: 老年安養與嬰幼兒托育與社區結合
-      ref: ''
 - title: 學齡前/小學照顧與教育（K-12）
   positions:
   - summary: ''
@@ -128,8 +97,6 @@ perspectives:
       ref: 柯P新政#9
     - content: 課後照顧班多元師資：專職媽媽、流浪教師、大專社區服務、文化工作者
       ref: 柯P新政#9影片1m50s、柯P新政#9
-  - summary: ''
-    debateArguments: []
 - title: 中學以上教育
   positions:
   - summary: ''
@@ -150,7 +117,7 @@ perspectives:
       ref: 連勝文政見#14
     - content: 加倍社區大學預算，每年至少多撥 1000 萬專案預算供社區大學提案申請
       ref: '連勝文政見 #13'
-  - summary: <span class="c5">十二年國教優質地方高中職</span>
+  - summary: <span class="c0">十二年國教優質地方高中職</span>
     debateArguments:
     - content: 修改校長評鑑標準，好校長留在社區高中
       ref: 柯P新政 #13 影片 1’50”
@@ -168,8 +135,6 @@ perspectives:
       ref: 柯P新政#26影片
     - content: 師範學生提早入校
       ref: ''
-  - summary: ''
-    debateArguments: []
 - title: 青年就業與創業
   positions:
   - summary: ''
@@ -200,8 +165,6 @@ perspectives:
       ref: 柯P新政#24影片
     - content: 企業家主導市府創業服務辦公室，吸收成功企業家規劃與評審創業輔助計劃，並提供一站式專人協助
       ref: 柯P新政#24影片
-  - summary: ''
-    debateArguments: []
 - title: 食品安全
   positions:
   - summary: ''
@@ -240,8 +203,6 @@ perspectives:
       ref: 聯合報 10/31
     - content: 承諾推動中小學使用非基因改造豆製食材
       ref: 校園午餐搞非基 柯文哲承諾書
-  - summary: ''
-    debateArguments: []
 - title: 住宅相關
   positions:
   - summary: ''
@@ -274,7 +235,7 @@ perspectives:
       ref: 連勝文政見#7 影片
     - content: 成立公辦都更及住宅公司
       ref: ''
-  - summary: <span class="c5">公共住宅</span>
+  - summary: <span class="c0">公共住宅</span>
     debateArguments:
     - content: 興建只租不賣公共住宅、擴大發放租金補助
       ref: 柯P新政 #5 影片 1'20" 、柯P新政 #5 影片 1'52"
@@ -296,16 +257,6 @@ perspectives:
       ref: '柯P新政 #8 影片 4’09”  影片 4’33”'
     - content: 增加面積做為公共住宅、公平分配利益、投入公共設施
       ref: '柯P新政 #8 影片 3’41”'
-  - summary: ''
-    debateArguments:
-    - content: 只租不賣住宅
-      ref: 夯居住──以居住權為主的居住政策
-    - content: 進行小型公辦都更
-      ref: ''
-    - content: 政府成立租屋管理公司
-      ref: ''
-    - content: 避免房地產炒作
-      ref: ''
 - title: 公共運輸
   positions:
   - summary: ''
@@ -344,8 +295,6 @@ perspectives:
       ref: 柯P新政#15 影片2’29”
     - content: 擴大無障礙計程車服務
       ref: 柯P新政#15 影片3’04”
-  - summary: ''
-    debateArguments: []
 - title: 交通安全
   positions:
   - summary: ''
@@ -366,8 +315,6 @@ perspectives:
       ref: ''
     - content: 酒駕連坐處份制
       ref: ''
-  - summary: ''
-    debateArguments: []
 - title: 醫療保健
   positions:
   - summary: ''
@@ -378,7 +325,7 @@ perspectives:
       ref: ''
     - content: 待整理：連勝文政見#28 防疫五部曲 讓市民安心放心
       ref: ''
-  - summary: <span class="c5">緊急救護</span>
+  - summary: <span class="c0">緊急救護</span>
     debateArguments:
     - content: 公眾場所持續普設 AED 與急救教育訓練，使市民熟悉操作 AED
       ref: 柯P新政 #10 影片 0'33"
@@ -402,8 +349,6 @@ perspectives:
       ref: '柯P新政 #25 影片 1’36”'
     - content: 市立聯合醫院之民眾就醫經驗回饋系統
       ref: '柯P新政 #25 影片 2’10”'
-  - summary: ''
-    debateArguments: []
 - title: 老年照護
   positions:
   - summary: ''
@@ -424,16 +369,6 @@ perspectives:
       ref: 柯P新政#12 新政影片2'8”
     - content: 北市聯合醫院建立長期住院者的個案管理
       ref: 柯P新政#12 新政影片2'40”
-  - summary: ''
-    debateArguments:
-    - content: 社區整體營造考量、社福及社會救助
-      ref: ''
-    - content: 優先弱勢者照顧及急難救助
-      ref: ''
-    - content: 建立臨時庇護居所，提供醫療救助與心靈關懷
-      ref: ''
-    - content: 與社會團體合作提供公共利益之照顧
-      ref: ''
 - title: 觀光
   positions:
   - summary: ''
@@ -472,12 +407,6 @@ perspectives:
       ref: 柯P新政#19影片 2’34”
     - content: 觀光巴士串聯特色景點
       ref: 柯P新政#19影片 2’58”
-  - summary: ''
-    debateArguments:
-    - content: 中山足球場多功能化
-      ref: 夯運動──中山足球場何去何從
-    - content: 重新檢視世大運多項政策
-      ref: ''
 - title: 文化與文化創意產業
   positions:
   - summary: ''
@@ -490,7 +419,7 @@ perspectives:
       ref: 連勝文政見#18
     - content: 待整理：連勝文政見#23 打造台北成為流行音樂之都
       ref: ''
-  - summary: <span class="c5">文化自治</span>
+  - summary: <span class="c0">文化自治</span>
     debateArguments:
     - content: 資深文化人士組成文化政策咨詢審議會，審議文化相關人事、政策、預算，成員名單公開透明
       ref: 新政#17影片 39”
@@ -530,8 +459,6 @@ perspectives:
       ref: 新政#21影片3'45"
     - content: 國際大型音樂節
       ref: 新政#21影片3’55"
-  - summary: ''
-    debateArguments: []
 - title: 勞權、人權與弱勢關懷
   positions:
   - summary: ''
@@ -566,20 +493,6 @@ perspectives:
       ref: 首場辯論公民提問（一） 倒數1'39"
     - content: 勞動檢查項目讓工會參與，檢查時有工會代表，並逐年減少派遣工
       ref: 首場辯論公民提問（一） 倒數1'27"
-  - summary: ''
-    debateArguments:
-    - content: 颱風及劇烈天氣放寬放假標準
-      ref: 對颱風假的思考
-    - content: 營造尊重平權的職場空間
-      ref: ''
-    - content: 積極介入改善勞動環境
-      ref: ''
-    - content: 公開惡質企業
-      ref: ''
-    - content: 警方執法依照民主憲政原則下的法律規定
-      ref: ''
-    - content: 中國人來台與外國人來台平等待遇
-      ref: ''
 - title: 動物與環境保護
   positions:
   - summary: ''
@@ -604,8 +517,6 @@ perspectives:
       ref: 新政#14影片2'57”
     - content: 待整理：#22 動物友善http://kptaipei.tw/?page_id=3730
       ref: ''
-  - summary: ''
-    debateArguments: []
 - title: 公共工程與公共安全
   positions:
   - summary: ''
@@ -626,20 +537,6 @@ perspectives:
       ref: 民報 8/10
     - content: 想辦法解決國際級足球場需求
       ref: 民報7/10
-  - summary: ''
-    debateArguments:
-    - content: 市政設計參酌市民意見並符合制度規劃後的結果
-      ref: ''
-    - content: 謹慎評估重大建設
-      ref: ''
-    - content: 擴大市民參與及廣納市民意見
-      ref: ''
-    - content: 避免建造浮誇不實且存有潛在風險的公共建設
-      ref: ''
-    - content: 公共工程公開資訊及公聽程序
-      ref: ''
-    - content: 秉持程序正義
-      ref: ''
 - title: 其他
   positions:
   - summary: ''
@@ -650,8 +547,6 @@ perspectives:
       ref: ''
     - content: 待分類：連勝文政見#27 十一招 打造台北市全方位體育環境
       ref: ''
-  - summary: ''
-    debateArguments: []
   - summary: ''
     debateArguments: []
 comments: {}
