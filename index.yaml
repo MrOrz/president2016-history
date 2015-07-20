@@ -1,7 +1,7 @@
 ---
 positionTitle:
-- <span class="c0">蔡英文</span>
-- <span class="c0">洪秀柱</span>
+- <span class="c2">蔡英文</span>
+- <span class="c2">洪秀柱</span>
 perspectives:
 - title: 市政與財政
   positions:
@@ -117,7 +117,7 @@ perspectives:
       ref: 連勝文政見#14
     - content: 加倍社區大學預算，每年至少多撥 1000 萬專案預算供社區大學提案申請
       ref: '連勝文政見 #13'
-  - summary: <span class="c0">十二年國教優質地方高中職</span>
+  - summary: <span class="c2">十二年國教優質地方高中職</span>
     debateArguments:
     - content: 修改校長評鑑標準，好校長留在社區高中
       ref: 柯P新政 #13 影片 1’50”
@@ -235,7 +235,7 @@ perspectives:
       ref: 連勝文政見#7 影片
     - content: 成立公辦都更及住宅公司
       ref: ''
-  - summary: <span class="c0">公共住宅</span>
+  - summary: <span class="c2">公共住宅</span>
     debateArguments:
     - content: 興建只租不賣公共住宅、擴大發放租金補助
       ref: 柯P新政 #5 影片 1'20" 、柯P新政 #5 影片 1'52"
@@ -325,7 +325,7 @@ perspectives:
       ref: ''
     - content: 待整理：連勝文政見#28 防疫五部曲 讓市民安心放心
       ref: ''
-  - summary: <span class="c0">緊急救護</span>
+  - summary: <span class="c2">緊急救護</span>
     debateArguments:
     - content: 公眾場所持續普設 AED 與急救教育訓練，使市民熟悉操作 AED
       ref: 柯P新政 #10 影片 0'33"
@@ -419,7 +419,7 @@ perspectives:
       ref: 連勝文政見#18
     - content: 待整理：連勝文政見#23 打造台北成為流行音樂之都
       ref: ''
-  - summary: <span class="c0">文化自治</span>
+  - summary: <span class="c2">文化自治</span>
     debateArguments:
     - content: 資深文化人士組成文化政策咨詢審議會，審議文化相關人事、政策、預算，成員名單公開透明
       ref: 新政#17影片 39”
