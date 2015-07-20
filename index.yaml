@@ -1,15 +1,23 @@
 ---
 positionTitle:
-- <span class="c1">蔡英文</span>
-- <span class="c1">洪秀柱</span>
+- <span class="c3">蔡英文</span>
+- <span class="c3">洪秀柱</span>
 perspectives:
 - title: 兩岸與國際策略
   positions:
   - summary: ''
-    debateArguments: []
-  - summary: ''
     debateArguments:
     - content: ''
+      ref: ''
+  - summary: ''
+    debateArguments:
+    - content: 在 (1) 不違反中華民國憲法、(2) 雙方平等尊嚴、(3) 北京放棄武力威脅台灣（安全議題）且保障中華民國國際參與、(4) 有助和平、(5)
+        人民同意 以上五原則之下，簽署《兩岸和平協定》
+      ref: 洪秀柱對於兩岸政策的說帖 p6、p13、官方粉絲頁
+    - content: 希望兩岸能對法理現狀「主權宣示重疊、現政治權分立」有共識。
+      ref: 洪秀柱對於兩岸政策的說帖 p11
+    - content: 提出「整個中國」概念。「整個中國」指中共與中華民國的人口與土地的組合。兩岸是「整個中國」內部的兩個憲政政府，兩岸關係不是「國際」關係，也不是任一方的「內政」，是「整個中國」的「內部關係」。出處：
+        洪秀柱對於兩岸政策的說帖 p11 ]
       ref: ''
 - title: 能源與環境
   positions:
@@ -37,10 +45,30 @@ perspectives:
   positions:
   - summary: ''
     debateArguments:
-    - content: ''
-      ref: ''
+    - content: 建置喘息服務、到宅服務、居家護理、日間照顧、送餐到宅服務、交通接送、居家無障礙環境改善等基礎；社區內建置有效團體餐食、送餐服務、沐浴、團體家屋、日間照顧、臨託服務、復健運動、保健教育等軟硬體設施。
+      ref: 7/18 民進黨新聞稿
+    - content: 以專業管理制度培養足夠、有穩定收入、有社會地位且受人尊敬的照顧服務員。
+      ref: 7/18 民進黨新聞稿
+    - content: 中央設置跨部門「長期照顧推動小組」
+      ref: 7/18 民進黨新聞稿
+    - content: 托育、長照、婦女就業三合一照顧政策，改善生育環境。
+      ref: 7/18 民進黨新聞稿
+    - content: 仿效日韓訂定專法保障中高齡就業者工作權。
+      ref: 7/18 民進黨新聞稿
+    - content: 三階段年金改革：(1) 成立委員會進行討論、(2) 討論結果在「國是會議」中做溝通、(3) 立法落實國是會議的結論。
+      ref: 7/18 民進黨新聞稿
+    - content: 高齡社會週邊軟硬設施作為產業看待，如培養服務員的管理調度 know how，以及研發照護輔具等。
+      ref: 7/18 民進黨新聞稿
   - summary: ''
     debateArguments:
     - content: ''
       ref: ''
+- title: 公共建設
+  positions:
+  - summary: ''
+    debateArguments:
+    - content: ''
+      ref: 7/15 民進黨新聞稿
+  - summary: ''
+    debateArguments: []
 comments: {}
