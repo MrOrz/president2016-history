@@ -1,7 +1,7 @@
 ---
 positionTitle:
-- <span class="c9">蔡英文</span>
-- <span class="c9">洪秀柱</span>
+- <span class="c5">蔡英文</span>
+- <span class="c5">洪秀柱</span>
 perspectives:
 - title: 兩岸與國際策略
   positions:
@@ -18,6 +18,10 @@ perspectives:
       ref: 洪秀柱對於兩岸政策的說帖 p11
     - content: 提出「整個中國」概念。「整個中國」指中共與中華民國的人口與土地的組合。兩岸是「整個中國」內部的兩個憲政政府，兩岸關係不是「國際」關係，也不是任一方的「內政」，是「整個中國」的「內部關係」。
       ref: 洪秀柱對於兩岸政策的說帖 p11
+    - content: 積極爭取參加亞投行，但絕不接受使用「中國台北 Taipei, China」名稱，「Chinese Taipei 中華臺北」是底線
+      ref: 官網
+    - content: 保有亞銀會員，但持續抗議亞銀會員名稱（中國台北 Taipei, China）
+      ref: 官網
 - title: 經濟與產業發展
   positions:
   - summary: ''
@@ -102,4 +106,7 @@ perspectives:
     debateArguments:
     - content: 承諾上任後會提名讓立法院能夠接受的行政院長，在修憲以前讓立法院享有實質上的「閣揆同意權」
       ref: 6/15 洪秀柱粉絲頁 、備份（不含影片）
+    - content: 支持 18 歲享有投票權。原因： (1) 年輕人透過網路對世界訊息掌握度高 (2) 年輕人是現代公共政策的當事人 (3) 跟進世界規定
+        (4) 賦予年輕人承擔的責任
+      ref: 6/11 洪秀柱粉絲頁 、備份（不含影片）
 comments: {}
