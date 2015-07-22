@@ -3,14 +3,22 @@ positionTitle:
 - <span class="c1">蔡英文</span>
 - <span class="c1">洪秀柱</span>
 perspectives:
-- title: 兩岸與國際策略
+- title: 兩岸、國際策略與國防
   positions:
   - summary: ''
     debateArguments:
-    - content: 研究逐步排除參與 TPP 的障礙
-      ref: 7/20粉絲頁
-    - content: 維持現狀、維持台海和平、兩岸穩定發展，同時加強國防準備
-      ref: 7/20粉絲頁
+    - content: 已成立 TPP 特別小組，探討加入 TPP 的各層面問題
+      ref: 6/4 粉絲頁
+    - content: 持續強化台美軍事合作，並共同因應網路安全等非傳統安全威脅。除對外採購武器系統、取得平台，也在本土國防計劃與研發上進行更多投資
+      ref: 6/4 粉絲頁
+    - content: 以貨櫃安全倡議及大港倡議為模式推動與美國的反恐合作
+      ref: 6/4 粉絲頁
+    - content: 承諾ㄧ建立一致性、可預測且可持續的兩岸關係
+      ref: 6/4 粉絲頁
+    - content: 完成《兩岸協議監督條例》立法，且監督條例適用於正在進行之協議
+      ref: 6/4 粉絲頁
+    - content: 在全募兵與全徵兵制之間找出最理想制度
+      ref: 4/22粉絲頁
   - summary: ''
     debateArguments:
     - content: 在 (1) 不違反中華民國憲法、(2) 雙方平等尊嚴、(3) 北京放棄武力威脅台灣（安全議題）且保障中華民國國際參與、(4) 有助和平、(5)
@@ -57,8 +65,10 @@ perspectives:
       ref: 6/27民進黨新聞稿
     - content: 解決隱私權保護、資料開放、資通安全、網路金融、網路制裁全問題，建立數位時代法制基礎
       ref: 6/7粉絲頁
-    - content: ''
-      ref: ''
+    - content: 盤點相關農業法令規章，邀集農企業和農民們共同討論修訂，打造合宜的現代農業制度架構
+      ref: 5/20粉絲頁
+    - content: 落實「農地農用」原則，讓農民不需國家補助而有餘裕
+      ref: 5/20粉絲頁
   - summary: ''
     debateArguments:
     - content: 積極建立與國際接軌的法規環境，引入資金與人才，並且確保開放之利益為全民所共享
@@ -110,7 +120,13 @@ perspectives:
 - title: 能源與環境
   positions:
   - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: 核四停建、核一、二、三不延役，2025 完成非核家園
+      ref: 4/18民進黨新聞稿
+    - content: 再生能源總發電量從現在的 4% 提升到 20%、500 億度
+      ref: 4/18民進黨新聞稿
+    - content: 改革電業法，區隔電廠發、輸、配、售業務，扭轉電業經營與資訊被單一國營事業壟斷
+      ref: 4/18民進黨新聞稿
   - summary: ''
     debateArguments:
     - content: 專業評估安全前提下，核一、二、三廠應延役，核四維持在隨時可上線供電之狀態。若延役受阻，核四必須啟封運轉
@@ -140,7 +156,13 @@ perspectives:
 - title: 勞工權益
   positions:
   - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: 「勞檢人員倍增」防杜職災、過勞
+      ref: 5/1粉絲頁
+    - content: 廢除基本工資審議，推動「最低工資法」合理勞工薪資
+      ref: 5/1粉絲頁
+    - content: 訂定勞動派遣專法，保護派遣勞工，朝「管制、減量」方向前進
+      ref: 5/1粉絲頁
   - summary: ''
     debateArguments:
     - content: 衛福部積極研擬調高合理護理費
@@ -155,7 +177,7 @@ perspectives:
       ref: 官網
     - content: 兩年內政府部門將派遣勞工直接僱用轉為正職、三年內全面檢討私部門的勞動派遣
       ref: 官網
-- title: 社會福利
+- title: 社會安全與社會福利
   positions:
   - summary: ''
     debateArguments:
