@@ -1,7 +1,7 @@
 ---
 positionTitle:
-- <span class="c1">蔡英文</span>
-- <span class="c1">洪秀柱</span>
+- <span class="c2">蔡英文</span>
+- <span class="c2">洪秀柱</span>
 perspectives:
 - title: 兩岸、國際策略與國防
   positions:
@@ -171,8 +171,8 @@ perspectives:
       ref: 官網
     - content: 護理佐理員應納入醫院設置標準與醫院評鑑標準
       ref: 官網
-    - content: 修正勞基法§84-1，檢討、限縮責任制適用人員，木終極目標為完全禁止責任制 [出處 官網]
-      ref: ''
+    - content: 修正勞基法§84-1，檢討、限縮責任制適用人員，終極目標為完全禁止責任制
+      ref: 官網
     - content: 主張最低時薪由 120 元調升至 130 元
       ref: 官網
     - content: 兩年內政府部門將派遣勞工直接僱用轉為正職、三年內全面檢討私部門的勞動派遣
