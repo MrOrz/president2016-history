@@ -1,7 +1,7 @@
 ---
 positionTitle:
-- <span class="c2">蔡英文</span>
-- <span class="c2">洪秀柱</span>
+- <span class="c3">蔡英文</span>
+- <span class="c3">洪秀柱</span>
 perspectives:
 - title: 兩岸、國際策略與國防
   positions:
@@ -55,6 +55,10 @@ perspectives:
       ref: 7/8 民進黨新聞稿
     - content: 預算結構不應逐年延續，每一會計年度都應歸零，嚴格按照施政優先順序分配資源；重大計劃須嚴格評估效果，減少浪費
       ref: 7/8 民進黨新聞稿
+    - content: 檢討中央與地方政府的權責，尤其是法律義務支出的業務(國民教育、警政消防、各項社會福利支出)，財政資源應該直接下放到第一線的地方政府。強化第一線的地方治理的能量，落實地方自治。
+      ref: ''
+    - content: ''
+      ref: ''
   - summary: ''
     debateArguments: []
 - title: 經濟與產業發展
