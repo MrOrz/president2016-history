@@ -1,7 +1,7 @@
 ---
 positionTitle:
-- <span class="c3">蔡英文</span>
-- <span class="c3">洪秀柱</span>
+- <span class="c2">蔡英文</span>
+- <span class="c2">洪秀柱</span>
 perspectives:
 - title: 兩岸、國際策略與國防
   positions:
@@ -79,6 +79,8 @@ perspectives:
       ref: 5/20粉絲頁
     - content: 落實「農地農用」原則，讓農民不需國家補助而有餘裕
       ref: 5/20粉絲頁
+    - content: 啟動「浪漫台三線」計劃，仿照德國串連26個特色小鎮發展觀光產業的「浪漫大道」，讓台三線成為串連各鄉鎮產業、文化、傳統和生活的客家產業復興大道。
+      ref: 7/13粉絲專頁
   - summary: ''
     debateArguments:
     - content: 積極建立與國際接軌的法規環境，引入資金與人才，並且確保開放之利益為全民所共享
