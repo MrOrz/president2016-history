@@ -1,5 +1,5 @@
 ﻿2016 總統大選承諾一覽表
-開放記名編輯（報名編輯請按我）・閱讀介面：http://hacktabl.org/president2016
+開放記名編輯（報名編輯請按我）・閱讀介面：http://hacktabl.org/president2016 ・公開版本記錄：https://github.com/MrOrz/president2016-history
 
 
 每個列點只陳述該候選人曾經表達過的政見，請務必附上來源，讓大家可以看原文。謝絕諷刺性／負面言論，如有需求請另外建立新的文件。
