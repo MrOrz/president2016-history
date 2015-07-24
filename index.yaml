@@ -1,7 +1,7 @@
 ---
 positionTitle:
-- <span class="c1">蔡英文</span>
-- <span class="c1">洪秀柱</span>
+- 蔡英文
+- 洪秀柱
 perspectives:
 - title: 兩岸、國際策略與國防
   positions:
@@ -109,6 +109,8 @@ perspectives:
       ref: 7/15 民進黨新聞稿
     - content: 解決光纖到府最後一里問題，確實普及 4G 網路建設，降低網路電信資費
       ref: 6/7粉絲頁
+    - content: 高鐵站沿線整體開發計畫，以利全台相互連結。
+      ref: 7/23民進黨新聞稿
   - summary: ''
     debateArguments: []
 - title: 公共安全、食品安全
@@ -134,7 +136,7 @@ perspectives:
   - summary: ''
     debateArguments:
     - content: 核四停建、核一、二、三不延役，2025 完成非核家園
-      ref: 4/18民進黨新聞稿
+      ref: 4/18民進黨新聞稿(連結已失效)
     - content: 再生能源總發電量從現在的 4% 提升到 20%、500 億度
       ref: 4/18民進黨新聞稿
     - content: 改革電業法，區隔電廠發、輸、配、售業務，扭轉電業經營與資訊被單一國營事業壟斷
@@ -153,6 +155,8 @@ perspectives:
       ref: 2013/9/6 粉絲頁
     - content: 原住民施政：落實原住民自治、部落農業轉向新型有機農業、健全台東交通、建構社區照顧系統
       ref: 6/26粉絲頁
+    - content: 以彩虹標誌支持美國釋憲通過同性婚姻合法，但對於台灣立法困境表示須持續社會對話。(出處 2015/6/27udn)
+      ref: ''
   - summary: ''
     debateArguments:
     - content: 廢死不可：美日韓仍保留死刑，廢死並非普世價值；明確廢死之歐盟國家與我國情不同。《兩公約》精神並無規定締約國必須立法廢死，僅希望審慎使用死刑並保障死刑犯人權。
