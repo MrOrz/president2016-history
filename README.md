@@ -7,8 +7,26 @@
 
 每一個 Google doc 的歷史記錄，都會做成 3 個檔案格式，各有參考價值：`index.html` 是網頁版（可以用瀏覽器[瀏覽最新版本](http://mrorz.github.io/president2016-history/)），`index.txt` 為純文字版，而 `index.yaml` 則是 human readable 的巢壯資料格式。每個 commit 的 email 與名字都有經過匿名化，同一個人做的變更，會用一樣的 email / 名字標注。
 
-Github 提供簡單的 compare view，可以顯示兩個版本之間的差異。
-Compare view 的 URL 格式為：
+
+比較兩個版本的差異
+--------------
+
+Github 提供簡單的 compare view，可以顯示兩個版本之間的差異。以下簡單從[官方文件](https://help.github.com/articles/comparing-commits-across-time/)摘錄。
+
+### 比較兩個 commit 版本之間的差異
+
+基本 Compare view 的 URL 格式為：
 `https://github.com/MrOrz/president2016-history/compare/舊版本SHA...新版本SHA`
 
 SHA 可以取前 6、7 碼即可，如 https://github.com/MrOrz/president2016-history/compare/37083dd...ef435a5 。
+
+另外，`版本` 後面可以接 n 個 `^` 字元，代表「該版本往前 n 個版本」。例如說
+ https://github.com/MrOrz/president2016-history/compare/HEAD^^^...HEAD^ 可以列出三個版本前～最新版本的前一個版本之間的所有差異。
+
+### 比較兩個時間點的差異
+
+branch 名字（gh-pages）後面可以接 `@{時間區間}`。下面這個 URL 可以列出一周前與現在的所有差異：
+
+`https://github.com/MrOrz/president2016-history/compare/gh-pages@{1week}...gh-pages`
+
+另外，也可以用 `@{YYYY-MM-DD}` 的方式指定特定日期，如 `https://github.com/MrOrz/president2016-history/compare/gh-pages@{2015-07-24}...gh-pages@{2015-07-26}` 就會列出 2015/7/24 到 7/26 之間的差異。
