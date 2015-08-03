@@ -179,7 +179,7 @@ perspectives:
       ref: 2013/8/1 粉絲頁
     - content: 推動「夥房日間照護中心」，活化使用各地客庄的夥房，讓客庄老人在地安養。
       ref: 2013/8/1 粉絲頁
-    - content: 振興客家公民社會，以台灣為據點，推動成立國際客家組織HI(Hakka International)，進行跨國交流，相互連結與合作。
+    - content: 以台灣為據點推動成立國際客家組織[h]，振興客家公民社會、進行跨國交流。
       ref: 2013/8/1 粉絲頁
   - summary: ''
     debateArguments:
@@ -191,7 +191,7 @@ perspectives:
       ref: 官網
     - content: 鄭重宣誓如果有任何不明的財產來源，接受等同貪腐的批判，以及良知與法律的最大懲罰
       ref: 官網
-    - content: 中國大陸配偶領身分證由「4+2」年將為 4 年[h]
+    - content: 中國大陸配偶領身分證由「4+2」年將為 4 年[i]
       ref: 6/7 中央社
 - title: 勞工權益
   positions:
@@ -211,7 +211,7 @@ perspectives:
       ref: 官網
     - content: 護理佐理員應納入醫院設置標準與醫院評鑑標準
       ref: 官網
-    - content: 修正勞基法§84-1[i]，檢討、限縮責任制適用人員，終極目標為完全禁止責任制
+    - content: 修正勞基法§84-1[j]，檢討、限縮責任制適用人員，終極目標為完全禁止責任制
       ref: 官網
     - content: 主張最低時薪由 120 元調升至 130 元
       ref: 官網
@@ -272,8 +272,11 @@ comments:
       Wikipedia「多元成家立法草案」：http://bit.ly/1Ii9T3e
   '8':
     type: NOTE
-    content: 4 年為其他國籍配偶的持證等候時間
+    content: HI, Hakka International
   '9':
+    type: NOTE
+    content: 4 年為其他國籍配偶的持證等候時間
+  '10':
     type: NOTE
     content: |-
       經中央主管機關核定公告之下列工作者，得由勞雇雙方另行約定，工作時
