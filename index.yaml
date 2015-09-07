@@ -394,7 +394,9 @@ perspectives:
     - content: 由行政院組成跨部會長期照顧推動小組[bx]，並由中央建置照顧管理資料庫系統[by]以利整合各縣市資訊。
       ref: 9/1 官網
   - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: 加速長照服務網的均衡佈建，
+      ref: ''
   - summary: ''
     debateArguments: []
 comments:
