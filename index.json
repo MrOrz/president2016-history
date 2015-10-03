@@ -5584,7 +5584,28 @@
               "level": 0,
               "children": [
                 {
-                  "text": "支持《能源稅法》支持減低碳排放的相關對策",
+                  "text": "支持《",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "能源稅法",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-10-03T17:34:54.000Z",
+                      "type": "NOTE",
+                      "text": "親民黨李桐豪委員的能源稅簡報： http://www.pfp.org.tw/thlee2116/li/upload/focus/%E8%83%BD%E6%BA%90%E7%A8%85%E6%A2%9D%E4%BE%8B%E8%88%87%E9%85%8D%E5%A5%97%E6%8E%AA%E6%96%BD.pdf"
+                    }
+                  ]
+                },
+                {
+                  "text": "》以經濟誘因與專款支持減低碳排放的相關對策",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -5592,7 +5613,20 @@
                 }
               ],
               "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -7826,7 +7860,7 @@
           "level": -1,
           "children": [
             {
-              "text": "勞工權益",
+              "text": "勞動權益",
               "isB": false,
               "isU": false,
               "isI": false,
