@@ -226,7 +226,9 @@ perspectives:
     - content: 加速 5G 網路建置
       ref: 9/1 官網投影片
   - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: 政府投資失敗之大型公共設施用地，進行政策評估後，改建為運動場地[出處]
+      ref: ''
 - title: 公共安全、食品安全
   positions:
   - summary: ''
