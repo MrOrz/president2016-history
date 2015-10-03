@@ -1307,13 +1307,36 @@
           "items": []
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "將固定比例的交通罰款收入用於補助市民搭乘大眾運輸",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         }
       ]
     },
@@ -3954,6 +3977,33 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "補助地方普設公車專用道、自行車道/橋、人行專用步到、路外停車場等設施",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -5367,7 +5417,184 @@
               "children": []
             }
           ],
-          "items": []
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "獎勵公車全面電動化",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "獎勵民間研究製造乾淨能源及交通工具；協助綠能產業升級",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "廣設電動汽機車、電動計程車與公車的充電站",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "全額補助計程車改裝瓦斯車所需設備；補助電動計程車的電池",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "獎勵並補助電動車共享、公共自行車",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "建構完善交通雲，推動智慧運輸，減少交通時間",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "支持《能源稅法》支持減低碳排放的相關對策",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            }
+          ]
         }
       ]
     },
@@ -5575,13 +5802,18 @@
           ]
         },
         {
-          "summaryParagraphs": [],
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
           "items": [
             {
               "level": 0,
               "children": [
                 {
-                  "text": "提出[32393](年)、[760億補助]3:每一嬰出生補助，全台每年20萬新生兒，一年約60億預算2: 1~2歲嬰兒津貼，全職母親每月2萬，交由祖父母、保母者補助5千，年預算420億3:3~5歲進行學齡前基本教育9:6~15歲進行9年國民教育3:16~18歲高中職分流，補助高職免學費",
+                  "text": "提出[32393](年)、[760億補助]3:3:3~5歲進行學齡前基本教育9:6~15歲進行9年國民教育3:16~18歲高中職分流，補助高職免學費",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -5591,7 +5823,7 @@
               "labels": [],
               "ref": [
                 {
-                  "text": "32393](年)、[760億補助]3:每一嬰出生補助，全台每年20萬新生兒，一年約60億預算2: 1~2歲嬰兒津貼，全職母親每月2萬，交由祖父母、保母者補助5千，年預算420億3:3~5歲進行學齡前基本教育9:6~15歲進行9年國民教育3:16~18歲高中職分流，補助高職免學費[出處 ",
+                  "text": "32393](年)、[760億補助]3:3:3~5歲進行學齡前基本教育9:6~15歲進行9年國民教育3:16~18歲高中職分流，補助高職免學費[出處 ",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -5602,6 +5834,33 @@
                   "runs": [
                     {
                       "text": "官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "注重偏遠地區的大眾運輸，強化路網接駁",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -8237,105 +8496,13 @@
       "colspan": 1,
       "cells": [
         {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            },
-            {
-              "level": -1,
-              "children": []
-            },
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
+          "summaryParagraphs": [],
           "items": [
             {
               "level": 0,
               "children": [
                 {
                   "text": "托育、長照、婦女就業三合一照顧政策，改善生育環境。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "提升社福預算"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150720083922/http://www.dpp.org.tw/news_content.php?sn=8014",
-                  "runs": [
-                    {
-                      "text": "7/18 民進黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "仿效",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "日韓訂定專法保障",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "陳俊良",
-                      "date": "2015-08-06T01:29:31.000Z",
-                      "type": "NOTE",
-                      "text": "( http://goo.gl/e5oTpP、 http://goo.gl/yDLH6R )\n應指日本在06年實施《改正高年齡者僱用安定法》，主要規定企業必須對高齡者實施：1.延長退休年齡，2.延長僱用，3.廢止退休制度三者擇一等階段性退休政策。另外《高齡社會對策基本法》和《社團法人全國銀髮人才資源中心》的成立，因應勞力結構老化，以及提供日增的中高齡人口自立生活的機會。"
-                    }
-                  ]
-                },
-                {
-                  "text": "中高齡就業者工作權。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "提升社福預算"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150720083922/http://www.dpp.org.tw/news_content.php?sn=8014",
-                  "runs": [
-                    {
-                      "text": "7/18 民進黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "高齡社會週邊軟硬設施作為產業看待，如培養服務員的管理調度 know how，以及研發照護輔具等。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -8569,803 +8736,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "增加",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "醫療保健相關部門預算",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-01T12:55:23.000Z",
-                      "type": "NOTE",
-                      "text": "成長經費適當分配制公共醫療體系、基層公衛人力、預防保健、緊急醫療、防疫、社區附件、弱勢族群健康等項目。"
-                    }
-                  ]
-                },
-                {
-                  "text": "，成長率不低於GDP成長率",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
-                  "runs": [
-                    {
-                      "text": "8/23官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "地方衛生所轉型為「",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "社區健康照護管理中心",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-04T07:36:44.000Z",
-                      "type": "NOTE",
-                      "text": "官網表示，「社區健康照護管理中心」其主要任務有三：第一，在地健康照護資源的盤點、轉介與連結。第二，進行社區高齡者的「健康照護管理」，針對每一個高齡民眾進行周全性健康需求評估與照護管理。第三，提供預防性健康服務以及在地、即時、便利的醫療服務，同時提供24小時健康照護諮詢。強化社區為基礎的健康照護能力，建立連續性的全人照護模式，重建社區健康照護體系質量與信任。"
-                    },
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-04T07:36:44.000Z",
-                      "type": "NOTE",
-                      "text": "新聞稿（ http://iing.tw/posts/80 ）指出，將發展以社區為基礎的健康照護團隊(community-based health care team)，向前銜接預防保健，向後發展在宅臨終安寧照顧。另外，社區照護之長照體系應透過民主審議、資訊公開之機制以確保優質服務品質。"
-                    }
-                  ]
-                },
-                {
-                  "text": "」，打造在地照護網絡",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
-                  "runs": [
-                    {
-                      "text": "8/23官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "在健保制度中加入經濟誘因，使轉診順暢；政府應建立共享資訊平台，以落實",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "雙向轉診",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-01T14:16:17.000Z",
-                      "type": "NOTE",
-                      "text": "讓基層院所的病人可以依照需要來轉診，也讓在醫學中心已經得到足夠治療的患者，可以回到地區醫院、或者社區診所回診。"
-                    }
-                  ]
-                },
-                {
-                  "text": "制度",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150901071458/http://iing.tw/posts/58",
-                  "runs": [
-                    {
-                      "text": "8/23官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "籌建國家級「",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "高齡健康與照護研究中心",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-01T12:58:44.000Z",
-                      "type": "NOTE",
-                      "text": "新聞稿內以高齡政策發展具有豐碩成果的日本為例，其於2004年成立「國立高齡醫學與老人學中心」（National Center for Geriatrics and Gerontology）， 透過地區醫院的轉型，結合醫院、政策與社會科學研究部門，作為創新照護服務模式發展的基地，除了進行高齡醫學的研究，也以創新的照護模式提供健康照護、教學等。"
-                    }
-                  ]
-                },
-                {
-                  "text": "」，結合醫學臨床與社會科學的社區與政策研究",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
-                  "runs": [
-                    {
-                      "text": "8/23官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "導入",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "組織性的癌症與慢性病篩檢體系",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-01T12:59:39.000Z",
-                      "type": "NOTE",
-                      "text": "官網表示：從登記、通知、服務、轉介、篩檢品質確保到成效評估改善的系統性管理。「健康平均餘命相關指標群」補充說明：包括：健康平均餘命、疾病負擔、經濟評估，篩檢管理、疾病管理及照護品質等涵蓋結構、過程與結果的指標，以持續監測、評估和改善計畫的成效。"
-                    }
-                  ]
-                },
-                {
-                  "text": "，並重整現有篩減服務，且將篩檢結果與全民健保的疾病管理連結。建立一組健康平均餘命相關指標群，早期預防慢性病。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
-                  "runs": [
-                    {
-                      "text": "8/23官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "健全化家庭醫師體系。強化偏遠地區、公醫體系與特殊醫療性質的公務預算。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
-                  "runs": [
-                    {
-                      "text": "8/23官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "全民健保費之徵收應依綜合所得稅申報戶之",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "實際所得徵收",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-03T10:51:11.000Z",
-                      "type": "NOTE",
-                      "text": "官網表示：對民眾每次受領一定金額（譬如一萬元）以上之各類所得，按其受領金額，依固定費率就源扣繳之；至結算時，再依綜合所得申報戶總所得（包括每次未達就源扣繳部分），以固定費率及每年應繳總保險費上、下限範圍內，多退少補之。"
-                    }
-                  ]
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
-                  "runs": [
-                    {
-                      "text": "8/23官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "廢除健保鎖卡制度",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-01T13:59:09.000Z",
-                      "type": "NOTE",
-                      "text": "新聞稿稱：不鎖卡政策雖有可能使欠費現象增加，但目前欠費之各項政府補助措施，則是由全民租稅負擔之增加來支應，兩者結果一致。"
-                    }
-                  ]
-                },
-                {
-                  "text": "以保障弱勢",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
-                  "runs": [
-                    {
-                      "text": "8/23官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "修改採購法規，撥用部分採購來購買",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "庇護工場",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-15T13:59:18.000Z",
-                      "type": "NOTE",
-                      "text": "官網以唐寶寶庇護工場為例。"
-                    }
-                  ]
-                },
-                {
-                  "text": "的產品，並且與庇護工場的生產配合",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150915065828/http://iing.tw/posts/71",
-                  "runs": [
-                    {
-                      "text": "8/28 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "替三十歲後就提前老化的唐寶寶與其他障礙者，檢討社會保險年金發放與退休的規範",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150915065828/http://iing.tw/posts/71",
-                  "runs": [
-                    {
-                      "text": "8/28 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
-                  "runs": [
-                    {
-                      "text": "9/2官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "8年完成20萬戶只租不賣的社會住宅，且採無障礙設計",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150916032213/http://iing.tw/posts/76",
-                  "runs": [
-                    {
-                      "text": "8/30 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "長照十年2.0版",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-09-03T13:45:15.000Z",
-                      "type": "NOTE",
-                      "text": "官網：實現在地老化，提供從支持家庭、居家、社區到機構式照顧的多元連續服務，普及照顧服務體系。(1)將臺灣的長期照顧體系從支持家庭照顧者、到宅服務、居家醫護、日間照顧、短期臨託、餐食服務、交通接送、團體家屋（group home）、機構式照顧等基礎建設完成。"
-                    },
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-03T13:45:15.000Z",
-                      "type": "NOTE",
-                      "text": "( http://goo.gl/E2wvY4)\n目前政府推動的長照計畫由《長照服務法》、《長照保險法》二法構成。預計於105年起推動《長照量能提升計畫》以達銜接97年以來的《長期照顧十年計畫》、《長照服務網計畫》。"
-                    }
-                  ]
-                },
-                {
-                  "text": "：建構住宅化、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "社區化",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-09-03T22:31:49.000Z",
-                      "type": "NOTE",
-                      "text": "新聞稿稱：發展社區整合型服務中心。以社區為單位提供多元的照顧服務，包括到宅服務、居家護理、日間照顧、短期臨托等等。最重要的目標就是透過社區型的服務中心讓老人可以在地安養、在地老化。(1)社區照顧之長照體系應透過民主審議、資訊公開透明之機制，確保優質服務品質。"
-                    }
-                  ]
-                },
-                {
-                  "text": "的長照服務體系。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/80",
-                  "runs": [
-                    {
-                      "text": "9/1 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": " ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://iing.tw/posts/81",
-                  "runs": [
-                    {
-                      "text": "9/1新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "長照體系財源採",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "稅收制",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-09-03T01:11:57.000Z",
-                      "type": "NOTE",
-                      "text": "新聞稿稱：(1)初期預計以指定稅收300億元加上公務預算30億元做為穩定財源，優先挹注非營利機構。據官網：(2)由國家以指定稅收辦理長期照顧服務，可避免附加於健保收取長照保費，增加薪資階級負擔。(3)漸進式推動長照財源成長，將有足夠時間建立照顧服務體系與培養照顧人力。"
-                    }
-                  ]
-                },
-                {
-                  "text": "而非",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "保險制",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-03T10:29:41.000Z",
-                      "type": "NOTE",
-                      "text": "新聞稿指出，保險制可以讓政府比較輕鬆，但平價、普及的服務體系尚未建立，人民拿到現金給付也很難買到好的服務；長照保險的出現，甚至可能引誘市場哄抬價格。"
-                    }
-                  ]
-                },
-                {
-                  "text": "，實施初期的穩定財源來自",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "指定稅收",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-03T10:45:16.000Z",
-                      "type": "NOTE",
-                      "text": "亦即「指定用途稅」（Earmarked tax），政府徵收此類稅之後必須用於特定用途，跟其他稅收分開管理記賬。例如「菸品健康福利捐」必須用於醫療與菸害防治等用途，以及「金融營業稅」必須用於解決金融問題等等。\n「指定用途稅」設計得當時，具有「使用者付費」的精神，但也有缺乏彈性、設計失當時會導致資源配置錯誤等等缺點。\n（延伸閱讀： http://bit.ly/1hAWo4n 、 http://bit.ly/1hAXf54 ）"
-                    }
-                  ]
-                },
-                {
-                  "text": "加公務預算共330億元。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/81",
-                  "runs": [
-                    {
-                      "text": "9/1新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "培訓",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "長期照顧服務人力",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-09-03T01:05:45.000Z",
-                      "type": "NOTE",
-                      "text": "官網：(1)包括訓練照顧服務員、社會工作、護理、物理治療、職能治療、營養等人員。(2)照顧管理專員納入專門職業及技術人員的考試。(3)外籍配偶納入長照人力的培育。(4)大專院校老人服務、長期照護等科系所學生納入長期照顧人力，期使教、訓、用有效銜接。(5)提升長期照顧服務的職業價值與社會地位，保障其勞動條件與人身安全。"
-                    }
-                  ]
-                },
-                {
-                  "text": "，將照顧管理專員納入專門職業及技術人員考試。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/80",
-                  "runs": [
-                    {
-                      "text": "9/1 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "由行政院組成",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "跨部會長期照顧推動小組",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-09-03T22:28:46.000Z",
-                      "type": "NOTE",
-                      "text": "據官網：整合衛生、社會福利、退輔等部門服務，發展以服務使用者為中心的（service user centered）服務體系，排除部門各自為政的弊端。"
-                    }
-                  ]
-                },
-                {
-                  "text": "，並由中央建置",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "照顧管理資料庫系統",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-09-03T22:28:35.000Z",
-                      "type": "NOTE",
-                      "text": "據官網：成立類似「人口、健康及社會保障研究中心」建置長期照顧資料以利整合各縣市資訊系統。(1)非營利、營利、準營利服務單位均應納入管理與監督(政府財源應優先用於擴大非營利組織所提供的長期照顧服務)。(2)發展更精確的需求評估工具，以利實現以需求評估結果作為服務的依據，避免資源浪費。"
-                    }
-                  ]
-                },
-                {
-                  "text": "以利整合各縣市資訊。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/80",
-                  "runs": [
-                    {
-                      "text": "9/1 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "強化身心障礙者提早老化與平均餘命等研究，作為政策規劃基礎；發展適合不同障礙類別、年齡、性別的體適能活動並提供營養咨詢；提供女性障礙者足夠資訊與支持，維護她們的生育權利與健康",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
-                  "runs": [
-                    {
-                      "text": "9/2 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },
@@ -9381,155 +8751,6 @@
             }
           ],
           "items": [
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "鼓勵企業加薪：",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "中小企業替基層員工加薪，雇主可以抵稅",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-08-19T22:32:18.000Z",
-                      "type": "NOTE",
-                      "text": "官網圖表內說明，此政策方案與希拉蕊在 2015.7.13 發表之《成長與公平經濟》演講中提到的政策方案，在額度與機制設計上類似。"
-                    }
-                  ]
-                },
-                {
-                  "text": "「加薪數額」的",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": " 200% ~ 130%，可連續扣抵 3 年",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-08-19T22:35:56.000Z",
-                      "type": "NOTE",
-                      "text": "舉例而言，如果中小企業基層員工年薪每增加10000元，雇主在第1年可扣稅 10000 元的 200％ (20,000 元)，第2年可扣稅 16,000元，第3年可扣稅 13,000元，可以連續提報3年，希望中小企業主會更有誘因為員工加薪。\n今年行政院修正之《中小企業發展條例》則是固定以加薪數額 130% 扣稅。"
-                    }
-                  ]
-                },
-                {
-                  "text": "；未來將加入防護機制，避免單一企業減稅太多。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "提升社福預算",
-                "經濟誘因"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150819152110/http://www.theway.best/2015/08/1040816.html",
-                  "runs": [
-                    {
-                      "text": "8/16官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "鼓勵增聘失業青年：增聘 29 歲以下失業者為新員工時，雇主可抵稅所付出薪資的 150%",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "提升社福預算"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150819152110/http://www.theway.best/2015/08/1040816.html",
-                  "runs": [
-                    {
-                      "text": "8/16官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "員工加薪企業抵稅之稅收損失有限：估計",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "對稅收之淨影響",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-08-19T22:43:22.000Z",
-                      "type": "NOTE",
-                      "text": "這裡用固定抵稅 130% 之加薪數額的行政院現行方案來估計，並且考量消費增加與外溢效果帶來的稅收增加，與對雇主的稅收減少互相抵消。"
-                    }
-                  ]
-                },
-                {
-                  "text": "為損失 0.64 億，但可鼓勵加薪與刺激景氣。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150819152110/http://www.theway.best/2015/08/1040816.html",
-                  "runs": [
-                    {
-                      "text": "8/16官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "level": 0,
               "children": [
@@ -9575,236 +8796,6 @@
                   "runs": [
                     {
                       "text": "8/25官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "積極發展長照創新服務，特別是在地的居家、社區服務，並鼓勵發展多元的自費照顧服務供民眾選擇",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150907120112/http://www.theway.best/2015/08/1040825_25.html",
-                  "runs": [
-                    {
-                      "text": "8/25官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "推動長照保險確保長照財源",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150907120112/http://www.theway.best/2015/08/1040825_25.html",
-                  "runs": [
-                    {
-                      "text": "8/25官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "設立「國家職能給力學院」，擴增現有每年 10 萬人的訓練能量；鼓勵現有大專院校加入陣容，發給結業證書",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
-                  "runs": [
-                    {
-                      "text": "8/28官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "各行政區的青年就業站擴大轉型為「職能給力站」",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
-                  "runs": [
-                    {
-                      "text": "8/28官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "國家職能給力學院除考核設備師資外，也考核結業者的就業與薪資成果",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
-                  "runs": [
-                    {
-                      "text": "8/28官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "39歲以下、失業達13週者，可隨失業補助領取給力券，憑卷選課並全程完成「職能給力站」課程者，學費全免",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
-                  "runs": [
-                    {
-                      "text": "8/28官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "訓練機構與廠商簽約，通過職能鑑定者保證就業；通過高階鑑定者，保證平均月薪不低於4萬元",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
-                  "runs": [
-                    {
-                      "text": "8/28官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "修改就業保險法§12-3，提升保險費用在被保險人的在職訓練、失業職訓與創業協助等措施的",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "比例",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-14T14:28:34.000Z",
-                      "type": "NOTE",
-                      "text": "原本就業保險法§12-3 僅提撥 10% 的應收保險費用在上列地方，洪欲將比例提升到 20%。\n全國法規資料庫 就業保險法第12條：http://bit.ly/1QzBj6D"
-                    }
-                  ]
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
-                  "runs": [
-                    {
-                      "text": "8/28官網",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -9921,6 +8912,344 @@
                 }
               ]
             },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "成立教育專業輔導基金，由教師組成委員會自主管理，獨立於年金之外，使教師退休後仍有保障",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://www.pfp.org.tw/Article_Show.asp?id=1865",
+                  "runs": [
+                    {
+                      "text": "官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "level": -1,
+          "children": [
+            {
+              "text": "社會福利---老年人",
+              "isB": false,
+              "isU": false,
+              "isI": false,
+              "comments": []
+            }
+          ]
+        }
+      ],
+      "colspan": 1,
+      "cells": [
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            },
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "仿效",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "日韓訂定專法保障",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "陳俊良",
+                      "date": "2015-08-06T01:29:31.000Z",
+                      "type": "NOTE",
+                      "text": "( http://goo.gl/e5oTpP、 http://goo.gl/yDLH6R )\n應指日本在06年實施《改正高年齡者僱用安定法》，主要規定企業必須對高齡者實施：1.延長退休年齡，2.延長僱用，3.廢止退休制度三者擇一等階段性退休政策。另外《高齡社會對策基本法》和《社團法人全國銀髮人才資源中心》的成立，因應勞力結構老化，以及提供日增的中高齡人口自立生活的機會。"
+                    }
+                  ]
+                },
+                {
+                  "text": "中高齡就業者工作權。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "提升社福預算"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150720083922/http://www.dpp.org.tw/news_content.php?sn=8014",
+                  "runs": [
+                    {
+                      "text": "7/18 民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "高齡社會週邊軟硬設施作為產業看待，如培養服務員的管理調度 know how，以及研發照護輔具等。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "提升社福預算"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150720083922/http://www.dpp.org.tw/news_content.php?sn=8014",
+                  "runs": [
+                    {
+                      "text": "7/18 民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "籌建國家級「",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "高齡健康與照護研究中心",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-01T12:58:44.000Z",
+                      "type": "NOTE",
+                      "text": "新聞稿內以高齡政策發展具有豐碩成果的日本為例，其於2004年成立「國立高齡醫學與老人學中心」（National Center for Geriatrics and Gerontology）， 透過地區醫院的轉型，結合醫院、政策與社會科學研究部門，作為創新照護服務模式發展的基地，除了進行高齡醫學的研究，也以創新的照護模式提供健康照護、教學等。"
+                    }
+                  ]
+                },
+                {
+                  "text": "」，結合醫學臨床與社會科學的社區與政策研究",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
+                  "runs": [
+                    {
+                      "text": "8/23官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "長照十年2.0版",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-09-03T13:45:15.000Z",
+                      "type": "NOTE",
+                      "text": "官網：實現在地老化，提供從支持家庭、居家、社區到機構式照顧的多元連續服務，普及照顧服務體系。(1)將臺灣的長期照顧體系從支持家庭照顧者、到宅服務、居家醫護、日間照顧、短期臨託、餐食服務、交通接送、團體家屋（group home）、機構式照顧等基礎建設完成。"
+                    },
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-03T13:45:15.000Z",
+                      "type": "NOTE",
+                      "text": "( http://goo.gl/E2wvY4)\n目前政府推動的長照計畫由《長照服務法》、《長照保險法》二法構成。預計於105年起推動《長照量能提升計畫》以達銜接97年以來的《長期照顧十年計畫》、《長照服務網計畫》。"
+                    }
+                  ]
+                },
+                {
+                  "text": "：建構住宅化、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "社區化",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-09-03T22:31:49.000Z",
+                      "type": "NOTE",
+                      "text": "新聞稿稱：發展社區整合型服務中心。以社區為單位提供多元的照顧服務，包括到宅服務、居家護理、日間照顧、短期臨托等等。最重要的目標就是透過社區型的服務中心讓老人可以在地安養、在地老化。(1)社區照顧之長照體系應透過民主審議、資訊公開透明之機制，確保優質服務品質。"
+                    }
+                  ]
+                },
+                {
+                  "text": "的長照服務體系。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/80",
+                  "runs": [
+                    {
+                      "text": "9/1 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://iing.tw/posts/81",
+                  "runs": [
+                    {
+                      "text": "9/1新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "summaryParagraphs": [],
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "積極發展長照創新服務，特別是在地的居家、社區服務，並鼓勵發展多元的自費照顧服務供民眾選擇",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150907120112/http://www.theway.best/2015/08/1040825_25.html",
+                  "runs": [
+                    {
+                      "text": "8/25官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "推動長照保險確保長照財源",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150907120112/http://www.theway.best/2015/08/1040825_25.html",
+                  "runs": [
+                    {
+                      "text": "8/25官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "summaryParagraphs": [],
+          "items": [
             {
               "level": 0,
               "children": [
@@ -10238,12 +9567,54 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "level": -1,
+          "children": [
+            {
+              "text": "社會福利---幼兒",
+              "isB": false,
+              "isU": false,
+              "isI": false,
+              "comments": []
+            }
+          ]
+        }
+      ],
+      "colspan": 1,
+      "cells": [
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [],
+          "items": [
             {
               "level": 0,
               "children": [
                 {
-                  "text": "成立教育專業輔導基金，由教師組成委員會自主管理，獨立於年金之外，使教師退休後仍有保障",
+                  "text": "每一嬰出生補助，全台每年20萬新生兒，一年約60億預算",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -10252,6 +9623,33 @@
               ],
               "labels": [],
               "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "1~2歲嬰兒津貼，全職母親每月2萬，交由祖父母、保母者補助5千，年預算420億",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://www.pfp.org.tw/Article_Show.asp?id=1865",
+                  "runs": [
+                    {
+                      "text": "官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -10263,7 +9661,149 @@
           "level": -1,
           "children": [
             {
-              "text": "社會安全與社會福利---老年人",
+              "text": "社會福利---身心障礙者",
+              "isB": false,
+              "isU": false,
+              "isI": false,
+              "comments": []
+            }
+          ]
+        }
+      ],
+      "colspan": 1,
+      "cells": [
+        {
+          "summaryParagraphs": [],
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "替三十歲後就提前老化的唐寶寶與其他障礙者，檢討社會保險年金發放與退休的規範",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150915065828/http://iing.tw/posts/71",
+                  "runs": [
+                    {
+                      "text": "8/28 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
+                  "runs": [
+                    {
+                      "text": "9/2官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "8年完成20萬戶只租不賣的社會住宅，且採無障礙設計",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150916032213/http://iing.tw/posts/76",
+                  "runs": [
+                    {
+                      "text": "8/30 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "強化身心障礙者提早老化與平均餘命等研究，作為政策規劃基礎；發展適合不同障礙類別、年齡、性別的體適能活動並提供營養咨詢；提供女性障礙者足夠資訊與支持，維護她們的生育權利與健康",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
+                  "runs": [
+                    {
+                      "text": "9/2 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "level": -1,
+          "children": [
+            {
+              "text": "社會福利---失業及薪資問題",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -10284,13 +9824,334 @@
           "items": []
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "設立「國家職能給力學院」，擴增現有每年 10 萬人的訓練能量；鼓勵現有大專院校加入陣容，發給結業證書",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
+                  "runs": [
+                    {
+                      "text": "8/28官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "各行政區的青年就業站擴大轉型為「職能給力站」",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
+                  "runs": [
+                    {
+                      "text": "8/28官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "國家職能給力學院除考核設備師資外，也考核結業者的就業與薪資成果",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
+                  "runs": [
+                    {
+                      "text": "8/28官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "39歲以下、失業達13週者，可隨失業補助領取給力券，憑卷選課並全程完成「職能給力站」課程者，學費全免",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
+                  "runs": [
+                    {
+                      "text": "8/28官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "訓練機構與廠商簽約，通過職能鑑定者保證就業；通過高階鑑定者，保證平均月薪不低於4萬元",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
+                  "runs": [
+                    {
+                      "text": "8/28官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "修改就業保險法§12-3，提升保險費用在被保險人的在職訓練、失業職訓與創業協助等措施的",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "比例",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-14T14:28:34.000Z",
+                      "type": "NOTE",
+                      "text": "原本就業保險法§12-3 僅提撥 10% 的應收保險費用在上列地方，洪欲將比例提升到 20%。\n全國法規資料庫 就業保險法第12條：http://bit.ly/1QzBj6D"
+                    }
+                  ]
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
+                  "runs": [
+                    {
+                      "text": "8/28官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "鼓勵企業加薪：",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "中小企業替基層員工加薪，雇主可以抵稅",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-08-19T22:32:18.000Z",
+                      "type": "NOTE",
+                      "text": "官網圖表內說明，此政策方案與希拉蕊在 2015.7.13 發表之《成長與公平經濟》演講中提到的政策方案，在額度與機制設計上類似。"
+                    }
+                  ]
+                },
+                {
+                  "text": "「加薪數額」的",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": " 200% ~ 130%，可連續扣抵 3 年",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-08-19T22:35:56.000Z",
+                      "type": "NOTE",
+                      "text": "舉例而言，如果中小企業基層員工年薪每增加10000元，雇主在第1年可扣稅 10000 元的 200％ (20,000 元)，第2年可扣稅 16,000元，第3年可扣稅 13,000元，可以連續提報3年，希望中小企業主會更有誘因為員工加薪。\n今年行政院修正之《中小企業發展條例》則是固定以加薪數額 130% 扣稅。"
+                    }
+                  ]
+                },
+                {
+                  "text": "；未來將加入防護機制，避免單一企業減稅太多。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "提升社福預算",
+                "經濟誘因"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150819152110/http://www.theway.best/2015/08/1040816.html",
+                  "runs": [
+                    {
+                      "text": "8/16官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "鼓勵增聘失業青年：增聘 29 歲以下失業者為新員工時，雇主可抵稅所付出薪資的 150%",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "提升社福預算"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150819152110/http://www.theway.best/2015/08/1040816.html",
+                  "runs": [
+                    {
+                      "text": "8/16官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "員工加薪企業抵稅之稅收損失有限：估計",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "對稅收之淨影響",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-08-19T22:43:22.000Z",
+                      "type": "NOTE",
+                      "text": "這裡用固定抵稅 130% 之加薪數額的行政院現行方案來估計，並且考量消費增加與外溢效果帶來的稅收增加，與對雇主的稅收減少互相抵消。"
+                    }
+                  ]
+                },
+                {
+                  "text": "為損失 0.64 億，但可鼓勵加薪與刺激景氣。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150819152110/http://www.theway.best/2015/08/1040816.html",
+                  "runs": [
+                    {
+                      "text": "8/16官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [
@@ -10309,7 +10170,7 @@
           "level": -1,
           "children": [
             {
-              "text": "社會安全與社會福利---幼兒",
+              "text": "醫療資源改革",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -10321,59 +10182,544 @@
       "colspan": 1,
       "cells": [
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        },
-        {
-          "summaryParagraphs": [
+              "level": 0,
+              "children": [
+                {
+                  "text": "長照體系財源採",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "稅收制",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-09-03T01:11:57.000Z",
+                      "type": "NOTE",
+                      "text": "新聞稿稱：(1)初期預計以指定稅收300億元加上公務預算30億元做為穩定財源，優先挹注非營利機構。據官網：(2)由國家以指定稅收辦理長期照顧服務，可避免附加於健保收取長照保費，增加薪資階級負擔。(3)漸進式推動長照財源成長，將有足夠時間建立照顧服務體系與培養照顧人力。"
+                    }
+                  ]
+                },
+                {
+                  "text": "而非",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "保險制",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-03T10:29:41.000Z",
+                      "type": "NOTE",
+                      "text": "新聞稿指出，保險制可以讓政府比較輕鬆，但平價、普及的服務體系尚未建立，人民拿到現金給付也很難買到好的服務；長照保險的出現，甚至可能引誘市場哄抬價格。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，實施初期的穩定財源來自",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "指定稅收",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-03T10:45:16.000Z",
+                      "type": "NOTE",
+                      "text": "亦即「指定用途稅」（Earmarked tax），政府徵收此類稅之後必須用於特定用途，跟其他稅收分開管理記賬。例如「菸品健康福利捐」必須用於醫療與菸害防治等用途，以及「金融營業稅」必須用於解決金融問題等等。\n「指定用途稅」設計得當時，具有「使用者付費」的精神，但也有缺乏彈性、設計失當時會導致資源配置錯誤等等缺點。\n（延伸閱讀： http://bit.ly/1hAWo4n 、 http://bit.ly/1hAXf54 ）"
+                    }
+                  ]
+                },
+                {
+                  "text": "加公務預算共330億元。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/81",
+                  "runs": [
+                    {
+                      "text": "9/1新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
             {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        },
-        {
-          "summaryParagraphs": [
+              "level": 0,
+              "children": [
+                {
+                  "text": "培訓",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "長期照顧服務人力",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-09-03T01:05:45.000Z",
+                      "type": "NOTE",
+                      "text": "官網：(1)包括訓練照顧服務員、社會工作、護理、物理治療、職能治療、營養等人員。(2)照顧管理專員納入專門職業及技術人員的考試。(3)外籍配偶納入長照人力的培育。(4)大專院校老人服務、長期照護等科系所學生納入長期照顧人力，期使教、訓、用有效銜接。(5)提升長期照顧服務的職業價值與社會地位，保障其勞動條件與人身安全。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，將照顧管理專員納入專門職業及技術人員考試。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/80",
+                  "runs": [
+                    {
+                      "text": "9/1 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
             {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "level": -1,
-          "children": [
+              "level": 0,
+              "children": [
+                {
+                  "text": "由行政院組成",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "跨部會長期照顧推動小組",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-09-03T22:28:46.000Z",
+                      "type": "NOTE",
+                      "text": "據官網：整合衛生、社會福利、退輔等部門服務，發展以服務使用者為中心的（service user centered）服務體系，排除部門各自為政的弊端。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，並由中央建置",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "照顧管理資料庫系統",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-09-03T22:28:35.000Z",
+                      "type": "NOTE",
+                      "text": "據官網：成立類似「人口、健康及社會保障研究中心」建置長期照顧資料以利整合各縣市資訊系統。(1)非營利、營利、準營利服務單位均應納入管理與監督(政府財源應優先用於擴大非營利組織所提供的長期照顧服務)。(2)發展更精確的需求評估工具，以利實現以需求評估結果作為服務的依據，避免資源浪費。"
+                    }
+                  ]
+                },
+                {
+                  "text": "以利整合各縣市資訊。[出處 9/1 官網]增加",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "醫療保健相關部門預算",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-01T12:55:23.000Z",
+                      "type": "NOTE",
+                      "text": "成長經費適當分配制公共醫療體系、基層公衛人力、預防保健、緊急醫療、防疫、社區附件、弱勢族群健康等項目。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，成長率不低於GDP成長率",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
+                  "runs": [
+                    {
+                      "text": "8/23官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
             {
-              "text": "社會安全與社會福利---失業",
-              "isB": false,
-              "isU": false,
-              "isI": false,
-              "comments": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "地方衛生所轉型為「",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "社區健康照護管理中心",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-04T07:36:44.000Z",
+                      "type": "NOTE",
+                      "text": "官網表示，「社區健康照護管理中心」其主要任務有三：第一，在地健康照護資源的盤點、轉介與連結。第二，進行社區高齡者的「健康照護管理」，針對每一個高齡民眾進行周全性健康需求評估與照護管理。第三，提供預防性健康服務以及在地、即時、便利的醫療服務，同時提供24小時健康照護諮詢。強化社區為基礎的健康照護能力，建立連續性的全人照護模式，重建社區健康照護體系質量與信任。"
+                    },
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-04T07:36:44.000Z",
+                      "type": "NOTE",
+                      "text": "新聞稿（ http://iing.tw/posts/80 ）指出，將發展以社區為基礎的健康照護團隊(community-based health care team)，向前銜接預防保健，向後發展在宅臨終安寧照顧。另外，社區照護之長照體系應透過民主審議、資訊公開之機制以確保優質服務品質。"
+                    }
+                  ]
+                },
+                {
+                  "text": "」，打造在地照護網絡",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
+                  "runs": [
+                    {
+                      "text": "8/23官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "在健保制度中加入經濟誘因，使轉診順暢；政府應建立共享資訊平台，以落實",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "雙向轉診",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-01T14:16:17.000Z",
+                      "type": "NOTE",
+                      "text": "讓基層院所的病人可以依照需要來轉診，也讓在醫學中心已經得到足夠治療的患者，可以回到地區醫院、或者社區診所回診。"
+                    }
+                  ]
+                },
+                {
+                  "text": "制度",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150901071458/http://iing.tw/posts/58",
+                  "runs": [
+                    {
+                      "text": "8/23官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "導入",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "組織性的癌症與慢性病篩檢體系",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-01T12:59:39.000Z",
+                      "type": "NOTE",
+                      "text": "官網表示：從登記、通知、服務、轉介、篩檢品質確保到成效評估改善的系統性管理。「健康平均餘命相關指標群」補充說明：包括：健康平均餘命、疾病負擔、經濟評估，篩檢管理、疾病管理及照護品質等涵蓋結構、過程與結果的指標，以持續監測、評估和改善計畫的成效。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，並重整現有篩減服務，且將篩檢結果與全民健保的疾病管理連結。建立一組健康平均餘命相關指標群，早期預防慢性病。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
+                  "runs": [
+                    {
+                      "text": "8/23官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "健全化家庭醫師體系。強化偏遠地區、公醫體系與特殊醫療性質的公務預算。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
+                  "runs": [
+                    {
+                      "text": "8/23官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "全民健保費之徵收應依綜合所得稅申報戶之",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "實際所得徵收",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-03T10:51:11.000Z",
+                      "type": "NOTE",
+                      "text": "官網表示：對民眾每次受領一定金額（譬如一萬元）以上之各類所得，按其受領金額，依固定費率就源扣繳之；至結算時，再依綜合所得申報戶總所得（包括每次未達就源扣繳部分），以固定費率及每年應繳總保險費上、下限範圍內，多退少補之。"
+                    }
+                  ]
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
+                  "runs": [
+                    {
+                      "text": "8/23官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "廢除健保鎖卡制度",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-01T13:59:09.000Z",
+                      "type": "NOTE",
+                      "text": "新聞稿稱：不鎖卡政策雖有可能使欠費現象增加，但目前欠費之各項政府補助措施，則是由全民租稅負擔之增加來支應，兩者結果一致。"
+                    }
+                  ]
+                },
+                {
+                  "text": "以保障弱勢",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
+                  "runs": [
+                    {
+                      "text": "8/23官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "修改採購法規，撥用部分採購來購買",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "庇護工場",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-15T13:59:18.000Z",
+                      "type": "NOTE",
+                      "text": "官網以唐寶寶庇護工場為例。"
+                    }
+                  ]
+                },
+                {
+                  "text": "的產品，並且與庇護工場的生產配合",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150915065828/http://iing.tw/posts/71",
+                  "runs": [
+                    {
+                      "text": "8/28 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
-        }
-      ],
-      "colspan": 1,
-      "cells": [
-        {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
         },
         {
           "summaryParagraphs": [
