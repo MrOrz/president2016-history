@@ -255,7 +255,11 @@ perspectives:
   - summary: ''
     debateArguments: []
   - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: 建立統一的校園安全通報系統，整合教育、警政、社會、輔導......等等系統，使校方能迅速處理毒品、黑道、霸凌等校園安全事件。
+      ref: ''
+    - content: ''
+      ref: ''
 - title: 能源與環境
   positions:
   - summary: ''
@@ -564,6 +568,16 @@ perspectives:
       ref: 9/13粉絲頁
     - content: 各縣市社會局主導成立跨局處的專案小組，從寬認定協助老人的服務事項
       ref: 9/13粉絲頁
+    - content: 成立教育專業輔導基金，由教師組成委員會自主管理，獨立於年金之外，使教師退休後仍有保障
+      ref: ''
+- title: 體育政策
+  positions:
+  - summary: ''
+    debateArguments: []
+  - summary: ''
+    debateArguments: []
+  - summary: ''
+    debateArguments: []
 comments:
   '1':
     type: NOTE
