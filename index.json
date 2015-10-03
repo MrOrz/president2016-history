@@ -2413,9 +2413,116 @@
             {
               "level": -1,
               "children": []
+            },
+            {
+              "level": -1,
+              "children": []
             }
           ],
-          "items": []
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "獎勵民間研究製造乾淨能源及交通工具；協助綠能產業升級",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "建立綠能專區，改造專區內所有房舍為綠建築，召集綠能環保廠商進駐，作為體驗行銷的綠能商業示範區",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "修改",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "現行建築法令",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-10-03T19:36:12.000Z",
+                      "type": "NOTE",
+                      "text": "包含:建築技術規則、都市計劃......等"
+                    }
+                  ]
+                },
+                {
+                  "text": "，如規定每棟房屋的綠屋頂比例、新能源比例，推動植栽產業、太陽能產業等相關綠能產業，有望技術輸出到國外",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -4004,6 +4111,33 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "建立綠能教育中心，實驗性修正法規，成熟後再向全台灣推廣",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -5415,6 +5549,10 @@
             {
               "level": -1,
               "children": []
+            },
+            {
+              "level": -1,
+              "children": []
             }
           ],
           "items": [
@@ -5423,33 +5561,6 @@
               "children": [
                 {
                   "text": "獎勵公車全面電動化",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
-                  "runs": [
-                    {
-                      "text": "親民黨政策專區",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "獎勵民間研究製造乾淨能源及交通工具；協助綠能產業升級",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -5606,6 +5717,54 @@
                 },
                 {
                   "text": "》以經濟誘因與專款支持減低碳排放的相關對策",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "選定",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "台灣風景名勝",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-10-03T18:26:43.000Z",
+                      "type": "NOTE",
+                      "text": "原文舉例: 安平區、太魯閣、日月潭、九份、旗津哈瑪星、八里以及離島區域"
+                    }
+                  ]
+                },
+                {
+                  "text": "作為示範區，讓大眾運輸、自行車、電動車、新能源車種優先進入",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -5914,7 +6073,7 @@
           "level": -1,
           "children": [
             {
-              "text": "人權、平等與公平正義---死刑",
+              "text": "公平正義——死刑",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -5990,7 +6149,7 @@
           "level": -1,
           "children": [
             {
-              "text": "人權、平等與公平正義---身心障礙者",
+              "text": "公平正義——身心障礙者",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -6305,7 +6464,7 @@
           "level": -1,
           "children": [
             {
-              "text": "人權、平等與公平正義---婚姻",
+              "text": "公平正義——婚姻",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -6447,7 +6606,7 @@
           "level": -1,
           "children": [
             {
-              "text": "人權、平等與公平正義---客家族群",
+              "text": "公平正義——客家族群",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -6810,7 +6969,7 @@
           "level": -1,
           "children": [
             {
-              "text": "人權、平等與公平正義---原住民族群",
+              "text": "公平正義——原住民族群",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -7292,7 +7451,7 @@
           "level": -1,
           "children": [
             {
-              "text": "人權、平等與公平正義---新住民",
+              "text": "公平正義——新住民",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -7443,19 +7602,7 @@
           "level": -1,
           "children": [
             {
-              "text": "人權、平等與",
-              "isB": false,
-              "isU": false,
-              "isI": false,
-              "comments": []
-            }
-          ]
-        },
-        {
-          "level": -1,
-          "children": [
-            {
-              "text": "公平正義---居住權",
+              "text": "公平正義——居住權",
               "isB": false,
               "isU": false,
               "isI": false,
