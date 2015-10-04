@@ -2085,13 +2085,15 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [

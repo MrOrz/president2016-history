@@ -142,7 +142,9 @@ perspectives:
     - content: "[農業與農民]落實「農地農用」原則[n]，讓農民不需國家補助而有餘裕"
       ref: 5/20粉絲頁
   - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: ''
+      ref: ''
   - summary: ''
     debateArguments: []
 - title: "經濟——綠能產業"
