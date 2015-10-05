@@ -8037,6 +8037,33 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "發行住宅公益彩券，以每年200億到250億的收入，作為長期穩定財源",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://www.youtube.com/watch?v=LYD7LdDj82w",
+                  "runs": [
+                    {
+                      "text": "新聞",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
