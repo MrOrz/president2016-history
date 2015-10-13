@@ -1516,6 +1516,194 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "亞洲矽谷計畫",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-15T20:03:43.000Z",
+                      "type": "NOTE",
+                      "text": "據10/1官網：亞洲矽谷計畫，是一個網絡的概念。\n1. 跟過去的科學園區或工業園區是不一樣的，並不是要引進大規模的製造活動，也不需要非常多的土地。\n2. 我們要做的，是讓產業、學術與研究單位，能夠有適當的環境，可以彼此交流和支援，同時引進國際資源，形成一個有助於創新的生態體系。\n據10/2新聞稿：\n亞洲矽谷初期的土地，包括捷運A19站周邊及國際創業村之位置。"
+                    }
+                  ]
+                },
+                {
+                  "text": " (屬於「",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "未來產業",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-13T21:02:46.000Z",
+                      "type": "NOTE",
+                      "text": "據10/1官網，未來產業包括：IoT產品（物聯網產業）、Big Data、智慧化生產－也就是工業4.0，以及尖端國防科技。"
+                    }
+                  ]
+                },
+                {
+                  "text": "」)：依據「",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "面對在地",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-13T22:12:42.000Z",
+                      "type": "NOTE",
+                      "text": "據10/1官網：面對在地：讓台灣的智慧應用、物聯網的供應鏈可以強化。\n1. 台灣廠商的製造與研發能力，結合矽谷的技術、資金和人才，形成一個具有高度創新能力的世界級供應鏈。\n2. 讓矽谷企業與本土企業合作，選定不同城市，在台灣發展智慧城市，投入智慧物流、交通、健康照護等建設，作為物聯網與大數據應用的實驗場域（demo site)。\n3. 成果：提升台灣廠商技術，台灣民眾也享受到便利的科技生活；進一步把整套系統行銷全世界。"
+                    }
+                  ]
+                },
+                {
+                  "text": "」與「",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "朝向國際",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-14T21:07:59.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，朝向國際指得是，讓台灣成為亞太創新交流樞紐。\n1. 在桃園機場旁建構的「亞洲創新研發人才交流中心」，與矽谷的創新交流中心緊密聯繫，保持雙邊的同步。\n2. 大專院校國際化，鼓勵世界各國年輕人來台灣學習；透過台灣育成系統幫助他們在台灣創業，為解決從初期募資、發展產品到上市櫃過程的所有問題，將成立「亞洲青年創新IPO中心」以提供系統性協助；並媒合矽谷資深人才，讓台灣創業者與美國西岸的天使基金及創投交流，讓台灣創新事業的資本市場跟世界連結起來。"
+                    }
+                  ]
+                },
+                {
+                  "text": "」兩條軸線，亞洲矽谷以桃園為中心，串聯北北基竹與台中，創造物聯網及智慧應用的研發與產業效益，扮演台灣產官學創新部門與矽谷(甚至全球)創新交流與接軌的角色。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/159",
+                  "runs": [
+                    {
+                      "text": "10/1官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2 民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "亞洲矽谷計劃有四大功能，人才交流中心、和矽谷成為合作夥伴、研發中心與試驗場域，以及成為亞洲的青年IPO中心。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8233&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/1民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://iing.tw/posts/161",
+                  "runs": [
+                    {
+                      "text": "10/1投影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2 民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
