@@ -1598,7 +1598,28 @@
                   ]
                 },
                 {
-                  "text": "」兩條軸線，亞洲矽谷以桃園為中心，串聯北北基竹與台中，創造物聯網及智慧應用的研發與產業效益，扮演台灣產官學創新部門與矽谷(甚至全球)創新交流與接軌的角色。",
+                  "text": "」兩條軸線，亞洲矽谷以",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "桃園",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-13T22:51:26.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，桃園在交通、人力、產業、研發體系，都具備很好的基礎。\n1. 交通：距離亞洲五大城市，也就是香港、上海、首爾、東京、新加坡，飛行距離都不到三小時，是在一個中心點的位置。\n2. 產業：桃園現在有29個工業區，1萬多家工廠，供應鏈相當完整，完全可以支應「智慧產業」、「未來產業」的發展。\n3. 研發：桃園距離新竹的資通訊產業聚落，以及台北的軟體產業和企業總部，都是一個小時以內的車程；對於一個新創公司、或者一個年輕創業者，如果他有一個產品的新想法，想要找工廠合作，開發試產，桃園可以說是完美的地點。\n3. 人力：桃園也有六都中，最年輕的人口，也有涵蓋多元面向的高等教育體系，而且，大多數的學科教育，都可以跟產業緊密接軌。無論是工程師，或是專業經理人，各種有學習能力、敢拼、想衝的專業人才，都可以找得到。"
+                    }
+                  ]
+                },
+                {
+                  "text": "為中心，串聯北北基竹與台中，創造物聯網及智慧應用的研發與產業效益，扮演台灣產官學創新部門與矽谷(甚至全球)創新交流與接軌的角色。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -1644,7 +1665,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "亞洲矽谷計劃有四大功能，人才交流中心、和矽谷成為合作夥伴、研發中心與試驗場域，以及成為亞洲的青年IPO中心。",
+                  "text": "亞洲矽谷計畫打造台灣成為亞洲人才的舞台、成為科技創新創業的基地：1. 政府高層領銜積極招商：成立單一推動窗口，與矽谷創投或投資公司合作，引進矽谷具有潛力的企業直接到桃園駐點。2. 與國會配合改善法規：放寬高階技術人才簽證及移民條件，完善天使基金、創投及IPO的機制。合理化薪資所得稅率、鬆綁學校以及師生，參與創業的相關規範。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -1654,10 +1675,10 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8233&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "href": "http://iing.tw/posts/159",
                   "runs": [
                     {
-                      "text": "10/1民進黨新聞稿",
+                      "text": "10/1官網",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -1677,6 +1698,54 @@
                   "runs": [
                     {
                       "text": "10/1投影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "亞洲矽谷計劃有四大功能，人才交流中心、和矽谷成為合作夥伴、研發中心與",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "試驗場域",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-13T23:00:01.000Z",
+                      "type": "NOTE",
+                      "text": "據10/2新聞稿：桃園航空城，將做為智慧應用的研發及試驗場域。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，以及成為亞洲的青年IPO中心。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8233&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/1民進黨新聞稿",
                       "isB": false,
                       "isU": false,
                       "isI": false,
