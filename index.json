@@ -1686,7 +1686,7 @@
                   ]
                 },
                 {
-                  "text": "。合理化薪資所得稅率、鬆綁學校以及師生，參與創業的相關規範。[出處10/1官網] [註解出處10/1投影片 10/2 民進黨新聞稿]",
+                  "text": "。合理化薪資所得稅率、鬆綁學校以及師生，參與創業的相關規範。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -1694,7 +1694,58 @@
                 }
               ],
               "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/159",
+                  "runs": [
+                    {
+                      "text": "10/1官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://iing.tw/posts/161",
+                  "runs": [
+                    {
+                      "text": "10/1投影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2 民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
