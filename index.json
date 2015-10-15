@@ -4508,18 +4508,34 @@
       "colspan": 1,
       "cells": [
         {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
+          "summaryParagraphs": [],
           "items": [
             {
               "level": 0,
               "children": [
                 {
-                  "text": "設立毒物與有害化學物質管制機構，追蹤有害物質，進行源頭管控",
+                  "text": "設立毒物與有害化學物質管制機構，追蹤有害物質，進行源頭管控 [出處 7/3 粉絲頁] 新創「",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "毒物管理機構",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-15T22:05:25.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿：台灣的食品安全管理，其實有太多疊床架屋，農藥的檢驗是農委會，上市後的檢驗是衛服部，汙染農地卻是環保署，所以應該要有一個專責的機構來統籌，管理會比較有效率。"
+                    }
+                  ]
+                },
+                {
+                  "text": "」（食安五環之一）[出處 10/15官網]",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -4531,10 +4547,10 @@
               ],
               "ref": [
                 {
-                  "href": "https://www.facebook.com/tsaiingwen/photos/a.390960786064.163647.46251501064/10152782719271065/",
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8268&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
                     {
-                      "text": "7/3 粉絲頁",
+                      "text": "10/15民進黨新聞稿",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -4598,7 +4614,28 @@
               "level": 0,
               "children": [
                 {
-                  "text": "政府查驗進口食品、上市上架食品之數量增為現在的十倍",
+                  "text": "政府查驗進口食品、上市上架食品之數量增為現在的十倍  [出處 7/3 粉絲頁] 可由高等教育或財團法人來執行增加的",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "檢驗件數",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-15T22:08:27.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿：1. 目前日本一年至少檢驗27萬件農產品，台灣卻只有1萬2千件，日本的農業大概是台灣的三倍，但檢驗數卻遠超過我們。\n2. 台灣在台大、中興大學都有相關的生物科技檢驗技術人員，未來若增加檢驗件數，可透過高等教育或財團法人來執行，人力方面不會有任何問題。更重要的是，這樣的做法，可以助益我國在農業生物科技產業的發展，甚至把這個技術推廣至全球。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，人力無虞之外，更可助益農業生物科技產業發展。[出處 10/15民進黨新聞稿]（食安五環之三）",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -4610,10 +4647,10 @@
               ],
               "ref": [
                 {
-                  "href": "https://www.facebook.com/tsaiingwen/photos/a.390960786064.163647.46251501064/10152782719271065/",
+                  "href": "http://iing.tw/posts/191",
                   "runs": [
                     {
-                      "text": "7/3 粉絲頁",
+                      "text": "10/15官網",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -4627,7 +4664,28 @@
               "level": 0,
               "children": [
                 {
-                  "text": "修改食安法，加重生產者的法律與賠償責任",
+                  "text": "修改食安法，加重生產者的法律與賠償責任 [出處 7/3 粉絲頁]；但政府對於中小微型的食品業者，需負起教育與輔導的責任。（食安五環之四）[出處 10/15官網] 修法明令通路商也需負責；在",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "食品身分",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-15T21:45:40.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿：台灣沒有食品標準的定義，所以如果添加了很多不同的成分或是油去做成食品的時候，台灣的CNS是沒有強制力的，當產品無法證明會對健康造成危害時，就無法證明他是犯罪的。"
+                    }
+                  ]
+                },
+                {
+                  "text": "有強制力的法也必須加進來。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -4639,10 +4697,10 @@
               ],
               "ref": [
                 {
-                  "href": "https://www.facebook.com/tsaiingwen/photos/a.390960786064.163647.46251501064/10152782719271065/",
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8268&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
                     {
-                      "text": "7/3 粉絲頁",
+                      "text": "10/15民進黨新聞稿",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -4656,7 +4714,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "設立食安高額檢舉獎金，全民監督",
+                  "text": "設立食安高額檢舉獎金，全民監督 [出處 7/3 粉絲頁] 並嚴密的保護檢舉者的資訊與安全。（食安五環之五）",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -4668,10 +4726,22 @@
               ],
               "ref": [
                 {
-                  "href": "https://www.facebook.com/tsaiingwen/photos/a.390960786064.163647.46251501064/10152782719271065/",
+                  "href": "http://iing.tw/posts/191",
                   "runs": [
                     {
-                      "text": "7/3 粉絲頁",
+                      "text": "10/15官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8268&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/15民進黨新聞稿",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -4685,7 +4755,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "加強食安教育",
+                  "text": "加強食安教育 [出處 7/3 粉絲頁] 政府提供更多的資訊跟知識，讓民眾知道如何做正確的選擇。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -4695,10 +4765,10 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "https://www.facebook.com/tsaiingwen/photos/a.390960786064.163647.46251501064/10152782719271065/",
+                  "href": "http://iing.tw/posts/191",
                   "runs": [
                     {
-                      "text": "7/3 粉絲頁",
+                      "text": "10/15官網",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -4906,6 +4976,108 @@
                   "runs": [
                     {
                       "text": "8/23官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "建立生產履歷，從源頭將每一個生產階段資訊做紀錄並公開；簡化認證標章並與國際接軌。（食安五環之二）",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/191",
+                  "runs": [
+                    {
+                      "text": "10/15官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "改善食品生產的",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "環境",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-15T20:24:40.000Z",
+                      "type": "NOTE",
+                      "text": "據官網：包括空氣、土壤與水源，都是打造「健康飲食生活」的要素；要徹底改善食安，也應該從食品生產的環境改善、有效杜絕汙染來著手。"
+                    }
+                  ]
+                },
+                {
+                  "text": "、杜絕汙染。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/191",
+                  "runs": [
+                    {
+                      "text": "10/15官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "政府主動輔導中小型農業生產者，鼓勵使用友善環境的耕作方式，完成產業的轉型，提高產品的附加價值。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/191",
+                  "runs": [
+                    {
+                      "text": "10/15官網",
                       "isB": false,
                       "isU": false,
                       "isI": false,
