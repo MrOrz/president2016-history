@@ -2378,6 +2378,33 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "政府輔導中小型農業生產者使用友善環境的耕作方式，完成產業轉型並提高附加價值。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/191",
+                  "runs": [
+                    {
+                      "text": "10/15官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -5197,33 +5224,6 @@
                 },
                 {
                   "text": "、杜絕汙染。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/191",
-                  "runs": [
-                    {
-                      "text": "10/15官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "政府主動輔導中小型農業生產者，鼓勵使用友善環境的耕作方式，完成產業的轉型，提高產品的附加價值。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
