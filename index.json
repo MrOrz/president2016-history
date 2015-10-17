@@ -1903,6 +1903,123 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "「五大創新研發計畫」：第一是以台南沙崙為中心的「綠能研發中心」；第二是以台北的資安、台中的航太及高雄的船艦作為中心的「國防產業聚落」；第三是以物聯網及智慧產品產業為中心，坐落在桃園的「亞洲矽谷計劃」；第四是從中研院所在的南港園區、到竹北生醫園區至台南科學園區，形成線狀聚落的「生技產業聚落」；第五是選在精密機械產業發展最好的台中，未來加上ICT及資訊產業，發展「智慧精密機械聚落」。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8237&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "創投業打通任督二脈，帶動產業創新的源頭活水。(一) 擴大",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "壽險業資金",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T12:49:54.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿：壽險資金在本質上，非常適合拿來做長期投資。\n1. 投資公共服務及新創事業，對國內經濟發展可以帶來正向循環的力量。"
+                    }
+                  ]
+                },
+                {
+                  "text": "的投資運用(二) 研議讓退休基金投資於創投 (三) 國發基金和民間業者合組大型創投 (四) 發展",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "科技創新版",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T12:48:07.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿：讓新創事業、尤其是中小型科技事業，在資本市場中有暢通的直接籌資管道。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，鬆綁科技創新事業的掛牌 (五) 適度允許",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "銀行",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T12:49:20.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿：在銀行融資方面，由於過去國內的工業銀行都已經轉型，成為以中、短期融資為主要業務的商業銀行，這項改變，削弱了產業發展所仰賴的中長期資金與股權融資。未來如果能夠仿照美國矽谷銀行的做法，提高銀行提供貸款給新創事業及中小企業的政策誘因，只要能夠好好落實對金融業分級管理的金融監督制度，在不牴觸產金分離原則下，應該可以適度地允許銀行，在提供貸款給新創事業及中小企業的同時，擁有以債轉股的選擇權。"
+                    }
+                  ]
+                },
+                {
+                  "text": "給新創事業的貸款得以債轉股。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8237&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
