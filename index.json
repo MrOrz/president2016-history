@@ -10164,7 +10164,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "「五大社會安定計畫」的「治安維護」，要讓孩子的成長，免於暴力的威脅；要在家庭、學校以及任何地方，保障兒童人身安全。",
+                  "text": "「治安維護」：要讓孩子的成長，免於暴力的威脅；要在家庭、學校以及任何地方，保障兒童人身安全。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -11270,54 +11270,6 @@
                   "runs": [
                     {
                       "text": "9/2 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "對於",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "身心障礙學生",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T20:48:40.000Z",
-                      "type": "NOTE",
-                      "text": "官網提及，「只有障礙的環境，沒有障礙的人」。"
-                    }
-                  ]
-                },
-                {
-                  "text": "，要提供多元入學的管道。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/171",
-                  "runs": [
-                    {
-                      "text": "10/4官網",
                       "isB": false,
                       "isU": false,
                       "isI": false,
