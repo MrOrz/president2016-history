@@ -1528,14 +1528,14 @@
                   "comments": [
                     {
                       "author": "溫智媛",
-                      "date": "2015-10-15T20:03:43.000Z",
+                      "date": "2015-10-17T10:27:36.000Z",
                       "type": "NOTE",
-                      "text": "據10/1官網：亞洲矽谷計畫，是一個網絡的概念。\n1. 跟過去的科學園區或工業園區是不一樣的，並不是要引進大規模的製造活動，也不需要非常多的土地。\n2. 我們要做的，是讓產業、學術與研究單位，能夠有適當的環境，可以彼此交流和支援，同時引進國際資源，形成一個有助於創新的生態體系。\n據10/2新聞稿：\n亞洲矽谷初期的土地，包括捷運A19站周邊及國際創業村之位置。"
+                      "text": "據10/1官網：亞洲矽谷計畫，是一個網絡的概念。\n1. 跟過去的科學園區或工業園區是不一樣的，並不是要引進大規模的製造活動，也不需要非常多的土地。\n2. 我們要做的，是讓產業、學術與研究單位，能夠有適當的環境，可以彼此交流和支援，同時引進國際資源，形成一個有助於創新的生態體系。"
                     }
                   ]
                 },
                 {
-                  "text": " (屬於「",
+                  "text": "(屬於「",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -1619,7 +1619,28 @@
                   ]
                 },
                 {
-                  "text": "為中心，串聯北北基竹與台中，創造物聯網及智慧應用的研發與產業效益，扮演台灣產官學創新部門與矽谷(甚至全球)創新交流與接軌的角色。",
+                  "text": "為中心，串聯北北基竹與台中，創造物聯網及智慧應用的研發與產業效益，扮演台灣產官學創新部門(含",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "國家級投資機構",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T10:15:06.000Z",
+                      "type": "NOTE",
+                      "text": "據10/2新聞稿：\nA. 國家級投資公司將有民間參與，在組織形式、資金來源、規模、功能和國發基金不盡相同（未來國發基金也可以評估投資轉型為國家級投資公司）。\nB. 國家級機構主要是分擔風險與媒合：1.有國家級投資機構「領投」、信用擔保，會讓更多民間創投公司願意投資；2.國家級機構目的並非牟利，也不是要跟民間搶商機。假設國際科技公司若願意來台投資，但要求相對擔保投資，降低風險，國家級機構可以協助媒合。"
+                    }
+                  ]
+                },
+                {
+                  "text": ")，與矽谷(甚至全球)創新交流與接軌的角色。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -1651,7 +1672,7 @@
                   "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
                     {
-                      "text": "10/2 民進黨新聞稿",
+                      "text": "10/2民進黨新聞稿",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -1665,28 +1686,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "亞洲矽谷計畫打造台灣成為亞洲人才的舞台、成為科技創新創業的基地：1. 政府高層領銜積極招商：成立單一推動窗口，與矽谷創投或投資公司合作，引進矽谷具有潛力的企業直接到桃園駐點。2. 與國會配合改善法規：放寬高階技術人才簽證及移民條件，",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "完善天使基金、創投及IPO的機制",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-14T22:22:32.000Z",
-                      "type": "NOTE",
-                      "text": "據10/1投影片，亞洲青年IPO中心：1.消弭創業者與天使、創投間訊息不對稱：落實閉鎖期法規的開放精神，以協助創業者度過前期募資（天使、A輪、B輪）的高風險與死亡低谷。\n2. 降低興櫃門檻與交易成本，不要求於一定期間上市櫃的規定，進而打造活絡的興櫃市場。\n[補充說明]據10/2新聞稿：國家級投資公司將有民間參與，在組織形式、資金來源、規模、功能和國發基金不盡相同（未來國發基金也可以評估投資轉型為國家級投資公司）。\n國家級機構主要是分擔風險與媒合：1.有國家級投資機構「領投」、信用擔保，會讓更多民間創投公司願意投資；2.國家級機構目的並非牟利，也不是要跟民間搶商機。假設國際科技公司若願意來台投資，但要求相對擔保投資，降低風險，國家級機構可以協助媒合。"
-                    }
-                  ]
-                },
-                {
-                  "text": "。合理化薪資所得稅率、鬆綁學校以及師生，參與創業的相關規範。",
+                  "text": "亞洲矽谷計畫執行基地設立於桃園航空城高鐵A19站周邊，銜接幼獅國際青年創業村。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -1696,10 +1696,10 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/159",
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
                     {
-                      "text": "10/1官網",
+                      "text": "10/2民進黨新聞稿",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -1725,6 +1725,75 @@
                       "comments": []
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "亞洲矽谷計畫打造台灣成為亞洲人才的舞台、適合科技創新創業的基地：1. 政府高層領銜",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "積極招商",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T09:52:04.000Z",
+                      "type": "NOTE",
+                      "text": "10/1投影片：政府成立單一推動窗口，與矽谷創投或投資公司合作，引進矽谷具有潛力的企業直接到桃園駐點。"
+                    }
+                  ]
+                },
+                {
+                  "text": "。2. 與國會配合",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "改善法規",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T09:48:19.000Z",
+                      "type": "NOTE",
+                      "text": "據官網：放寬高階技術人才簽證及移民條件，完善天使基金、創投及IPO的機制。合理化薪資所得稅率、鬆綁學校以及師生參與創業的相關規範。"
+                    }
+                  ]
+                },
+                {
+                  "text": "。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/159",
+                  "runs": [
+                    {
+                      "text": "10/1官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 },
                 {
                   "text": " ",
@@ -1737,7 +1806,7 @@
                   "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
                     {
-                      "text": "10/2 民進黨新聞稿",
+                      "text": "10/2民進黨新聞稿",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -1751,28 +1820,49 @@
               "level": 0,
               "children": [
                 {
-                  "text": "亞洲矽谷計劃有四大功能，人才交流中心、和矽谷成為合作夥伴、IOT與智慧應用的",
+                  "text": "亞洲矽谷計劃有四大功能，",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
                 },
                 {
-                  "text": "研發中心與試驗場域",
+                  "text": "人才交流中心",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": [
                     {
                       "author": "溫智媛",
-                      "date": "2015-10-13T23:00:01.000Z",
+                      "date": "2015-10-17T10:33:00.000Z",
                       "type": "NOTE",
-                      "text": "據10/2新聞稿：桃園航空城，將做為智慧應用的研發及試驗場域。"
+                      "text": "據投影片：連結矽谷(舊金山機場旁)的Global Innovation Center，於桃園機場旁建構亞洲創新研發人才交流中心。"
                     }
                   ]
                 },
                 {
-                  "text": "，以及成為亞洲的青年IPO中心。",
+                  "text": "、和矽谷成為合作夥伴、IOT與智慧應用的研發中心與試驗場域，以及成為",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "亞洲青年IPO中心",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T10:35:09.000Z",
+                      "type": "NOTE",
+                      "text": "據10/1投影片：連結矽谷創投與市場(以色列模式 to Nasdaq)，發展亞洲青年IPO中心(Nasdaq+1)：\n1.消弭創業者與天使、創投間訊息不對稱：落實閉鎖期法規的開放精神，以協助創業者度過前期募資（天使、A輪、B輪）的高風險與死亡低谷。\n2. 降低興櫃門檻與交易成本，不要求於一定期間上市櫃的規定，進而打造活絡的興櫃市場。"
+                    }
+                  ]
+                },
+                {
+                  "text": "。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -1801,10 +1891,10 @@
                   "comments": []
                 },
                 {
-                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "href": "http://iing.tw/posts/161",
                   "runs": [
                     {
-                      "text": "10/2 民進黨新聞稿",
+                      "text": "10/1投影片",
                       "isB": false,
                       "isU": false,
                       "isI": false,
