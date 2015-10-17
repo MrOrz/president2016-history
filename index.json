@@ -2609,6 +2609,33 @@
               "level": 0,
               "children": [
                 {
+                  "text": "「先到世界上找出市場，再回頭做生產規畫」的新型強勢農業計畫。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=5&start_p=1&act=&sn=8227&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "9/27民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
                   "text": "政府輔導中小型農業生產者使用友善環境的耕作方式，完成產業轉型並提高附加價值。",
                   "isB": false,
                   "isU": false,
