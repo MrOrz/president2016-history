@@ -8551,7 +8551,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "「居住政策」：1.租屋市場的健全，首先需完善租屋的法律制度。2.",
+                  "text": "「居住政策」：1.租屋市場的健全，首先需完善租屋的法律制度。2.八年內辦理20萬戶只租不售的",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -8572,7 +8572,7 @@
                   ]
                 },
                 {
-                  "text": "：8年內辦理20萬戶只租不售的社會住宅，青年與弱勢優先。",
+                  "text": "，青年與弱勢優先。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -8585,7 +8585,7 @@
                   "href": "http://iing.tw/posts/157",
                   "runs": [
                     {
-                      "text": "9/30官網(含短片與投影片)",
+                      "text": "9/30官網(短片與投影片)",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -8599,7 +8599,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "社會住宅的實現將透過",
+                  "text": "發展社會住宅可透過",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -8641,7 +8641,7 @@
                   ]
                 },
                 {
-                  "text": "(10~20%)，與容積獎勵(20~30%)。",
+                  "text": "(10~20%)與容積獎勵(20~30%)。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -8654,13 +8654,20 @@
                   "href": "http://iing.tw/posts/157",
                   "runs": [
                     {
-                      "text": "9/30官網(投影片)",
+                      "text": "9/30官網",
                       "isB": false,
                       "isU": false,
                       "isI": false,
                       "comments": []
                     }
                   ]
+                },
+                {
+                  "text": "(投影片)",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
                 }
               ]
             },
@@ -8668,7 +8675,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "「房市治理政策」包含市場資訊健全化、市場活動制度化、稅制合理化，首重資訊透明(例如落實實價登錄機制)避免炒作。",
+                  "text": "「房市治理政策」包含市場資訊健全化、市場活動制度化、稅制合理化；首重資訊透明(例如落實實價登錄機制)避免炒作。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -10077,6 +10084,162 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "年金改革必須是漸進式的改革，召開協商平台，精算過程資訊公開透明。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/158",
+                  "runs": [
+                    {
+                      "text": "9/30官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "經濟弱勢家庭的小孩，將成立個人的「",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "教育儲蓄發展帳戶",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-18T10:11:26.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，芝加哥大學經濟學家赫克曼（James Heckman），諾貝爾經濟獎得主，但提出來的都是教育問題。他的研究發現，用政府的資源投入弱勢兒童的學前教育，可以讓他們將來有更好的發展機會，也可以減少將來的社會福利支出。"
+                    }
+                  ]
+                },
+                {
+                  "text": "」：初步每年存入一萬五，一部份來自於家長或善心人士，一部份來自於中央政府預算，提供優惠的利息，累積到孩子滿18歲可作為一筆教育基金。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/171",
+                  "runs": [
+                    {
+                      "text": "10/4官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "「五大社會安定計畫」的「治安維護」，要讓孩子的成長，免於暴力的威脅；要在家庭、學校以及任何地方，保障兒童人身安全。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/171",
+                  "runs": [
+                    {
+                      "text": "10/4官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "完善學校的輔導和通報系統，在前端預防暴力發生，而不是事後的補救。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/171",
+                  "runs": [
+                    {
+                      "text": "10/4官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "弱勢的、高風險的家庭，需增加社工的質與量。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/171",
+                  "runs": [
+                    {
+                      "text": "10/4官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -11115,6 +11278,54 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "對於",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "身心障礙學生",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T20:48:40.000Z",
+                      "type": "NOTE",
+                      "text": "官網提及，「只有障礙的環境，沒有障礙的人」。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，要提供多元入學的管道。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/171",
+                  "runs": [
+                    {
+                      "text": "10/4官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -12111,28 +12322,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "推動制定",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "體育團體法",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-16T14:39:17.000Z",
-                      "type": "NOTE",
-                      "text": "官網表示，目前我國體育團體都是由人民團體法來管理，造成人才留不住、社會資源投入意願低、缺乏市場競爭能力；而日本協會則多屬財團法人組織。"
-                    }
-                  ]
-                },
-                {
-                  "text": "，並輔導體育團體朝企業化經營",
+                  "text": "推動制定體育團體法，並輔導體育團體朝企業化經營",
                   "isB": false,
                   "isU": false,
                   "isI": false,
