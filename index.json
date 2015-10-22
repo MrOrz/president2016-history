@@ -10116,7 +10116,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "經濟弱勢家庭的小孩，將成立個人的「",
+                  "text": "替經濟弱勢家庭的小孩成立個人「",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -10137,7 +10137,28 @@
                   ]
                 },
                 {
-                  "text": "」：家長、善心人士與中央政府每年存入一萬五並提供優惠利息，作為滿18歲的教育基金。",
+                  "text": "」：家長、善心人士與中央政府",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "每年存入一萬五",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-10-22T11:27:59.000Z",
+                      "type": "NOTE",
+                      "text": "官網舉例：若政府給一萬五，家長或社會幫助他另外一萬五，一年就可以存3萬，先把時間因素等排除的話，18年就有54萬。"
+                    }
+                  ]
+                },
+                {
+                  "text": "並提供優惠利息，作為滿18歲的教育基金。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -12970,7 +12991,7 @@
           "level": -1,
           "children": [
             {
-              "text": "洪秀柱",
+              "text": "洪秀柱→朱立倫",
               "isB": false,
               "isU": false,
               "isI": false,
