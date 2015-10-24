@@ -576,15 +576,13 @@
           ]
         },
         {
-          "summaryParagraphs": [],
-          "items": [
+          "summaryParagraphs": [
             {
-              "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": []
+              "level": -1,
+              "children": []
             }
-          ]
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
