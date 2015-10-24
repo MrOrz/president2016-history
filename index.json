@@ -2242,7 +2242,28 @@
               "level": 0,
               "children": [
                 {
-                  "text": "發行全台通用的iTaiwan Pass樂愛台灣觀光卡，提升消費便利；開發多國語言介面的iTaiwan Pass APP。方便加值、景點查詢，亦可綁定個資以利緊急就醫或護照遺失。",
+                  "text": "發行全台通用的",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "iTaiwan Pass樂愛台灣觀光卡",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:41:55.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿，針對國際旅客，和悠遊卡、一卡通來合作，發行一個叫做「iTaiwan Pass」的觀光卡。外國旅客可以直接利用外幣來儲值，而且是透過手機app就可以馬上儲值， 消費變得更方便，觀光產值就會倍增。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，提升消費便利；開發多國語言介面的iTaiwan Pass APP。方便加值、景點查詢，亦可綁定個資以利緊急就醫或護照遺失。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -2269,7 +2290,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "共享經濟模式讓全民一起做觀光：檢討放寬旅宿法規，開放接待家庭住宿服務；非都市地區開放Uber乘車服務。",
+                  "text": "全民共享的觀光經濟：放寬旅宿法規，開放家庭住宿；非都市地區開放Uber乘車服務。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -2296,7 +2317,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "海洋觀光：各大港口投資發展亞洲郵輪觀光路線；閒置商、漁港也可重新規劃為觀光重鎮；結合在地居民、在地建築師，打造在地特色的觀光港口與水岸勝地帶動港區經濟。企業化管理統籌全台港埠資源。",
+                  "text": "海洋觀光：1.各大港口投資發展亞洲郵輪觀光路線；2.閒置商、漁港也可重新規劃為觀光重鎮；3.結合在地居民、在地建築師，打造在地特色的觀光港口與水岸勝地帶動港區經濟。4.企業化管理統籌全台港埠資源。5.夏天觀光遊憩、冬天舉辦競技活動（如風帆賽）及教育培訓。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -2323,196 +2344,70 @@
               "level": 0,
               "children": [
                 {
-                  "text": "夏天觀光遊憩、冬天舉辦競技活動（如風帆賽）及教育培訓。",
+                  "text": "成立",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
+                },
                 {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
+                  "text": "北中南東四個觀光區域工作圈",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
                     {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:36:28.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿，目前國際自由行的觀光客，有83%會到台北觀光，但是只有1/3的旅客到訪其他縣市，全台灣也只有8個縣市的到訪率超過18%。"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
+                },
                 {
-                  "text": "成立北中南東四個觀光區域工作圈，促進區域內的縣市合作發展觀光。",
+                  "text": "，",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
+                },
                 {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
+                  "text": "區域內各縣市",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
                     {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:36:14.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿，中央政府需整合區域內所有縣市，規劃特色廟宇、古蹟、文化活動、慶典的深度觀光路線與行銷。\n例如：桃竹苗台三線、和南部美濃的客家文化，各地區的原住民文化，花東縱谷跟海岸線，高屏的海洋氣息，我來自南台灣，我知道我的家鄉屏東楓港有漂亮的海岸線，除了這些地方以外，在南部還可以到高雄可以去享受南部都會風情，同時我們也可以到高雄縣享受客家和農村的傳統文化，這其實本身就很值得花好幾天在那邊的地方，台南和鹿港的古都歷史，雲嘉南的田園農村、中部的台鐵舊山線和溼地，如果細心雕琢，都有國際觀光的價值，可以來規劃深度的旅程，讓旅客體驗在地生活，而不只是走馬看花。"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
+                },
                 {
-                  "text": "扶植旅行社發展入境觀光業務（尤其是區域深度觀光業務）。",
+                  "text": "合作發展觀光。扶植旅行社的區域深度入境觀光業務。各地展覽須結合",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
+                },
                 {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "地方政府辦理活動應優先由業者提出地區回饋方案，加強地方特色與節慶活動的行銷。",
+                  "text": "地區特色",
                   "isB": false,
                   "isU": false,
                   "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
+                  "comments": [
                     {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:48:29.000Z",
+                      "type": "OTHER",
+                      "text": "據官網，北部發展電子展、中部發展精密機械與觀光休閒展、南部可發展精緻農業與遊艇展、東部可藉由召開國際會議結合獎勵旅遊發展觀光。"
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
+                },
                 {
-                  "text": "區域整備工作需建立「觀光承載分析」與「觀光政策環評」制度，發展永續觀光。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "陸客：增加自由行、優質團、高端團配額，減少低價團，並設計原有配額以外的簽證專案，例如農村觀光簽證配額。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "藉由簽證審核機制調節陸客觀光地區和路線，並重新設計團客的觀光行程，運用「景點預約、時段限量、收費管制、交通分流、航線分配」等管理措施，分區、分時、分流，紓解熱門景點人潮擁擠與交通壅塞壓力。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "分配北中南東航線的進出比例，分散各地觀光人潮。",
+                  "text": "。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -2558,7 +2453,124 @@
               "level": 0,
               "children": [
                 {
-                  "text": "鼓勵在區域內深度觀光的陸客，再次來台時優先配發簽證。",
+                  "text": "區域整備工作需建立「觀光承載分析」與「觀光政策環評」制度，發展永續觀光。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/102",
+                  "runs": [
+                    {
+                      "text": "9/10官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "陸客：減少低價團，增加",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "自由行、優質團",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:29:09.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，鼓勵在區域內深度觀光的陸客，再次來台時優先配發簽證。"
+                    }
+                  ]
+                },
+                {
+                  "text": "、高端團配額，設計",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "簽證專案",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:21:32.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，針對陸客來台，將設計原有配額以外的簽證專案，例如農村觀光簽證配額。"
+                    }
+                  ]
+                },
+                {
+                  "text": "。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/102",
+                  "runs": [
+                    {
+                      "text": "9/10官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "透過簽證審核機制調節陸客觀光地區和路線，",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "分區、分時、分流",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:25:52.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，需要重新設計團客的觀光行程，並運用「景點預約、時段限量、收費管制、交通分流、航線分配」等管理措施。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，紓解熱門景點人潮與交通。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -2613,54 +2625,6 @@
               "children": [
                 {
                   "text": "與亞馬遜、阿里巴巴共享消費數據與付款紀錄分析，讓每位旅客收到客製化的消費行銷資訊。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "展覽須結合",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "地區特色",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-24T15:59:29.000Z",
-                      "type": "OTHER",
-                      "text": "據官網，北部發展電子展、中部發展精密機械與觀光休閒展、南部可發展精緻農業與遊艇展、東部可藉由召開國際會議結合獎勵旅遊發展觀光。"
-                    }
-                  ]
-                },
-                {
-                  "text": "，做出市場區隔。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
