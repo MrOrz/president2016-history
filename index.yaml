@@ -65,7 +65,18 @@ perspectives:
     - content: "[民主]支持 18 歲享有投票權[g]"
       ref: "洪秀柱官網、6/11 洪秀柱粉絲頁 、備份（不含影片）"
   - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: "將推動修憲，恢復國會對行政院長的同意權。透過這樣的作法，我們要對民選總統建立起一個權責相符的制度，不能迴避民意的監督。［出處臨全會閉幕致辭］、10/22
+        國民黨粉絲頁』"
+      ref: ''
+    - content: "我將責成本黨的智庫，在最短時間內提出國會改革的第一階段修法清單，並要求所有本黨提名的立委參選同志簽署承諾書，向人民保證，國民黨將在二年內完成第一階段的國會改革。［出處臨全會閉幕致辭］"
+      ref: ''
+    - content: "回到內閣制精神，當選總統後，每年到國會發表國情咨文，接受立法委員的質詢。"
+      ref: ''
+    - content: "恢復閣揆同意權，行政院推動政務需具有民意基礎，行政立法權責相符。"
+      ref: ''
+    - content: "提升國會透明度與議事效率，社會監督力量進入立法院。"
+      ref: ''
   - summary: ''
     debateArguments:
     - content: "[社會和諧]主動與朝野各黨領袖及各界人士溝通，化解朝野、南北、世代與階級間的對立。"
@@ -903,6 +914,16 @@ perspectives:
       ref: 9/28 洪秀柱粉絲頁 教育重建宣言
     - content: "改善中小學校園設備，進行進路輔導，兼具終身學習園區角色；高等教育則應更重視教學"
       ref: 9/28 洪秀柱粉絲頁 教育重建宣言
+  - summary: ''
+    debateArguments: []
+  - summary: ''
+    debateArguments: []
+- title: "文化"
+  positions:
+  - summary: ''
+    debateArguments: []
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
   - summary: ''
