@@ -830,6 +830,32 @@ perspectives:
     debateArguments: []
   - summary: ''
     debateArguments: []
+- title: "社會福利---動保"
+  positions:
+  - summary: ''
+    debateArguments:
+    - content: "擴充動保專業人力，建立專業管制隊；"
+      ref: 10/15 蔡英文動保政策
+    - content: "落實寵物登記及飼主責任教育；"
+      ref: 10/15 蔡英文動保政策
+    - content: "補助犬貓絕育及TNVR的執行；"
+      ref: 10/15 蔡英文動保政策
+    - content: "推動認養代替購買，推廣工作犬、陪伴犬計劃；"
+      ref: 10/15 蔡英文動保政策
+    - content: "改善公立及民間收容所的照顧環境；"
+      ref: 10/15 蔡英文動保政策
+    - content: "加強繁殖場輔導，嚴格取締違法繁殖場；"
+      ref: 10/15 蔡英文動保政策
+    - content: "推廣生命教育。"
+      ref: 10/15 蔡英文動保政策
+    - content: "未來政府必須訂定完整的「動物保護綱領」"
+      ref: 10/15 蔡英文動保政策
+  - summary: ''
+    debateArguments: []
+  - summary: ''
+    debateArguments: []
+  - summary: ''
+    debateArguments: []
 - title: "醫療資源改革"
   positions:
   - summary: ''
@@ -923,6 +949,8 @@ perspectives:
   - summary: ''
     debateArguments:
     - content: "[新移民]讓新移民得到與本國國民同等的社福待遇。"
+      ref: ''
+    - content: "[新移民]"
       ref: ''
   - summary: ''
     debateArguments: []
