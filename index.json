@@ -576,6 +576,17 @@
           ]
         },
         {
+          "summaryParagraphs": [],
+          "items": [
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            }
+          ]
+        },
+        {
           "summaryParagraphs": [
             {
               "level": -1,
@@ -898,6 +909,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -1296,6 +1316,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -2445,6 +2474,15 @@
             }
           ],
           "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         }
       ]
     },
@@ -2719,6 +2757,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -3040,6 +3087,15 @@
             {
               "level": -1,
               "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
             },
             {
               "level": -1,
@@ -3201,6 +3257,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -3430,6 +3495,15 @@
             }
           ],
           "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         }
       ]
     },
@@ -3633,6 +3707,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [],
@@ -4042,6 +4125,15 @@
             }
           ],
           "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         }
       ]
     },
@@ -4207,6 +4299,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -4686,6 +4787,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [],
@@ -5532,6 +5642,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -6512,6 +6631,15 @@
             {
               "level": -1,
               "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
             },
             {
               "level": -1,
@@ -6964,6 +7092,15 @@
               "children": []
             }
           ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
           "items": [
             {
               "level": 0,
@@ -7094,6 +7231,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -7418,6 +7564,15 @@
             }
           ],
           "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         }
       ]
     },
@@ -7551,6 +7706,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -7879,6 +8043,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [],
@@ -8405,6 +8578,15 @@
             }
           ],
           "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         }
       ]
     },
@@ -8547,6 +8729,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -9188,6 +9379,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -9855,6 +10055,15 @@
             }
           ],
           "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         }
       ]
     },
@@ -10365,6 +10574,15 @@
           ]
         },
         {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
           "summaryParagraphs": [],
           "items": [
             {
@@ -10805,6 +11023,15 @@
           ]
         },
         {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
           "summaryParagraphs": [],
           "items": [
             {
@@ -11165,6 +11392,15 @@
           "items": []
         },
         {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
           "summaryParagraphs": [],
           "items": [
             {
@@ -11333,6 +11569,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -11709,6 +11954,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -12295,6 +12549,15 @@
             }
           ],
           "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         }
       ]
     },
@@ -12445,6 +12708,15 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -12996,6 +13268,15 @@
             }
           ],
           "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         }
       ]
     }
@@ -13023,7 +13304,23 @@
           "level": -1,
           "children": [
             {
-              "text": "洪秀柱→朱立倫",
+              "text": "洪秀柱（已退）",
+              "isB": false,
+              "isU": false,
+              "isI": false,
+              "comments": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "level": -1,
+          "children": [
+            {
+              "text": "朱立倫",
               "isB": false,
               "isU": false,
               "isI": false,
