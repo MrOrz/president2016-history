@@ -911,13 +911,23 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "將推動修憲，恢復國會對行政院長的同意權。透過這樣的作法，我們要對民選總統建立起一個權責相符的制度，不能迴避民意的監督。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [

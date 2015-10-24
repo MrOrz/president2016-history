@@ -65,7 +65,9 @@ perspectives:
     - content: "[民主]支持 18 歲享有投票權[g]"
       ref: "洪秀柱官網、6/11 洪秀柱粉絲頁 、備份（不含影片）"
   - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: "將推動修憲，恢復國會對行政院長的同意權。透過這樣的作法，我們要對民選總統建立起一個權責相符的制度，不能迴避民意的監督。"
+      ref: ''
   - summary: ''
     debateArguments:
     - content: "[社會和諧]主動與朝野各黨領袖及各界人士溝通，化解朝野、南北、世代與階級間的對立。"
