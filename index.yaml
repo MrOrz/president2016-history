@@ -1,7 +1,8 @@
 ---
 positionTitle:
 - "蔡英文"
-- "洪秀柱→朱立倫"
+- "洪秀柱（已退）"
+- "朱立倫"
 - "宋楚瑜"
 perspectives:
 - title: "兩岸、國際策略與國防"
@@ -39,6 +40,10 @@ perspectives:
       ref: "洪秀柱官網"
   - summary: ''
     debateArguments:
+    - content: ''
+      ref: ''
+  - summary: ''
+    debateArguments:
     - content: "[透明政府]兩岸間重要決策，共同參與、過程透明，接受全民與國會監督，避免黑作業。"
       ref: 8/5 參選宣言
     - content: "[和平]任何改變兩岸現況必須尊重台灣民眾的自由意志；兩岸雙方不結盟對抗、不進行軍備禁賽，確保亞太區域和平穩定。"
@@ -59,6 +64,8 @@ perspectives:
       ref: "洪秀柱官網、6/15 洪秀柱粉絲頁 、備份（不含影片）"
     - content: "[民主]支持 18 歲享有投票權[g]"
       ref: "洪秀柱官網、6/11 洪秀柱粉絲頁 、備份（不含影片）"
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments:
     - content: "[社會和諧]主動與朝野各黨領袖及各界人士溝通，化解朝野、南北、世代與階級間的對立。"
@@ -87,6 +94,8 @@ perspectives:
       ref: 7/22民進黨新聞稿
     - content: "[行政效率]鼓勵地方政府之間建立協調機制，整合資源共同解決跨域事務，有效降低單位成本，減少重複支出以節省財政資源。"
       ref: 7/22民進黨新聞稿
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
   - summary: ''
@@ -142,6 +151,8 @@ perspectives:
       ref: 9/1 洪秀柱官網投影片、9/1洪秀柱官網新聞稿
   - summary: ''
     debateArguments: []
+  - summary: ''
+    debateArguments: []
 - title: "經濟——農業"
   positions:
   - summary: ''
@@ -166,6 +177,8 @@ perspectives:
       ref: "洪秀柱官網"
   - summary: ''
     debateArguments: []
+  - summary: ''
+    debateArguments: []
 - title: "經濟——綠能產業"
   positions:
   - summary: ''
@@ -176,6 +189,8 @@ perspectives:
       ref: 9/18官網
     - content: "[計劃經濟][生產力] 綠能產業發展內容：1.節能方面[af]：設備商、資通訊產業、能源服務業，將配合智慧城市的建設與政府的節能目標來作結合。2.創能：投入太陽能和離岸風電、地熱、海洋能與生質能的前端開發，扶植台灣的廠商走向國際。3.儲能：協助包括鋰電池、燃料電池或是氫能的本土廠商，將技術商業化。規劃更細緻的時間電價[ag]，創造離鋒、尖峰之間的儲能需求。4.系統整合：培植台灣廠商整廠規劃的能力，把握接軌物聯網的發展契機，讓台灣綠能產業不只是代工，更可以是系統品牌。"
       ref: 9/18官網 9/18民進黨新聞稿 9/19民進黨新聞稿
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
   - summary: ''
@@ -192,6 +207,8 @@ perspectives:
     debateArguments:
     - content: "公辦民辦併行都更355萬戶屋齡30年以上住宅，分20年重建，每年創造5000億產值"
       ref: 8/29 官網
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
   - summary: ''
@@ -214,6 +231,8 @@ perspectives:
       ref: 9/1洪秀柱官網新聞稿
   - summary: ''
     debateArguments: []
+  - summary: ''
+    debateArguments: []
 - title: "經濟——證所稅"
   positions:
   - summary: ''
@@ -226,6 +245,8 @@ perspectives:
       ref: 8/18 洪秀柱粉絲頁、8/16洪秀柱官網
     - content: "[經濟誘因]外資與本國人使用相同證所稅制，並取消 IPO 首次股票上市        櫃強制課稅。"
       ref: 8/18 洪秀柱粉絲頁、8/16洪秀柱官網
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments:
     - content: "證所稅施行時擬定為 4 年計畫：試算期、宣導期、減半納稅期、正式施行期[ak]"
@@ -252,6 +273,8 @@ perspectives:
       ref: "洪秀柱官網"
   - summary: ''
     debateArguments: []
+  - summary: ''
+    debateArguments: []
 - title: "經濟——法律改制及市場透明化"
   positions:
   - summary: ''
@@ -266,6 +289,8 @@ perspectives:
       ref: 9/1 官網投影片
     - content: "[法律與秩序]針對環保與勞動法規爭議，以社會溝通為基礎，建立制度化的解決途徑"
       ref: "洪秀柱官網"
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
 - title: "公共基礎建設"
@@ -300,6 +325,8 @@ perspectives:
     debateArguments:
     - content: "加速 5G 網路建置"
       ref: 9/1 洪秀柱官網投影片
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments:
     - content: "政府投資失敗之大型公共設施用地，進行政策評估後，改建為運動場地"
@@ -337,6 +364,8 @@ perspectives:
       ref: 10/15官網
     - content: "改善食品生產的環境[bf]、杜絕汙染。"
       ref: 10/15官網
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
   - summary: ''
@@ -393,6 +422,8 @@ perspectives:
     - content: "[國土與城市規劃]持續推動水庫清淤、土地轉型利用、降低漏水率；企業加強再生水利用。"
       ref: "洪秀柱官網"
   - summary: ''
+    debateArguments: []
+  - summary: ''
     debateArguments:
     - content: "獎勵公車全面電動化"
       ref: "親民黨政策專區"
@@ -423,6 +454,8 @@ perspectives:
     - content: "[政治腐敗]鄭重宣誓如果有任何不明的財產來源，接受等同貪腐的批判，以及良知與法律的最大懲罰"
       ref: "洪秀柱官網"
   - summary: ''
+    debateArguments: []
+  - summary: ''
     debateArguments:
     - content: "提出[32393](年)、[760億補助]3:全面發放3萬元生育紅包3:3~5歲進行學齡前基本教育9:6~15歲進行9年國民教育3:16~18歲高中職分流，補助高職免學費"
       ref: "官網"
@@ -436,6 +469,8 @@ perspectives:
     debateArguments:
     - content: "[自由與人權]廢死不可：美日韓仍保留死刑，廢死並非普世價值；明確廢死之歐盟國家與我國情不同。《兩公約》精神並無規定締約國必須立法廢死，僅希望審慎使用死刑並保障死刑犯人權。"
       ref: 7/17 洪秀柱粉絲頁
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
 - title: "公平正義——身心障礙者"
@@ -460,6 +495,8 @@ perspectives:
     debateArguments: []
   - summary: ''
     debateArguments: []
+  - summary: ''
+    debateArguments: []
 - title: "公平正義——婚姻"
   positions:
   - summary: ''
@@ -472,6 +509,8 @@ perspectives:
     debateArguments:
     - content: "[社會正義]同志婚姻：支持所有相愛的人，努力促成溝通、尋求共識"
       ref: "洪秀柱官網"
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
 - title: "公平正義——客家族群"
@@ -496,6 +535,8 @@ perspectives:
       ref: 8/20 洪秀柱官網
     - content: "政務人員任命、不分區立委與民選公職的提名比例，不低於全國客家人所占比例。"
       ref: 8/20 洪秀柱官網
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments:
     - content: "重用客家人才.發揚客家傳統精神.重視客家文化.造福客家建設.重視客家經濟提升 [出處8/25自由時報]"
@@ -531,6 +572,8 @@ perspectives:
       ref: 9/28 洪秀柱粉絲頁 教育重建宣言
   - summary: ''
     debateArguments: []
+  - summary: ''
+    debateArguments: []
 - title: "公平正義——新住民"
   positions:
   - summary: ''
@@ -543,6 +586,8 @@ perspectives:
       ref: 9/6洪秀柱官網
     - content: "擴大新住民就業層面到協助台商進行對外事務聯繫、交涉等"
       ref: 9/6洪秀柱官網
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
 - title: "公平正義——居住權"
@@ -577,6 +622,8 @@ perspectives:
       ref: 9/22洪秀柱官網
     - content: "發行住宅公益彩券，以每年200億到250億的收入，作為長期穩定財源"
       ref: "新聞"
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
 - title: "勞動權益"
@@ -625,6 +672,8 @@ perspectives:
       ref: 9/13 洪秀柱官網發言稿
   - summary: ''
     debateArguments: []
+  - summary: ''
+    debateArguments: []
 - title: "社會安全與社會福利"
   positions:
   - summary: ''
@@ -656,6 +705,8 @@ perspectives:
     - content: "規劃並執行長照專業人才培訓，運用政策措施改善薪資與勞動條件，鼓勵年輕人投入"
       ref: 8/25洪秀柱官網
   - summary: ''
+    debateArguments: []
+  - summary: ''
     debateArguments:
     - content: "勞保、公保、軍保、國民年金導入集體互保概念，政府負起最終償付責任，不讓退休人士領不到錢"
       ref: 9/13粉絲頁
@@ -683,6 +734,8 @@ perspectives:
       ref: 8/25洪秀柱官網
     - content: "推動長照保險確保長照財源"
       ref: 8/25洪秀柱官網
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments:
     - content: "鼓勵公立醫療機構、榮民之家等照顧安養機構擴充長照床位。醫療設施分級分能，強化社區照護能量"
@@ -714,6 +767,8 @@ perspectives:
   - summary: ''
     debateArguments: []
   - summary: ''
+    debateArguments: []
+  - summary: ''
     debateArguments:
     - content: "每一嬰出生補助，全台每年20萬新生兒，一年約60億預算"
       ref: ''
@@ -729,6 +784,8 @@ perspectives:
       ref: 8/30 官網
     - content: "強化身心障礙者提早老化與平均餘命等研究，作為政策規劃基礎；發展適合不同障礙類別、年齡、性別的體適能活動並提供營養咨詢；提供女性障礙者足夠資訊與支持，維護她們的生育權利與健康"
       ref: 9/2 官網
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
   - summary: ''
@@ -760,6 +817,8 @@ perspectives:
       ref: 8/16洪秀柱官網
   - summary: ''
     debateArguments: []
+  - summary: ''
+    debateArguments: []
 - title: "醫療資源改革"
   positions:
   - summary: ''
@@ -788,6 +847,8 @@ perspectives:
     debateArguments: []
   - summary: ''
     debateArguments: []
+  - summary: ''
+    debateArguments: []
 - title: "體育政策"
   positions:
   - summary: ''
@@ -798,6 +859,8 @@ perspectives:
       ref: 9/8 官網
     - content: "政府媒合企業贊助體育，鼓勵企業冠名與投資活動、團體、選手、設備；目標為八年後體育經費[ee]倍增"
       ref: 9/8 官網、9/8演講稿
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
   - summary: ''
@@ -840,6 +903,8 @@ perspectives:
       ref: 9/28 洪秀柱粉絲頁 教育重建宣言
     - content: "改善中小學校園設備，進行進路輔導，兼具終身學習園區角色；高等教育則應更重視教學"
       ref: 9/28 洪秀柱粉絲頁 教育重建宣言
+  - summary: ''
+    debateArguments: []
   - summary: ''
     debateArguments: []
 comments:
