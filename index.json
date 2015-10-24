@@ -917,7 +917,63 @@
               "level": 0,
               "children": [
                 {
-                  "text": "將推動修憲，恢復國會對行政院長的同意權。透過這樣的作法，我們要對民選總統建立起一個權責相符的制度，不能迴避民意的監督。",
+                  "text": "將推動修憲，恢復國會對行政院長的同意權。透過這樣的作法，我們要對民選總統建立起一個權責相符的制度，不能迴避民意的監督。［出處臨全會閉幕致辭］、10/22 國民黨粉絲頁』",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "我將責成本黨的智庫，在最短時間內提出國會改革的第一階段修法清單，並要求所有本黨提名的立委參選同志簽署承諾書，向人民保證，國民黨將在二年內完成第一階段的國會改革。［出處臨全會閉幕致辭］",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "回到內閣制精神，當選總統後，每年到國會發表國情咨文，接受立法委員的質詢。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "恢復閣揆同意權，行政院推動政務需具有民意基礎，行政立法權責相符。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "提升國會透明度與議事效率，社會監督力量進入立法院。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -13269,6 +13325,61 @@
               ]
             }
           ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "level": -1,
+          "children": [
+            {
+              "text": "文化",
+              "isB": false,
+              "isU": false,
+              "isI": false,
+              "comments": []
+            }
+          ]
+        }
+      ],
+      "colspan": 1,
+      "cells": [
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
