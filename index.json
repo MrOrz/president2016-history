@@ -13707,7 +13707,31 @@
             },
             {
               "level": 0,
-              "children": [],
+              "children": [
+                {
+                  "text": "使地方政府各單位業務提供雙語服務、提升文化民感度。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "新移民"
+              ],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "承認",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [
                 "新移民"
               ],
