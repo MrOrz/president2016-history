@@ -13368,7 +13368,15 @@
           "items": [
             {
               "level": 0,
-              "children": [],
+              "children": [
+                {
+                  "text": "讓新移民得到與本國國民同等的社福待遇。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [
                 "新移民"
               ],
