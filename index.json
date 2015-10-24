@@ -2125,7 +2125,124 @@
               "level": 0,
               "children": [
                 {
-                  "text": "觀光發展策略目標：「亞洲海空轉運中心」、「亞洲旅遊重要目的地」。行政院觀光發展推動委員會整合各部會與產業界，拓展國際旅客（包含新興國家如穆斯林）與商務旅客來台，景點、環境、住宿、交通、飲食提高到國際品質",
+                  "text": "觀光發展策略",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T14:13:56.000Z",
+                      "type": "NOTE",
+                      "text": "據官網：行政院觀光發展推動委員會整合各部會與產業界，拓展國際旅客（包含新興國家如穆斯林）與商務旅客來台，景點、環境、住宿、交通、飲食提高到國際品質。"
+                    }
+                  ]
+                },
+                {
+                  "text": "：「亞洲海空轉運中心」、「亞洲旅遊重要目的地」。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/102",
+                  "runs": [
+                    {
+                      "text": "9/10官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "分期分階段開放",
+                  "isB": true,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "東協十國",
+                  "isB": true,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T14:22:20.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，為發展穆斯林觀光，擬開放東協十國逐步免簽：目前東協十國來台免簽證國包含新加坡、馬來西亞，汶萊目前是落地簽可直接開放免簽；越南、泰國、印尼、菲律賓則先從團客免簽、商務客免簽或多次簽開始，再到全面免簽；緬甸、柬埔寨、寮國則能考慮先給落地簽，再逐步給予免簽。"
+                    }
+                  ]
+                },
+                {
+                  "text": "來台免簽證，發展電子簽證網路申請系統。",
+                  "isB": true,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/102",
+                  "runs": [
+                    {
+                      "text": "9/10官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "發行全台通用的iTaiwan Pass樂愛台灣觀光卡，提升消費便利。",
+                  "isB": true,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "發行iTaiwan Pass樂愛台灣觀光卡，和悠遊卡、一卡通合作，讓觀光客在台旅行時，食衣住行消費娛樂通信上網都能使用這張卡，搭配各種折扣優惠，讓觀光客在台聰明消費，活絡店家。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "對應多國語言介面的iTaiwan Pass APP，方便持卡人透過智慧型手機進行加值（包括外幣儲值、自動換匯成台幣消費）、查詢餘額、交易記錄、掛失卡片、觀光景點、優惠情報等服務。亦可綁定個資，在緊急情況時做為臨時身分辨識使用，例如護照遺失、緊急就醫",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -13687,7 +13804,12 @@
       "colspan": 1,
       "cells": [
         {
-          "summaryParagraphs": [],
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
           "items": [
             {
               "level": 0,
@@ -13703,7 +13825,20 @@
               "labels": [
                 "新移民"
               ],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
+                  "runs": [
+                    {
+                      "text": "10/21演講稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
@@ -13719,13 +13854,26 @@
               "labels": [
                 "新移民"
               ],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
+                  "runs": [
+                    {
+                      "text": "10/21演講稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
               "children": [
                 {
-                  "text": "承認",
+                  "text": "承認新移民學歷，與台灣認證機制接軌。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -13735,7 +13883,78 @@
               "labels": [
                 "新移民"
               ],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
+                  "runs": [
+                    {
+                      "text": "10/21演講稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "提供新移民職業訓練的機會，以及就業媒合的服務。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "新移民"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
+                  "runs": [
+                    {
+                      "text": "10/21演講稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "與東南亞國家做更密切的交流，著重於教育文化及民間團體層面。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "新移民"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
+                  "runs": [
+                    {
+                      "text": "10/21演講稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
