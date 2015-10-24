@@ -2534,6 +2534,25 @@
                       "comments": []
                     }
                   ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://iing.tw/posts/103",
+                  "runs": [
+                    {
+                      "text": "9/10新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 }
               ]
             },
@@ -2541,7 +2560,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "簽證配額獎勵機制：鼓勵在區域內深度觀光的陸客，再次來台時優先配發簽證。",
+                  "text": "鼓勵在區域內深度觀光的陸客，再次來台時優先配發簽證。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -2595,7 +2614,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "與亞馬遜、阿里巴巴共享消費數據分析、付款紀錄分析，讓每位旅客收到客製化的消費行銷資訊。",
+                  "text": "與亞馬遜、阿里巴巴共享消費數據與付款紀錄分析，讓每位旅客收到客製化的消費行銷資訊。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -2622,7 +2641,28 @@
               "level": 0,
               "children": [
                 {
-                  "text": "展覽須結合地區特色，做出市場區隔(例如北部發展電子展、中部發展精密機械與觀光休閒展、南部可發展精緻農業與遊艇展、東部可藉由召開國際會議結合獎勵旅遊發展觀光)。",
+                  "text": "展覽須結合",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "地區特色",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T15:59:29.000Z",
+                      "type": "OTHER",
+                      "text": "據官網，北部發展電子展、中部發展精密機械與觀光休閒展、南部可發展精緻農業與遊艇展、東部可藉由召開國際會議結合獎勵旅遊發展觀光。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，做出市場區隔。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
