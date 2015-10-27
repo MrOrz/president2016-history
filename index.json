@@ -18,12 +18,7 @@
       "colspan": 1,
       "cells": [
         {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
+          "summaryParagraphs": [],
           "items": [
             {
               "level": 0,
@@ -300,6 +295,54 @@
                   "runs": [
                     {
                       "text": "8/15粉專",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "分期分階段開放",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "東協十國",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T14:22:20.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，為發展穆斯林觀光，擬開放東協十國逐步免簽：目前東協十國來台免簽證國包含新加坡、馬來西亞，汶萊目前是落地簽可直接開放免簽；越南、泰國、印尼、菲律賓則先從團客免簽、商務客免簽或多次簽開始，再到全面免簽；緬甸、柬埔寨、寮國則能考慮先給落地簽，再逐步給予免簽。"
+                    }
+                  ]
+                },
+                {
+                  "text": "來台免簽證，發展電子簽證網路申請系統。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/102",
+                  "runs": [
+                    {
+                      "text": "9/10官網",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -2194,54 +2237,6 @@
               "level": 0,
               "children": [
                 {
-                  "text": "分期分階段開放",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "東協十國",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-24T14:22:20.000Z",
-                      "type": "NOTE",
-                      "text": "據官網，為發展穆斯林觀光，擬開放東協十國逐步免簽：目前東協十國來台免簽證國包含新加坡、馬來西亞，汶萊目前是落地簽可直接開放免簽；越南、泰國、印尼、菲律賓則先從團客免簽、商務客免簽或多次簽開始，再到全面免簽；緬甸、柬埔寨、寮國則能考慮先給落地簽，再逐步給予免簽。"
-                    }
-                  ]
-                },
-                {
-                  "text": "來台免簽證，發展電子簽證網路申請系統。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
                   "text": "發行全台通用的",
                   "isB": false,
                   "isU": false,
@@ -2351,16 +2346,16 @@
                   "comments": []
                 },
                 {
-                  "text": "北中南東四個觀光區域工作圈",
+                  "text": "北中南東四個觀光區域工作區",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": [
                     {
                       "author": "溫智媛",
-                      "date": "2015-10-24T16:36:28.000Z",
+                      "date": "2015-10-27T20:18:53.000Z",
                       "type": "NOTE",
-                      "text": "據新聞稿，目前國際自由行的觀光客，有83%會到台北觀光，但是只有1/3的旅客到訪其他縣市，全台灣也只有8個縣市的到訪率超過18%。"
+                      "text": "據新聞稿，目前國際自由行的觀光客，有83%會到台北觀光，但是只有1/3的旅客到訪其他縣市，全台灣也只有8個縣市的到訪率超過18%。\n據官網，區域整備工作需建立「觀光承載分析」與「觀光政策環評」制度，發展永續觀光。"
                     }
                   ]
                 },
@@ -2453,34 +2448,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "區域整備工作需建立「觀光承載分析」與「觀光政策環評」制度，發展永續觀光。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "陸客：減少低價團，增加",
+                  "text": "陸客觀光：1.減少低價團，增加",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -2522,34 +2490,7 @@
                   ]
                 },
                 {
-                  "text": "。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "透過簽證審核機制調節陸客觀光地區和路線，",
+                  "text": "。2. 透過簽證審核機制調節陸客觀光地區和路線，",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -2597,34 +2538,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "放寬電子商務法規，鼓勵電子商務產業、電信業、物聯網與觀光產業結合。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "與亞馬遜、阿里巴巴共享消費數據與付款紀錄分析，讓每位旅客收到客製化的消費行銷資訊。",
+                  "text": "放寬電子商務法規，鼓勵電子商務產業、電信業、物聯網與觀光產業結合；與亞馬遜、阿里巴巴共享消費數據與付款紀錄分析，讓每位旅客收到客製化的消費行銷資訊。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
