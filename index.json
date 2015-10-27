@@ -8683,42 +8683,39 @@
           "items": [
             {
               "level": 0,
-              "children": [
-                {
-                  "text": "重用客家人才.發揚客家傳統精神.重視客家文化.造福客家建設.重視客家經濟提升",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
+              "children": [],
               "labels": [],
-              "ref": [
-                {
-                  "href": "http://news.ltn.com.tw/news/politics/breakingnews/1423316",
-                  "runs": [
-                    {
-                      "text": "8/25",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "href": "http://news.ltn.com.tw/news/politics/breakingnews/1423316",
-                  "runs": [
-                    {
-                      "text": "自由時報",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
             }
           ]
         }
@@ -9209,9 +9206,158 @@
             {
               "level": -1,
               "children": []
+            },
+            {
+              "level": -1,
+              "children": []
+            },
+            {
+              "level": -1,
+              "children": []
+            },
+            {
+              "level": -1,
+              "children": []
+            },
+            {
+              "level": -1,
+              "children": []
             }
           ],
-          "items": []
+          "items": [
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [],
+              "labels": [],
+              "ref": []
+            }
+          ]
         }
       ]
     },
