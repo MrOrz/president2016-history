@@ -814,9 +814,9 @@ perspectives:
     debateArguments: []
   - summary: ''
     debateArguments:
-    - content: "每一嬰出生補助，全台每年20萬新生兒，一年約60億預算"
-      ref: ''
-    - content: 1~2歲嬰兒津貼，全職母親每月2萬，交由祖父母、保母者補助5千，年預算420億
+    - content: "每一嬰出生補助，全台每年20萬新生兒，一年約60億預算。"
+      ref: "官網"
+    - content: 1~2歲嬰兒津貼，全職母親每月2萬，交由祖父母、保母者補助5千，年預算420億。
       ref: "官網"
 - title: "社會福利---身心障礙者"
   positions:

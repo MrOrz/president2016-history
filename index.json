@@ -12285,7 +12285,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "每一嬰出生補助，全台每年20萬新生兒，一年約60億預算",
+                  "text": "每一嬰出生補助，全台每年20萬新生兒，一年約60億預算。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -12293,13 +12293,26 @@
                 }
               ],
               "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://www.pfp.org.tw/Article_Show.asp?id=1865",
+                  "runs": [
+                    {
+                      "text": "官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
               "children": [
                 {
-                  "text": "1~2歲嬰兒津貼，全職母親每月2萬，交由祖父母、保母者補助5千，年預算420億",
+                  "text": "1~2歲嬰兒津貼，全職母親每月2萬，交由祖父母、保母者補助5千，年預算420億。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
