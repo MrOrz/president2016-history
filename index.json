@@ -8679,43 +8679,147 @@
           "items": []
         },
         {
-          "summaryParagraphs": [],
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
           "items": [
             {
               "level": 0,
-              "children": [],
+              "children": [
+                {
+                  "text": "重視客家人才",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://www.soong.tw/2015/10/23/%E5%B0%8F%E5%AE%8B%E4%B8%BB%E5%B8%AD%E7%9A%84%E4%BA%94%E5%A4%A7%E5%AE%A2%E5%AE%B6%E5%9F%BA%E6%9C%AC%E6%94%BF%E7%AD%96/",
+                  "runs": [
+                    {
+                      "text": "2015/10/23官網新聞",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
-              "children": [],
+              "children": [
+                {
+                  "text": "發揚客家精神",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://www.soong.tw/2015/10/23/%E5%B0%8F%E5%AE%8B%E4%B8%BB%E5%B8%AD%E7%9A%84%E4%BA%94%E5%A4%A7%E5%AE%A2%E5%AE%B6%E5%9F%BA%E6%9C%AC%E6%94%BF%E7%AD%96/",
+                  "runs": [
+                    {
+                      "text": "2015/10/23官網新聞",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
-              "children": [],
+              "children": [
+                {
+                  "text": "重視客家文化",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://www.soong.tw/2015/10/23/%E5%B0%8F%E5%AE%8B%E4%B8%BB%E5%B8%AD%E7%9A%84%E4%BA%94%E5%A4%A7%E5%AE%A2%E5%AE%B6%E5%9F%BA%E6%9C%AC%E6%94%BF%E7%AD%96/",
+                  "runs": [
+                    {
+                      "text": "2015/10/23官網新聞",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
-              "children": [],
+              "children": [
+                {
+                  "text": "重視地方建設。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://www.soong.tw/2015/10/23/%E5%B0%8F%E5%AE%8B%E4%B8%BB%E5%B8%AD%E7%9A%84%E4%BA%94%E5%A4%A7%E5%AE%A2%E5%AE%B6%E5%9F%BA%E6%9C%AC%E6%94%BF%E7%AD%96/",
+                  "runs": [
+                    {
+                      "text": "2015/10/23官網新聞",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
-              "children": [],
+              "children": [
+                {
+                  "text": "振興客家經濟，包含農業與科技業，要把桃竹苗建設成台灣的重要科技的地區，不是炒作土地，而是真正把產業與創意帶進來。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [],
-              "ref": []
-            },
-            {
-              "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://www.soong.tw/2015/10/23/%E5%B0%8F%E5%AE%8B%E4%B8%BB%E5%B8%AD%E7%9A%84%E4%BA%94%E5%A4%A7%E5%AE%A2%E5%AE%B6%E5%9F%BA%E6%9C%AC%E6%94%BF%E7%AD%96/",
+                  "runs": [
+                    {
+                      "text": "2015/10/23官網新聞",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -9227,135 +9331,138 @@
           "items": [
             {
               "level": 0,
-              "children": [],
+              "children": [
+                {
+                  "text": "體檢原住民政策，落實原住民族基本法：1. 政府宣示推動保障原住民族之平等地位及自主發展的決心。2. 原住民自治部的編制宜有彈性以反應原住民之主體及代表性。3. 根據原住民生活狀況資料掌握原住民之需求處境，擬定具體改善目標，並逐年評估績效。4.原鄉社政人員之編制及素質加強，並規定相當比例的原住民名額，以提高其服務的文化敏感度。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://pfp.gol.idv.tw/ideal_08.php",
+                  "runs": [
+                    {
+                      "text": "親民黨原住民政策",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
-              "children": [],
+              "children": [
+                {
+                  "text": "重建原鄉產業結構，提供在地就業機會：1. 強化原住民族綜合發展基金職能，落實輔導原住民克服創業時所面臨的各種障礙與困難，包括微型企業的經營管理技巧。2. 就原鄉自然特色規劃自然生態保育、觀光或農村漁牧業等經營，並確保本地原住民優先雇傭機會及名額。3. 對原住民在原鄉創業提供低利貸款專案，並免費提供理財的諮詢服務。4. 提供有返鄉意願之都市原住民提供就業輔導及住宅服務。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://pfp.gol.idv.tw/ideal_08.php",
+                  "runs": [
+                    {
+                      "text": "親民黨原住民政策",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
-              "children": [],
+              "children": [
+                {
+                  "text": "提高對原住民教育投資以促進其人力資本：1. 提供各項經濟誘因及在職訓練機會，以提高原鄉師資素質及穩定性。2. 提供學校免費住宿機會及學雜費補助，以彌補原鄉交通障礙及因就學無法幫助家計的機會成本。3. 運用原有部落組織辦理各式社區成人教育活動，透過示範、觀摩等教學技巧，使原住民也有持續學習的機會。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://pfp.gol.idv.tw/ideal_08.php",
+                  "runs": [
+                    {
+                      "text": "親民黨原住民政策",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
-              "children": [],
+              "children": [
+                {
+                  "text": "確保原鄉的醫療服務品質及可近性：1. 加強原鄉衛生所設施及人員素質，以達到公共衛生預防、宣導目的。2. 除規定週邊大型醫療機構作為特約醫院外，並組織醫療小組定期巡迴責任區，以補強山地醫療之即時性。3. 規定政府醫療機構有相當比例醫事人員到原鄉醫療診所服務。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://pfp.gol.idv.tw/ideal_08.php",
+                  "runs": [
+                    {
+                      "text": "親民黨原住民政策",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "level": 1,
-              "children": [],
+              "level": 0,
+              "children": [
+                {
+                  "text": "加強服務，協助都市原住民之遷移適應：1. 政府經濟發展政策所聘僱之原住民，如《自由貿易港區設置管理條例》要求聘用一定比例原住民，中央與地方政府應協助初期的遷徙與安置工作，並應尊重原住民的生活文化。2. 在都會區適宜地點成立家庭服務中心，提供成人就業服務、法律服務、生活適應方案及課業輔導等。3. 設計以原住民文化為主體之活動對非原住民之社區居民宣導，並提供多元互動機會，以加強族群文化之交流。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
               "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 1,
-              "children": [],
-              "labels": [],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://pfp.gol.idv.tw/ideal_08.php",
+                  "runs": [
+                    {
+                      "text": "親民黨原住民政策",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
