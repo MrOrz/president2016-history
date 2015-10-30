@@ -704,7 +704,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "台灣安全"
+              ],
               "ref": [
                 {
                   "href": "http://www.kmt.org.tw/2015/10/blog-post_984.html",
@@ -719,12 +721,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": []
             }
           ]
         },
@@ -1059,41 +1055,16 @@
               "level": 0,
               "children": [
                 {
-                  "text": "提出國會三項改革目標：國會效率化、協商透明化與議長中立化。",
+                  "text": "提出國會三項改革目標：國會效率化、協商透明化與議長中立化。一、效率要提升，民主就是多數決，不要複雜的運作；二、國會協商要透明、簡單明瞭，沒有黑箱、沒有複雜的政治算計；三、國會議長中立化。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
                 }
               ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://www.kmt.org.tw/2015/10/blog-post_376.html",
-                  "runs": [
-                    {
-                      "text": "10/28國民黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "國會三項改革目標：一、效率要提升，民主就是多數決，不要複雜的運作；二、國會協商要透明、簡單明瞭，沒有黑箱、沒有複雜的政治算計；三、國會議長中立化。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
+              "labels": [
+                "立法院效率"
               ],
-              "labels": [],
               "ref": [
                 {
                   "href": "http://www.gvm.com.tw/webonly_content_6748.html",
@@ -1144,6 +1115,25 @@
                       "comments": []
                     }
                   ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_376.html",
+                  "runs": [
+                    {
+                      "text": "10/28國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 }
               ]
             },
@@ -1158,7 +1148,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "憲政主義:正面"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151023161234/http://www.kmt.org.tw/2015/10/blog-post_770.html",
@@ -1204,7 +1196,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "立法院效率"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151023161234/http://www.kmt.org.tw/2015/10/blog-post_770.html",
@@ -1231,7 +1225,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "立法院效率"
+              ],
               "ref": [
                 {
                   "href": "https://www.facebook.com/mykmt/photos/a.10153024451177973.1073741828.131181017972/10153652596897973/?type=3",
@@ -1258,7 +1254,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "立法院效率"
+              ],
               "ref": [
                 {
                   "href": "https://www.facebook.com/mykmt/photos/a.10153024451177973.1073741828.131181017972/10153652596897973/?type=3",
@@ -3444,13 +3442,39 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "推動食農教育除了學校營養午餐讓學童吃有機蔬菜外，也在學校教育孩子如何種植有機蔬菜，並以可食地景的模式與社區結合推動食農教育。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "農業與農民",
+                "教育擴張"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_897.html",
+                  "runs": [
+                    {
+                      "text": "1028國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [
@@ -7529,7 +7553,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "科技與基礎建設"
+              ],
               "ref": [
                 {
                   "href": "http://www.kmt.org.tw/2015/10/blog-post_897.html",
@@ -11432,73 +11458,6 @@
               "level": 0,
               "children": [
                 {
-                  "text": "對於勞工朋友，加薪、放假是很關鍵的議題，應該用同理心體諒、體會所有勞工心情，讓勞工與資方共創雙贏。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "勞工權益"
-              ],
-              "ref": [
-                {
-                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
-                  "runs": [
-                    {
-                      "text": "2015華人企業領袖遠見高峰會",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://www.kmt.org.tw/2015/10/blog-post_684.html",
-                  "runs": [
-                    {
-                      "text": "10/29國民黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
-                  "runs": [
-                    {
-                      "text": "10/29國民黨粉絲頁",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
                   "text": "除了關心勞工，也要知道工會的訴求，現在勞保的最高投保上限43900元，希望未來提高到45800元。",
                   "isB": false,
                   "isU": false,
@@ -11528,7 +11487,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "許多單身勞工身故之後的勞保給付的限制很不公平，這個限制要爭取取消，才能真正照顧單身的勞工朋友。",
+                  "text": "持續推動加薪四法：基本工資隨著經濟成長繼續提高，過去七年來提高的不論是總金額還是次數都有相當成果，未來照顧勞工基本工資加上加薪四法，一定可以照顧到勞工朋友。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -11557,7 +11516,55 @@
               "level": 0,
               "children": [
                 {
-                  "text": "基本工資隨著經濟成長繼續提高，過去七年來提高的不論是總金額還是次數都有相當成果，未來照顧勞工基本工資加上加薪四法，一定可以照顧到勞工朋友。",
+                  "text": "獨身勞工權益的改善：取消勞保給付的受益人權益限制，真正照顧單身的勞工朋友。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "勞工權益"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/458.html",
+                  "runs": [
+                    {
+                      "text": "10/28國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_111.html",
+                  "runs": [
+                    {
+                      "text": "10/30國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "勞工職業訓練：委由各工會來進行，並創造職業訓練的產業，推動勞工訓練。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -11581,6 +11588,22 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "女性勞工公平待遇：",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "勞工權益"
+              ],
+              "ref": []
             }
           ]
         },
@@ -12564,7 +12587,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "提升社福預算"
+              ],
               "ref": [
                 {
                   "href": "http://www.gvm.com.tw/webonly_content_6748.html",
@@ -13894,7 +13919,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "環境保護"
+              ],
               "ref": [
                 {
                   "href": "http://www.kmt.org.tw/2015/10/blog-post_897.html",
@@ -15222,7 +15249,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "教育擴張"
+              ],
               "ref": [
                 {
                   "href": "http://www.kmt.org.tw/2015/10/blog-post_879.html",
@@ -15268,7 +15297,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "教育擴張",
+                "農業與農民"
+              ],
               "ref": [
                 {
                   "href": "http://www.kmt.org.tw/2015/10/blog-post_897.html",
