@@ -11335,13 +11335,175 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "對於勞工朋友，加薪、放假是很關鍵的議題，應該用同理心體諒、體會所有勞工心情，讓勞工與資方共創雙贏。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "勞工權益"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
+                  "runs": [
+                    {
+                      "text": "2015華人企業領袖遠見高峰會",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "除了關心勞工，也要知道工會的訴求，現在勞保的最高投保上限43900元，希望未來提高到45800元。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "勞工權益"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/458.html",
+                  "runs": [
+                    {
+                      "text": "10/28國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "許多單身勞工身故之後的勞保給付的限制很不公平，這個限制要爭取取消，才能真正照顧單身的勞工朋友。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "勞工權益"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/458.html",
+                  "runs": [
+                    {
+                      "text": "10/28國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "基本工資隨著經濟成長繼續提高，過去七年來提高的不論是總金額還是次數都有相當成果，未來照顧勞工基本工資加上加薪四法，一定可以照顧到勞工朋友。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "勞工權益"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_984.html",
+                  "runs": [
+                    {
+                      "text": "10/28",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_984.html",
+                  "runs": [
+                    {
+                      "text": "中廣「文茜的異想世界」節目專訪",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [
@@ -13317,74 +13479,13 @@
           ]
         },
         {
-          "summaryParagraphs": [],
-          "items": [
+          "summaryParagraphs": [
             {
-              "level": 0,
-              "children": [
-                {
-                  "text": "對於勞工朋友，加薪、放假是很關鍵的議題，應該用同理心體諒、體會所有勞工心情，讓勞工與資方共創雙贏。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
-                  "runs": [
-                    {
-                      "text": "2015華人企業領袖遠見高峰會",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://www.kmt.org.tw/2015/10/blog-post_684.html",
-                  "runs": [
-                    {
-                      "text": "10/29國民黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
-                  "runs": [
-                    {
-                      "text": "10/29國民黨粉絲頁",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
+              "level": -1,
+              "children": []
             }
-          ]
+          ],
+          "items": []
         },
         {
           "summaryParagraphs": [
@@ -15012,7 +15113,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "教育理念：孩子睡飽，就近入學最好。十二年國教需要修改，第一步的調整是「就近就學」。真正的國教應該讓大部分的孩子能免試、就近入學、選擇有興趣的技職教育，提高社區高中職的免試入學比例，讓許多私立高中職直接就能申請入學。政府要將資源用在社區高中或是就近入學的學校，將社區高中優質化，讓學校競爭力大幅提升，孩子在學校安心就學。全面提升社區高中職的教育品質後，最大的特點將在適性教學，確定就讀社區高中或是在地就學的孩子，將可根據個別興趣、專長，進行技職教育分流以及就讀社區高中，省下準備國中會考的時間。",
+                  "text": "教育理念：孩子睡飽，就近入學最好。十二年國教需要修改，第一步的調整是「就近就學」。真正的國教應該讓大部分的孩子能免試、就近入學、選擇有興趣的技職教育，提高社區高中職的免試入學比例，讓許多私立高中職直接就能申請入學。政府要將資源用在社區高中或是就近入學的學校，將社區高中優質化，讓學校競爭力大幅提升，孩子在學校安心就學。全面提升社區高中職的教育品質後，最大的特點將在「適性教學」，確定就讀社區高中或是在地就學的孩子，將可根據個別興趣、專長，進行技職教育分流以及就讀社區高中，省下準備國中會考的時間。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
