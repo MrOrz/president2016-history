@@ -625,7 +625,56 @@
               "children": []
             }
           ],
-          "items": []
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "兩岸和平的基礎是「九二共識、一中各表」，兩岸和平發展，在經濟、文化、教育、環境等民眾關心的議題，都能合作雙贏。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "支持兩岸關係"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
+                  "runs": [
+                    {
+                      "text": "2015華人企業領袖遠見高峰會",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "summaryParagraphs": [
