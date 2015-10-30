@@ -625,7 +625,75 @@
               "children": []
             }
           ],
-          "items": []
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "兩岸和平的基礎是「九二共識、一中各表」，兩岸和平發展，在經濟、文化、教育、環境等民眾關心的議題，都能合作雙贏。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "支持兩岸關係"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
+                  "runs": [
+                    {
+                      "text": "2015華人企業領袖遠見高峰會",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "summaryParagraphs": [
@@ -954,6 +1022,71 @@
         {
           "summaryParagraphs": [],
           "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "提出國會三項改革目標：一、效率要提升，民主就是多數決，不要複雜的運作；二、國會協商要透明、簡單明瞭，沒有黑箱、沒有複雜的政治算計；三、國會議長中立化。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
+                  "runs": [
+                    {
+                      "text": "2015華人企業領袖遠見高峰會",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "level": 0,
               "children": [
@@ -3980,13 +4113,76 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "開放加入國際經貿組織，如TPP(跨太平洋夥伴協議)、RECP(區域全面經濟夥伴協定)，過程中應該以簡單明瞭的方式，讓所有民眾清楚利弊得失。以RECP為例，ECFA之後的服貿協議及貨貿協議，應該要克服困難加入；面對TPP，與美國洽談的障礙也要克服。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "自由經濟"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
+                  "runs": [
+                    {
+                      "text": "2015華人企業領袖遠見高峰會",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [
@@ -12114,13 +12310,74 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "設計在地安養，讓老人、長輩在社區或家庭中受到照顧，透過社區共同輔助的體系來進行，例如推動健康老人的快樂學習、老人共餐、銀髮俱樂部；由年輕人或長者照顧老人的銀髮志工、不老志工；社區成立日間照護中心等。此外，失智、失能者在社區受到照顧是最高理想，用簡單心情、從民眾角度出發。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
+                  "runs": [
+                    {
+                      "text": "2015華人企業領袖遠見高峰會",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [],
@@ -13060,13 +13317,74 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "對於勞工朋友，加薪、放假是很關鍵的議題，應該用同理心體諒、體會所有勞工心情，讓勞工與資方共創雙贏。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
+                  "runs": [
+                    {
+                      "text": "2015華人企業領袖遠見高峰會",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [
@@ -14688,13 +15006,55 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "教育理念：孩子睡飽，就近入學最好。十二年國教需要修改，第一步的調整是「就近就學」。真正的國教應該讓大部分的孩子能免試、就近入學、選擇有興趣的技職教育，提高社區高中職的免試入學比例，讓許多私立高中職直接就能申請入學。政府要將資源用在社區高中或是就近入學的學校，將社區高中優質化，讓學校競爭力大幅提升，孩子在學校安心就學。全面提升社區高中職的教育品質後，最大的特點將在適性教學，確定就讀社區高中或是在地就學的孩子，將可根據個別興趣、專長，進行技職教育分流以及就讀社區高中，省下準備國中會考的時間。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/blog-post_879.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665578477973/?type=3&theater",
+                  "runs": [
+                    {
+                      "text": "10/30國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [
