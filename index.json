@@ -11593,7 +11593,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "女性勞工公平待遇：",
+                  "text": "女性勞工公平待遇：讓女性勞工得到公平的待遇",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -11603,7 +11603,20 @@
               "labels": [
                 "勞工權益"
               ],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/10/458.html",
+                  "runs": [
+                    {
+                      "text": "10/28國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },

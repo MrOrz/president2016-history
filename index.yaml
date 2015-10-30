@@ -40,7 +40,7 @@ perspectives:
       ref: "洪秀柱官網"
     - content: "保有亞銀會員，但持續抗議亞銀會員名稱[g]"
       ref: "洪秀柱官網"
-  - summary: <span class="c0"></span>
+  - summary: <span class="c1"></span>
     debateArguments:
     - content: "[支持兩岸關係] 兩岸和平的基礎是「九二共識、一中各表」，兩岸和平發展，在經濟、文化、教育、環境等民眾關心的議題，都能合作雙贏。"
       ref: 2015華人企業領袖遠見高峰會、10/29國民黨新聞稿、10/29國民黨粉絲頁
@@ -759,8 +759,8 @@ perspectives:
       ref: 10/28國民黨新聞稿、10/30國民黨新聞稿
     - content: "[勞工權益]勞工職業訓練：委由各工會來進行，並創造職業訓練的產業，推動勞工訓練。"
       ref: 10/28國民黨新聞稿
-    - content: "[勞工權益]女性勞工公平待遇："
-      ref: ''
+    - content: "[勞工權益]女性勞工公平待遇：讓女性勞工得到公平的待遇"
+      ref: 10/28國民黨新聞稿
   - summary: ''
     debateArguments: []
 - title: "社會安全與社會福利"
