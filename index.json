@@ -9834,7 +9834,14 @@
               "children": []
             }
           ],
-          "items": []
+          "items": [
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            }
+          ]
         },
         {
           "summaryParagraphs": [
@@ -9848,28 +9855,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "中國大陸配偶領身分證由「4+2」年將為 ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "4 年",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-07-22T09:07:29.000Z",
-                      "type": "NOTE",
-                      "text": "4 年為其他國籍配偶的持證等候時間"
-                    }
-                  ]
-                },
-                {
-                  "text": " [出處 6/7 中央社]擴大新住民家庭服務中心的預算、提供更多服務",
+                  "text": "中國大陸配偶領身分證由「4+2」年將為 4 年 [出處 6/7 中央社]擴大新住民家庭服務中心的預算、提供更多服務",
                   "isB": false,
                   "isU": false,
                   "isI": false,
