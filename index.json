@@ -1050,7 +1050,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "提出國會三項改革目標：國會效率化、協商透明化與議長中立化。一、效率要提升，民主就是多數決，不要複雜的運作；二、國會協商要透明、簡單明瞭，沒有黑箱、沒有複雜的政治算計；三、國會議長中立化。",
+                  "text": "三大國會改革政策：議事效率化、協商透明化、議長中立化。1、強化常設委員會專業職能，提昇議事效率（建立委員會的「資深制度」、強化國會助理專業度、推動院調查權與聽證權的法制化、法案回歸委員會專業審查、提高委員會表決門檻）2、推動朝野協商制度公開化、透明化（各黨團代表參與協商前應獲得授權、協商過程應依法全程公開透明化、參與協商人員必須「利益迴避」）3、推動議事透明化，擴大公民參與（網路公告委員發言＆表決記錄、擴大公民參與監督管道）4、建構國會議長中立化的政治環境（推動紀律委員會常設化、禮讓資深議長擺脫選區經營成為提名慣例）",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -1061,6 +1061,25 @@
                 "立法院效率"
               ],
               "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/11/blog-post_36.html",
+                  "runs": [
+                    {
+                      "text": "1104國會改革政策",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
                 {
                   "href": "http://www.gvm.com.tw/webonly_content_6748.html",
                   "runs": [
@@ -9634,13 +9653,38 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "全力支持保存原住民的原鄉文化以及語言的傳承，也將推動原住民青年人回到花蓮、台東等原鄉做志工、服務。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "支持多元文化"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/11/blog-post_20.html",
+                  "runs": [
+                    {
+                      "text": "1103國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [
@@ -11555,6 +11599,35 @@
         {
           "summaryParagraphs": [],
           "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "主張工時應該改革；假日應該連假",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "勞工權益"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/11/blog-post_74.html",
+                  "runs": [
+                    {
+                      "text": "11/04國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "level": 0,
               "children": [
