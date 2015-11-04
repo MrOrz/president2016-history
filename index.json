@@ -1044,13 +1044,26 @@
           ]
         },
         {
-          "summaryParagraphs": [],
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": [
+                {
+                  "text": "[出處 1104國會改革政策、2015華人企業領袖遠見高峰會、10/29國民黨新聞稿、10/29國民黨粉絲頁、10/28國民黨新聞稿]",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ]
+            }
+          ],
           "items": [
             {
               "level": 0,
               "children": [
                 {
-                  "text": "提出國會三項改革目標：國會效率化、協商透明化與議長中立化。一、效率要提升，民主就是多數決，不要複雜的運作；二、國會協商要透明、簡單明瞭，沒有黑箱、沒有複雜的政治算計；三、國會議長中立化。",
+                  "text": "三大國會改革政策：議事效率化、協商透明化、議長中立化",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -1060,77 +1073,125 @@
               "labels": [
                 "立法院效率"
               ],
-              "ref": [
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
                 {
-                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
-                  "runs": [
-                    {
-                      "text": "2015華人企業領袖遠見高峰會",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
+                  "text": "強化常設委員會專業職能，提昇議事效率",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
-                },
-                {
-                  "href": "http://www.kmt.org.tw/2015/10/blog-post_684.html",
-                  "runs": [
-                    {
-                      "text": "10/29國民黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
-                  "runs": [
-                    {
-                      "text": "10/29國民黨粉絲頁",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://www.kmt.org.tw/2015/10/blog-post_376.html",
-                  "runs": [
-                    {
-                      "text": "10/28國民黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
                 }
-              ]
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [
+                {
+                  "text": "建立委員會的「資深制度」",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [
+                {
+                  "text": "強化國會助理專業度",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [
+                {
+                  "text": "推動院調查權與聽證權的法制化",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [
+                {
+                  "text": "法案回歸委員會專業審查",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 1,
+              "children": [
+                {
+                  "text": "提高委員會表決門檻",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "推動朝野協商制度公開化、透明化",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "推動議事透明化，擴大公民參與",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": []
             },
             {
               "level": 0,
