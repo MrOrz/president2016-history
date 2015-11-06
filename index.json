@@ -3462,6 +3462,64 @@
               "level": 0,
               "children": [
                 {
+                  "text": "新農業要有機化、精緻化、建立品牌，要鼓勵年輕人回到故鄉拼新農業，培養更多有機農民，讓年輕人回到故鄉，老農可以退休，由年輕人創造新農業的契機。此外，台灣農產品不僅要內銷、還要外銷，賣到日本、大陸等世界各國，讓大家都吃得到台灣最好的農產品。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "農業與農民"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/11/blog-post_80.html",
+                  "runs": [
+                    {
+                      "text": "11/06國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "當選後將要求農委會重新檢討南投農民所面臨國有地與台大實驗林的承租政策。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "農業與農民"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.kmt.org.tw/2015/11/blog-post_44.html",
+                  "runs": [
+                    {
+                      "text": "11/06國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
                   "text": "推動食農教育除了學校營養午餐讓學童吃有機蔬菜外，也在學校教育孩子如何種植有機蔬菜，並以可食地景的模式與社區結合推動食農教育。",
                   "isB": false,
                   "isU": false,
@@ -4619,40 +4677,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "啟動「浪漫台三線」計劃，仿照德國串連26個特色小鎮發展觀光產業的「浪漫大道」，讓台三線成為串連各鄉鎮產業、文化、傳統和生",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "活",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Anonymous",
-                      "date": "2015-08-05T09:53:36.000Z",
-                      "type": "OTHER",
-                      "text": "【補充說明】相關新聞：2015/8/02具有客庄特色的觀光大道、休閒大道、生活大道和產業大道"
-                    },
-                    {
-                      "author": "Anonymous",
-                      "date": "2015-08-03T20:52:36.000Z",
-                      "type": "OTHER",
-                      "text": "2015/8/02蔡英文粉專\nhttps://www.facebook.com/tsaiingwen/posts/10152837727616065"
-                    },
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-08-05T09:53:36.000Z",
-                      "type": "OTHER",
-                      "text": "「補充說明」的框框應該要是半形 [ ]而不是全型噢！另外，8/2 粉絲專頁內容是 7/13 原內容的補充，建議直接摘要 8/2 之內容，覆蓋 7/13 的內容即可。"
-                    }
-                  ]
-                },
-                {
-                  "text": "的客家產業復興大道。",
+                  "text": "啟動「浪漫台三線」計劃，仿照德國串連26個特色小鎮發展觀光產業的「浪漫大道」，讓台三線成為串連各鄉鎮產業、文化、傳統和生活的客家產業復興大道。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
