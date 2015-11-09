@@ -870,7 +870,9 @@ perspectives:
   - summary: ''
     debateArguments: []
   - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: "[提升社福預算]公共托育政策：1、活用閑置空間：全面利用少子化所多出來的學校空間，大量設置公共托育服務。2、帶動托育產業：結合幼保技職教育，創造專業人員的就業機會，讓更多家長可以安心就業。3、釋放婦女勞動力：政府全面推廣設置公共托育中心，不只照顧好孩子，也能讓年輕的父母親沒有後顧之憂，為未來打拚。"
+      ref: 11/07國民黨官網、11/08朱立倫粉絲頁
   - summary: ''
     debateArguments:
     - content: "每一嬰出生補助，全台每年20萬新生兒，一年約60億預算。"
