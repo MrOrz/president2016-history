@@ -4553,13 +4553,38 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "證所稅：1、贊成直接廢除證所稅，讓稅政簡單明瞭；2、證交稅已隱含證所稅意義，2012年復徵證所稅，反造成股市平均每年損失240億元的交易稅；3、國民黨團提出證所稅修正版，僅保留證所稅名目，與實際廢除其實相差不遠。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "經濟誘因"
+              ],
+              "ref": [
+                {
+                  "href": "http://money.udn.com/money/story/7307/1302086",
+                  "runs": [
+                    {
+                      "text": "11/08經濟日報專訪",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [],
@@ -7556,7 +7581,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "發展經濟、穩定民生，一定要有務實、健康的能源政策。在「2025非核家園」的目標下，我們具體主張：1. 核四已封存，核一、二、三廠不能延役；2. 提升火力與天然氣發電方式，作為電力供應；3. 整體輸配電系統數位化，以達到節電目標；4. 以電價或相對制衡的方式，推動智慧電網；5. 既有核廢料逐步處理，必要時送到國外為選項之一。",
+                  "text": "發展經濟、穩定民生，一定要有務實、健康的能源政策。在「2025非核家園」的目標下，具體主張：1. 核四已封存，核一、二、三廠不能延役；2. 提升火力與天然氣發電方式，作為電力供應；3. 整體輸配電系統數位化，以達到節電目標；4. 以電價或相對制衡的方式，推動智慧電網；5. 既有核廢料逐步處理，必要時送到國外為選項之一。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -10175,49 +10200,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "發展社會住宅可透過",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "興建",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T17:45:31.000Z",
-                      "type": "NOTE",
-                      "text": "據官網投影片內容，將以公有土地為來源，包含縣市土地的優先使用，與國有土地的無償撥用借用。"
-                    }
-                  ]
-                },
-                {
-                  "text": "(60~70%)、空餘屋的",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "包租",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T18:12:35.000Z",
-                      "type": "NOTE",
-                      "text": "據官網投影片，包含專責機構以新法制承租管理民間空屋，與社福團體經營提供弱勢居住。"
-                    }
-                  ]
-                },
-                {
-                  "text": "(10~20%)與容積獎勵(20~30%)。",
+                  "text": "發展社會住宅可透過興建(60~70%)、空餘屋的包租(10~20%)與容積獎勵(20~30%)。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -10734,13 +10717,67 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "目前臺灣房市已由賣方市場翻轉為買方市場，已沒有「政府打房」的必要，靠市場機制運作即可。但政府必須小心並避免在房市盤整過程中，建商、銀行與投資客，可能出現信用危機。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "經濟控制"
+              ],
+              "ref": [
+                {
+                  "href": "http://money.udn.com/money/story/7307/1302094-%E6%9C%B1%E7%AB%8B%E5%80%AB%EF%BC%9A%E6%8E%A8%E5%8B%95%E7%A8%85%E6%94%B9-%E9%80%80%E7%A8%85%E4%BD%8E%E8%96%AA%E6%97%8F",
+                  "runs": [
+                    {
+                      "text": "11/08經濟日報專訪",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "政府不應廣蓋社會住宅，而應該要提供租稅誘因、鼓勵房東租出空屋租給青年或弱勢；政府再另外提供房客津貼，就能找出超過十萬空屋來作為社會住宅。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "社會正義"
+              ],
+              "ref": [
+                {
+                  "href": "http://money.udn.com/money/story/7307/1302094-%E6%9C%B1%E7%AB%8B%E5%80%AB%EF%BC%9A%E6%8E%A8%E5%8B%95%E7%A8%85%E6%94%B9-%E9%80%80%E7%A8%85%E4%BD%8E%E8%96%AA%E6%97%8F",
+                  "runs": [
+                    {
+                      "text": "11/08經濟日報專訪",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [],
@@ -12337,13 +12374,36 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "年金改革：應以「總額制」精神推動年金改革，才能兼顧世代正義與職業正義。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://money.udn.com/money/story/7307/1302084",
+                  "runs": [
+                    {
+                      "text": "11/08經濟日報專訪",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [],
@@ -12790,15 +12850,9 @@
           "items": [
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": []
-            },
-            {
-              "level": 0,
               "children": [
                 {
-                  "text": "設計在地安養，讓老人、長輩在社區或家庭中受到照顧，透過社區共同輔助的體系來進行，例如推動健康老人的快樂學習、老人共餐、銀髮俱樂部；由年輕人或長者照顧老人的銀髮志工、不老志工；社區成立日間照護中心等。此外，失智、失能者在社區受到照顧是最高理想，用簡單心情、從民眾角度出發。",
+                  "text": "設計在地安養，讓老人、長輩在社區或家庭中受到照顧，透過社區共同輔助的體系來進行，例如推動健康老人的快樂學習、老人共餐、銀髮俱樂部；由年輕人或長者照顧老人的銀髮志工、不老志工；社區成立日間照護中心等。此外，失智、失能者在社區受到照顧是最高理想，用簡單心情、從民眾角度出發。 [出處 2015華人企業領袖遠見高峰會、10/29國民黨新聞稿、10/29國民黨粉絲頁",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -12808,58 +12862,7 @@
               "labels": [
                 "提升社福預算"
               ],
-              "ref": [
-                {
-                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
-                  "runs": [
-                    {
-                      "text": "2015華人企業領袖遠見高峰會",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://www.kmt.org.tw/2015/10/blog-post_684.html",
-                  "runs": [
-                    {
-                      "text": "10/29國民黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
-                  "runs": [
-                    {
-                      "text": "10/29國民黨粉絲頁",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
+              "ref": []
             }
           ]
         },
