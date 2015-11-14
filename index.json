@@ -3976,6 +3976,10 @@
             {
               "level": -1,
               "children": []
+            },
+            {
+              "level": -1,
+              "children": []
             }
           ],
           "items": [
@@ -4059,6 +4063,33 @@
                 },
                 {
                   "text": "，如規定每棟房屋的綠屋頂比例、新能源比例，推動植栽產業、太陽能產業等相關綠能產業，有望技術輸出到國外",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
+                  "runs": [
+                    {
+                      "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "建立綠能教育中心，實驗性修正法規，成熟後再向全台灣推廣",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -4770,7 +4801,7 @@
           "level": -1,
           "children": [
             {
-              "text": "經濟／土地利用、規劃",
+              "text": "經濟／國土規劃",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -5097,7 +5128,7 @@
           "level": -1,
           "children": [
             {
-              "text": "經濟／法律改制、市場透明化",
+              "text": "經濟／透明市場",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -5280,7 +5311,7 @@
           "level": -1,
           "children": [
             {
-              "text": "公共基礎建設",
+              "text": "公共、基礎建設",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -5636,7 +5667,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "地方政府是國土規劃及災害防救的第一線執行單位，中央結合地方政府的決策輔助系統。同時也請執政縣市長提供黨內政策部門相關的需求建議。",
+                  "text": "地方政府是國土規劃及災害防救的第一線執行單位，中ㄉ央結合地方政府的決策輔助系統。同時也請執政縣市長提供黨內政策部門相關的需求建議。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -5780,7 +5811,12 @@
           "items": []
         },
         {
-          "summaryParagraphs": [],
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
           "items": [
             {
               "level": 0,
@@ -5841,33 +5877,6 @@
               "children": [
                 {
                   "text": "補助地方普設公車專用道、自行車道/橋、人行專用步到、路外停車場等設施",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
-                  "runs": [
-                    {
-                      "text": "親民黨政策專區",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "建立綠能教育中心，實驗性修正法規，成熟後再向全台灣推廣",
                   "isB": false,
                   "isU": false,
                   "isI": false,
