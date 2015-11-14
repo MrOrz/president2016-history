@@ -5,27 +5,17 @@ positionTitle:
 - "朱立倫"
 - "宋楚瑜"
 perspectives:
-- title: "對外關係>兩岸"
+- title: "對外關係／兩岸"
   positions:
   - summary: ''
     debateArguments:
-    - content: "已成立 TPP 特別小組，探討加入 TPP 的各層面問題[a]"
-      ref: 6/4 粉絲頁
-    - content: "[擴增軍備]持續強化台美軍事合作，並共同因應網路安全等非傳統安全威脅。除對外採購武器系統、取得平台，也在本土國防計劃與研發上進行更多投資"
-      ref: 6/4 粉絲頁
-    - content: "[支持國際主義]以貨櫃安全倡議及大港倡議[b]為模式推動與美國的反恐合作"
+    - content: "[支持國際主義]以貨櫃安全倡議及大港倡議[a]為模式推動與美國的反恐合作"
       ref: 6/4 粉絲頁
     - content: "[支持兩岸關係]承諾ㄧ建立一致性、可預測且可持續的兩岸關係"
       ref: 6/4 粉絲頁
     - content: "[透明政府]完成《兩岸協議監督條例》立法，且監督條例適用於正在進行之協議"
       ref: 6/4 粉絲頁
-    - content: "在全募兵與全徵兵制之間找出最理想制度"
-      ref: 4/22粉絲頁
-    - content: "[國防改革]「國防加值策略」：以「國防產業」帶動經濟發展及產業創新的動能，藉由對國防的投資，讓台灣的科技產業能領先，也希望民間科技可由國防運用；希望下個世代的科技發展與人才，都可以軍民兩用[c]。"
-      ref: 8/15粉專
-    - content: "[國防改革]對於一般軍備及武器裝備的採購，國內能自製的，應嚴格遵守國內採購的要求；若國內無法自製、需向外採購，則要盡最大可能落實技術轉移。"
-      ref: 8/15粉專
-    - content: "分期分階段開放東協十國[d]來台免簽證，發展電子簽證網路申請系統。"
+    - content: "分期分階段開放東協十國[b]來台免簽證，發展電子簽證網路申請系統。"
       ref: 9/10官網
   - summary: ''
     debateArguments:
@@ -34,40 +24,50 @@ perspectives:
       ref: "洪秀柱對於兩岸政策的說帖 p6、p13、5/1洪秀柱粉絲頁"
     - content: "[反對台灣國] 希望兩岸能對法理現狀「主權宣示重疊、現政治權分立」有共識。"
       ref: "洪秀柱對於兩岸政策的說帖 p11"
-    - content: "[反對台灣國]兩岸是「整個中國[e]」內部的兩個憲政政府，兩岸關係不是「國際關係」，也不是任一方的「內政關係」，是「整個中國」的「內部關係」[f]。"
+    - content: "[反對台灣國]兩岸是「整個中國[c]」內部的兩個憲政政府，兩岸關係不是「國際關係」，也不是任一方的「內政關係」，是「整個中國」的「內部關係」[d]。"
       ref: "洪秀柱對於兩岸政策的說帖 p11 、官網"
-    - content: "積極爭取參加亞投行，但絕不接受使用「Taipei, China 中國台北」名稱，「Chinese Taipei 中華臺北」是底線"
-      ref: "洪秀柱官網"
-    - content: "保有亞銀會員，但持續抗議亞銀會員名稱[g]"
-      ref: "洪秀柱官網"
   - summary: ''
     debateArguments:
     - content: "[支持兩岸關係] 兩岸和平的基礎是「九二共識、一中各表」，兩岸和平發展，在經濟、文化、教育、環境等民眾關心的議題，都能合作雙贏。"
       ref: 2015華人企業領袖遠見高峰會、10/29國民黨新聞稿、10/29國民黨粉絲頁
-    - content: "[台灣安全]聯合開發與經濟利益共享是解決南海爭議的正面方式，牽涉到主權跟經濟效益，應該以和平為基本原則，透過聯合開發、經濟利益共享的角度讓大家加入，是解決南海爭議比較正面的方式。台灣除了在太平島跟東沙島上的主權角色，也要擔任和平倡議者或維護者；在開發南海部分，太平島如果能做永續生態式且結合觀光的開發，絕對有非常大的價值，相對帶動南海群島的地位。"
-      ref: "中廣「文茜的異想世界」節目10/28專訪（國民黨官網）"
   - summary: ''
     debateArguments:
     - content: "[透明政府]兩岸間重要決策，共同參與、過程透明，接受全民與國會監督，避免黑作業。"
       ref: 8/5 參選宣言
+- title: "對外關係／國防"
+  positions:
+  - summary: ''
+    debateArguments:
+    - content: "[擴增軍備]持續強化台美軍事合作，並共同因應網路安全等非傳統安全威脅。除對外採購武器系統、取得平台，也在本土國防計劃與研發上進行更多投資"
+      ref: 6/4 粉絲頁
+    - content: "在全募兵與全徵兵制之間找出最理想制度"
+      ref: 4/22粉絲頁
+    - content: "[國防改革]「國防加值策略」：以「國防產業」帶動經濟發展及產業創新的動能，藉由對國防的投資，讓台灣的科技產業能領先，也希望民間科技可由國防運用；希望下個世代的科技發展與人才，都可以軍民兩用[e]。"
+      ref: 8/15粉專
+    - content: "[國防改革]對於一般軍備及武器裝備的採購，國內能自製的，應嚴格遵守國內採購的要求；若國內無法自製、需向外採購，則要盡最大可能落實技術轉移。"
+      ref: 8/15粉專
+  - summary: ''
+    debateArguments: []
+  - summary: ''
+    debateArguments:
+    - content: "[台灣安全]聯合開發與經濟利益共享是解決南海爭議的正面方式，牽涉到主權跟經濟效益，應該以和平為基本原則，透過聯合開發、經濟利益共享的角度讓大家加入，是解決南海爭議比較正面的方式。台灣除了在太平島跟東沙島上的主權角色，也要擔任和平倡議者或維護者。"
+      ref: "中廣「文茜的異想世界」節目10/28專訪（國民黨官網）"
+  - summary: ''
+    debateArguments:
     - content: "[和平]任何改變兩岸現況必須尊重台灣民眾的自由意志；兩岸雙方不結盟對抗、不進行軍備禁賽，確保亞太區域和平穩定。"
       ref: 8/5 參選宣言
-- title: "對外關係>國防"
+- title: "對外關係／國際參與"
   positions:
   - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: "已成立 TPP 特別小組，探討加入 TPP 的各層面問題[f]"
+      ref: 6/4 粉絲頁
   - summary: ''
-    debateArguments: []
-  - summary: ''
-    debateArguments: []
-  - summary: ''
-    debateArguments: []
-- title: "對外關係>國際策略"
-  positions:
-  - summary: ''
-    debateArguments: []
-  - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: "積極爭取參加亞投行，但絕不接受使用「Taipei, China 中國台北」名稱，「Chinese Taipei 中華臺北」是底線"
+      ref: "洪秀柱官網"
+    - content: "保有亞銀會員，但持續抗議亞銀會員名稱[g]"
+      ref: "洪秀柱官網"
   - summary: ''
     debateArguments: []
   - summary: ''
@@ -136,7 +136,7 @@ perspectives:
     debateArguments:
     - content: "將固定比例的交通罰款收入用於補助市民搭乘大眾運輸"
       ref: "親民黨政策專區"
-- title: "經濟與產業發展、轉型"
+- title: "經濟／產業發展、轉型"
   positions:
   - summary: ''
     debateArguments:
@@ -199,7 +199,7 @@ perspectives:
     debateArguments: []
   - summary: ''
     debateArguments: []
-- title: "經濟——農業"
+- title: "經濟／農業"
   positions:
   - summary: ''
     debateArguments:
@@ -231,7 +231,7 @@ perspectives:
       ref: 1028國民黨新聞稿
   - summary: ''
     debateArguments: []
-- title: "經濟——綠能產業"
+- title: "經濟／綠能產業"
   positions:
   - summary: ''
     debateArguments:
@@ -253,7 +253,7 @@ perspectives:
       ref: "親民黨政策專區"
     - content: "修改現行建築法令[ap]，如規定每棟房屋的綠屋頂比例、新能源比例，推動植栽產業、太陽能產業等相關綠能產業，有望技術輸出到國外"
       ref: "親民黨政策專區"
-- title: "經濟——營造業"
+- title: "經濟／營造業"
   positions:
   - summary: ''
     debateArguments:
@@ -265,7 +265,7 @@ perspectives:
     debateArguments: []
   - summary: ''
     debateArguments: []
-- title: "經濟——進出口貿易及投資環境"
+- title: "經濟／進出口、投資"
   positions:
   - summary: ''
     debateArguments: []
@@ -287,7 +287,7 @@ perspectives:
       ref: 2015華人企業領袖遠見高峰會、10/29國民黨新聞稿、10/29國民黨粉絲頁
   - summary: ''
     debateArguments: []
-- title: "經濟——證所稅"
+- title: "經濟／證所稅"
   positions:
   - summary: ''
     debateArguments: []
@@ -309,7 +309,7 @@ perspectives:
       ref: 8/19 聯合新聞網
     - content: "[自由經濟]若證交稅與證所稅切割處理，證交稅率至少減半，其餘證所稅由投資人決定扣繳方式，或直接課 3‰ 證交稅[at][au]"
       ref: 8/19 聯合新聞網
-- title: "經濟——土地利用及規劃"
+- title: "經濟／土地利用、規劃"
   positions:
   - summary: ''
     debateArguments:
@@ -328,10 +328,12 @@ perspectives:
     - content: "[國土與城市規劃]缺地問題：政府釋出可利用土地給產業，或將既有工業用地適度提高容積率"
       ref: "洪秀柱官網"
   - summary: ''
-    debateArguments: []
+    debateArguments:
+    - content: "開發南海部分，太平島如果能做永續生態式且結合觀光的開發，絕對有非常大的價值，相對帶動南海群島的地位。"
+      ref: "中廣「文茜的異想世界」節目10/28專訪（國民黨官網）"
   - summary: ''
     debateArguments: []
-- title: "經濟——法律改制及市場透明化"
+- title: "經濟／法律改制、市場透明化"
   positions:
   - summary: ''
     debateArguments:
@@ -524,7 +526,7 @@ perspectives:
       ref: "官網"
     - content: "注重偏遠地區的大眾運輸，強化路網接駁"
       ref: "親民黨政策專區"
-- title: "公平正義——死刑"
+- title: "公平正義／死刑"
   positions:
   - summary: ''
     debateArguments: []
@@ -536,7 +538,7 @@ perspectives:
     debateArguments: []
   - summary: ''
     debateArguments: []
-- title: "公平正義——身心障礙者"
+- title: "公平正義／身心障礙者"
   positions:
   - summary: ''
     debateArguments:
@@ -560,7 +562,7 @@ perspectives:
     debateArguments: []
   - summary: ''
     debateArguments: []
-- title: "公平正義——婚姻"
+- title: "公平正義／婚姻"
   positions:
   - summary: ''
     debateArguments:
@@ -576,7 +578,7 @@ perspectives:
     debateArguments: []
   - summary: ''
     debateArguments: []
-- title: "公平正義——客家族群"
+- title: "公平正義／客家族群"
   positions:
   - summary: ''
     debateArguments:
@@ -1107,25 +1109,25 @@ perspectives:
 comments:
   '1':
     type: NOTE
-    content: "包含結構調整與改革的需求、遵守國際標準的範疇、法規與行政程序的合理簡化，以及對特定產業的投資"
+    content: "現已有《大港倡議作業要點》 http://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040070061019900-1020125"
   '2':
     type: NOTE
-    content: "現已有《大港倡議作業要點》 http://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040070061019900-1020125"
+    content: "據官網，為發展穆斯林觀光，擬開放東協十國逐步免簽：目前東協十國來台免簽證國包含新加坡、馬來西亞，汶萊目前是落地簽可直接開放免簽；越南、泰國、印尼、菲律賓則先從團客免簽、商務客免簽或多次簽開始，再到全面免簽；緬甸、柬埔寨、寮國則能考慮先給落地簽，再逐步給予免簽。"
   '3':
     type: NOTE
-    content: "(同天粉專)將與能源、ICT(資通)、機械等產業相互合作，無論在技術、人才、研發等方面上互通有無。同時，擇取「航太」、「船舶」、「資安」等重點領域，做為積極推動的核心國防產業。"
-  '4':
-    type: NOTE
-    content: "據官網，為發展穆斯林觀光，擬開放東協十國逐步免簽：目前東協十國來台免簽證國包含新加坡、馬來西亞，汶萊目前是落地簽可直接開放免簽；越南、泰國、印尼、菲律賓則先從團客免簽、商務客免簽或多次簽開始，再到全面免簽；緬甸、柬埔寨、寮國則能考慮先給落地簽，再逐步給予免簽。"
-  '5':
-    type: NOTE
     content: "「整個中國」指「中共與中華民國的人口與土地的組合」。"
-  '6':
+  '4':
     type: NOTE
     content: |-
       各關係使用的英文如下：國際關係 — international relations
       內政關係 — domestic relations
       內部關係 — inter-se relations
+  '5':
+    type: NOTE
+    content: "(同天粉專)將與能源、ICT(資通)、機械等產業相互合作，無論在技術、人才、研發等方面上互通有無。同時，擇取「航太」、「船舶」、「資安」等重點領域，做為積極推動的核心國防產業。"
+  '6':
+    type: NOTE
+    content: "包含結構調整與改革的需求、遵守國際標準的範疇、法規與行政程序的合理簡化，以及對特定產業的投資"
   '7':
     type: NOTE
     content: "我國為亞銀創始會員之一；但在 1968 年 3 月中華人民共和國加入後，被片面更改為 Taipei, China。中華民國代表團參加亞銀活動，就以「抗議中」（under
