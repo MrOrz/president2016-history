@@ -1029,7 +1029,8 @@
                 }
               ],
               "labels": [
-                "民主"
+                "民主",
+                "制度改革"
               ],
               "ref": [
                 {
@@ -1057,7 +1058,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "立法院",
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "https://www.facebook.com/tsaiingwen/photos/a.390960786064.163647.46251501064/10152741816421065/?type=1",
@@ -1084,7 +1088,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "立法院",
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "https://www.facebook.com/tsaiingwen/photos/a.390960786064.163647.46251501064/10152880906196065/?type=1&theater",
@@ -1116,7 +1123,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "立法院",
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150722012138/http://www.theway.best/2015/05/blog-post_18.html",
@@ -1189,7 +1199,8 @@
                 }
               ],
               "labels": [
-                "民主"
+                "民主",
+                "制度改革"
               ],
               "ref": [
                 {
@@ -1366,7 +1377,8 @@
                 }
               ],
               "labels": [
-                "憲政主義:正面"
+                "立法院",
+                "制度改革"
               ],
               "ref": [
                 {
@@ -1414,7 +1426,8 @@
                 }
               ],
               "labels": [
-                "立法院效率"
+                "立法院",
+                "效率提升"
               ],
               "ref": [
                 {
@@ -1443,7 +1456,8 @@
                 }
               ],
               "labels": [
-                "立法院效率"
+                "立法院",
+                "透明政府"
               ],
               "ref": [
                 {
@@ -1472,7 +1486,8 @@
                 }
               ],
               "labels": [
-                "立法院效率"
+                "立法院",
+                "透明政府"
               ],
               "ref": [
                 {
@@ -1511,6 +1526,7 @@
                 }
               ],
               "labels": [
+                "民主",
                 "社會和諧"
               ],
               "ref": [
@@ -1561,7 +1577,8 @@
                 }
               ],
               "labels": [
-                "憲政主義:負面"
+                "憲法",
+                "制度改革"
               ],
               "ref": [
                 {
@@ -1589,7 +1606,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "立法院",
+                "透明政府"
+              ],
               "ref": [
                 {
                   "href": "https://www.facebook.com/permalink.php?story_fbid=492151550949805&id=491399324358361",
@@ -1617,6 +1637,7 @@
                 }
               ],
               "labels": [
+                "民主",
                 "社會和諧"
               ],
               "ref": [
@@ -1675,7 +1696,7 @@
                 }
               ],
               "labels": [
-                "經濟正統"
+                "赤字"
               ],
               "ref": [
                 {
@@ -1754,7 +1775,7 @@
                 }
               ],
               "labels": [
-                "地方自治"
+                "預算"
               ],
               "ref": [
                 {
@@ -1783,7 +1804,7 @@
                 }
               ],
               "labels": [
-                "經濟正統"
+                "赤字"
               ],
               "ref": [
                 {
@@ -1812,36 +1833,7 @@
                 }
               ],
               "labels": [
-                "行政效率"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114061023/http://www.dpp.org.tw/news_content.php?sn=8032",
-                  "runs": [
-                    {
-                      "text": "7/22民進黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "中央政府的計畫型補助，應該以跨域共同建設為優先，透過治理效能的提高，改善財政效率。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "行政效率"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -1870,7 +1862,7 @@
                 }
               ],
               "labels": [
-                "行政效率"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -1921,7 +1913,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -1973,7 +1967,8 @@
                 }
               ],
               "labels": [
-                "地方自治"
+                "經濟發展",
+                "發展方向"
               ],
               "ref": [
                 {
@@ -2002,7 +1997,8 @@
                 }
               ],
               "labels": [
-                "反成長經濟"
+                "經濟發展",
+                "全民共享"
               ],
               "ref": [
                 {
@@ -2071,8 +2067,8 @@
                 }
               ],
               "labels": [
-                "計畫經濟",
-                "生產力"
+                "產業轉型",
+                "創新"
               ],
               "ref": [
                 {
@@ -2101,7 +2097,8 @@
                 }
               ],
               "labels": [
-                "生產力"
+                "產業轉型",
+                "創新"
               ],
               "ref": [
                 {
@@ -2248,7 +2245,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "經濟發展",
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114061720/http://iing.tw/posts/159",
@@ -2294,7 +2294,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "經濟發展",
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114061720/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
@@ -2382,7 +2385,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "經濟發展",
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114062857/http://iing.tw/posts/159",
@@ -2489,7 +2495,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "經濟發展",
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114063018/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8233&stat=&order_type=desc&order_col=add_date&data_type=新聞",
@@ -2535,7 +2544,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "經濟發展",
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114063052/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8237&stat=&order_type=desc&order_col=add_date&data_type=新聞",
@@ -2625,7 +2637,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "經濟發展",
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114063052/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8237&stat=&order_type=desc&order_col=add_date&data_type=新聞",
@@ -2673,7 +2688,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "產業轉型",
+                "創新"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
@@ -2700,7 +2718,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "產業轉型",
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
@@ -2727,7 +2748,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "經濟發展",
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
@@ -2817,7 +2841,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "經濟發展",
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
@@ -2926,7 +2953,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "經濟發展",
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
@@ -2946,14 +2976,34 @@
               "level": 0,
               "children": [
                 {
-                  "text": "放寬電子商務法規，鼓勵電子商務產業、電信業、物聯網與觀光產業結合；與亞馬遜、阿里巴巴共享消費數據與付款紀錄分析，讓每位旅客收到客製化的消費行銷資訊。",
+                  "text": "放寬電子商務法規，鼓勵電子商務產業、電信業、物聯網與觀光產業結合",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "產業轉型",
+                "制度改革"
+              ],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "與亞馬遜、阿里巴巴共享消費數據與付款紀錄分析，讓每位旅客收到客製化的消費行銷資訊。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "產業轉型",
+                "創新"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
@@ -3020,7 +3070,8 @@
                 }
               ],
               "labels": [
-                "生產力"
+                "經濟發展",
+                "發展方向"
               ],
               "ref": [
                 {
@@ -3049,7 +3100,8 @@
                 }
               ],
               "labels": [
-                "經濟誘因"
+                "經濟發展",
+                "發展方向"
               ],
               "ref": [
                 {
@@ -3107,7 +3159,8 @@
                 }
               ],
               "labels": [
-                "計畫經濟"
+                "產業轉型",
+                "創新"
               ],
               "ref": [
                 {
@@ -3136,7 +3189,8 @@
                 }
               ],
               "labels": [
-                "科技與基礎建設"
+                "產業轉型",
+                "創新"
               ],
               "ref": [
                 {
@@ -3235,7 +3289,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "產業轉型",
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150914060910/http://www.theway.best/2015/08/1040828-40.html",
@@ -5757,6 +5814,35 @@
                   "runs": [
                     {
                       "text": "8/29 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "中央政府的計畫型補助，應該以跨域共同建設為優先，透過治理效能的提高，改善財政效率。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "制度改革"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114061023/http://www.dpp.org.tw/news_content.php?sn=8032",
+                  "runs": [
+                    {
+                      "text": "7/22民進黨新聞稿",
                       "isB": false,
                       "isU": false,
                       "isI": false,
