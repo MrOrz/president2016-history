@@ -2987,7 +2987,20 @@
                 "產業轉型",
                 "制度改革"
               ],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
+                  "runs": [
+                    {
+                      "text": "9/10官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
