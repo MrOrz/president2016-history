@@ -306,11 +306,9 @@
             },
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": [
+              "children": [
                 {
-                  "text": "階段開放",
+                  "text": "分期分階段開放",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -331,11 +329,26 @@
                   ]
                 },
                 {
-                  "text": "來台免簽證，發展電子簽證網路申請系統。[出處",
+                  "text": "來台免簽證，發展電子簽證網路申請系統。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114060951/http://iing.tw/posts/102",
+                  "runs": [
+                    {
+                      "text": "9/10官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 }
               ]
             }
@@ -351,16 +364,19 @@
           "items": [
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": [
+              "children": [
                 {
-                  "text": "兩岸關係] 在 (1) 不違反中華民國憲法、(2) 雙方平等尊嚴、(3) 北京放棄武力威脅台灣（安全議題）且保障中華民國國際參與、(4) 有助和平、(5) 人民同意 以上五原則之下，簽署《兩岸和平協定》 [出處 ",
+                  "text": "在 (1) 不違反中華民國憲法、(2) 雙方平等尊嚴、(3) 北京放棄武力威脅台灣（安全議題）且保障中華民國國際參與、(4) 有助和平、(5) 人民同意 以上五原則之下，簽署《兩岸和平協定》",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
-                },
+                }
+              ],
+              "labels": [
+                "支持兩岸關係"
+              ],
+              "ref": [
                 {
                   "href": "http://web.archive.org/web/20150720090202/http://hk.crntt.com/doc/1037/3/4/5/103734502_6.html?coluid=93&kindid=4030&docid=103734502&mdate=0514231642",
                   "runs": [
@@ -379,6 +395,18 @@
                   "isU": false,
                   "isI": false,
                   "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114060542/http://hk.crntt.com/doc/1037/3/4/5/103734502_13.html?coluid=93&kindid=4030&docid=103734502&mdate=0514231642",
+                  "runs": [
+                    {
+                      "text": "p13",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 },
                 {
                   "text": "、",
@@ -405,14 +433,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "希望兩岸能對法理現狀「主權宣示重疊、現政治權分立」有共識。 [出處 ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": " ]",
+                  "text": "希望兩岸能對法理現狀「主權宣示重疊、現政治權分立」有共識。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -422,7 +443,20 @@
               "labels": [
                 "反對台灣國"
               ],
-              "ref": []
+              "ref": [
+                {
+                  "href": "http://hk.crntt.com/doc/1037/3/4/5/103734502_11.html?coluid=93&kindid=4030&docid=103734502&mdate=0514231642",
+                  "runs": [
+                    {
+                      "text": "洪秀柱對於兩岸政策的說帖 p11",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
             {
               "level": 0,
@@ -1014,15 +1048,30 @@
           "items": [
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": [
+              "children": [
                 {
-                  "text": "院效率] 三大國會改革政策：議事效率化、協商透明化、議長中立化。1、強化常設委員會專業職能，提昇議事效率（建立委員會的「資深制度」、強化國會助理專業度、推動院調查權與聽證權的法制化、法案回歸委員會專業審查、提高委員會表決門檻）2、推動朝野協商制度公開化、透明化（各黨團代表參與協商前應獲得授權、協商過程應依法全程公開透明化、參與協商人員必須「利益迴避」）3、推動議事透明化，擴大公民參與（網路公告委員發言＆表決記錄、擴大公民參與監督管道）4、建構國會議長中立化的政治環境（推動紀律委員會常設化、禮讓資深議長擺脫選區經營成為提名慣例）[出處 ",
+                  "text": "三大國會改革政策：議事效率化、協商透明化、議長中立化。1、強化常設委員會專業職能，提昇議事效率（建立委員會的「資深制度」、強化國會助理專業度、推動院調查權與聽證權的法制化、法案回歸委員會專業審查、提高委員會表決門檻）2、推動朝野協商制度公開化、透明化（各黨團代表參與協商前應獲得授權、協商過程應依法全程公開透明化、參與協商人員必須「利益迴避」）3、推動議事透明化，擴大公民參與（網路公告委員發言＆表決記錄、擴大公民參與監督管道）4、建構國會議長中立化的政治環境（推動紀律委員會常設化、禮讓資深議長擺脫選區經營成為提名慣例）",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
+                }
+              ],
+              "labels": [
+                "立法院效率"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114060012/http://www.kmt.org.tw/2015/11/blog-post_36.html",
+                  "runs": [
+                    {
+                      "text": "1104國會改革政策",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 },
                 {
                   "text": "、",
@@ -1051,6 +1100,18 @@
                   "comments": []
                 },
                 {
+                  "href": "http://web.archive.org/web/20151114060040/http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
                   "text": "、",
                   "isB": false,
                   "isU": false,
@@ -1075,6 +1136,18 @@
                   "isU": false,
                   "isI": false,
                   "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114054617/http://www.kmt.org.tw/2015/10/blog-post_376.html",
+                  "runs": [
+                    {
+                      "text": "10/28國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 }
               ]
             },
@@ -1447,11 +1520,9 @@
             },
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": [
+              "children": [
                 {
-                  "text": "自治]檢討中央與地方政府的權責，尤其是",
+                  "text": "檢討中央與地方政府的權責，尤其是",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -1472,67 +1543,144 @@
                   ]
                 },
                 {
-                  "text": "，財政資源直接下放到第一線的地方政府。強化第一線的地方治理，以落實地方自治。[出處 ",
+                  "text": "，財政資源直接下放到第一線的地方政府。強化第一線的地方治理，以落實地方自治。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
                 }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [],
-              "labels": [],
+              ],
+              "labels": [
+                "地方自治"
+              ],
               "ref": [
                 {
-                  "text": "正統] 中央政府要自我節制「中央請客，地方買單」的做法，避免成為地方財政惡化的推手。[出處 ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
+                  "href": "http://web.archive.org/web/20151114061023/http://www.dpp.org.tw/news_content.php?sn=8032",
+                  "runs": [
+                    {
+                      "text": "7/22民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 }
               ]
             },
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": [
+              "children": [
                 {
-                  "text": "效率]中央補助設計開源節流誘因機制，並合理縮小直轄市與非直轄市財政分配的落差，避免不同區域的人民所享有的公共資源過度懸殊。[出處 ",
+                  "text": "中央政府要自我節制「中央請客，地方買單」的做法，避免成為地方財政惡化的推手。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
                 }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [],
-              "labels": [],
+              ],
+              "labels": [
+                "經濟正統"
+              ],
               "ref": [
                 {
-                  "text": "效率]中央政府的計畫型補助，應該以跨域共同建設為優先，透過治理效能的提高，改善財政效率。[出處 ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
+                  "href": "http://web.archive.org/web/20151114061023/http://www.dpp.org.tw/news_content.php?sn=8032",
+                  "runs": [
+                    {
+                      "text": "7/22民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 }
               ]
             },
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": [
+              "children": [
                 {
-                  "text": "效率]鼓勵地方政府之間建立協調機制，整合資源共同解決跨域事務，有效降低單位成本，減少重複支出以節省財政資源。[出處 ",
+                  "text": "中央補助設計開源節流誘因機制，並合理縮小直轄市與非直轄市財政分配的落差，避免不同區域的人民所享有的公共資源過度懸殊。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
+                }
+              ],
+              "labels": [
+                "行政效率"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114061023/http://www.dpp.org.tw/news_content.php?sn=8032",
+                  "runs": [
+                    {
+                      "text": "7/22民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "中央政府的計畫型補助，應該以跨域共同建設為優先，透過治理效能的提高，改善財政效率。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "行政效率"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114061023/http://www.dpp.org.tw/news_content.php?sn=8032",
+                  "runs": [
+                    {
+                      "text": "7/22民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "鼓勵地方政府之間建立協調機制，整合資源共同解決跨域事務，有效降低單位成本，減少重複支出以節省財政資源。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "行政效率"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114061023/http://www.dpp.org.tw/news_content.php?sn=8032",
+                  "runs": [
+                    {
+                      "text": "7/22民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 }
               ]
             }
@@ -1641,15 +1789,30 @@
             },
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": [
+              "children": [
                 {
-                  "text": "長經濟]以「創新、就業、分配」為核心的新經濟發展模式，降低對單一市場的依賴，並從「重視GDP成長」轉為追求「兼顧就業、薪資、所得分配、區域平衡」等多元目標。[出處 ",
+                  "text": "以「創新、就業、分配」為核心的新經濟發展模式，降低對單一市場的依賴，並從「重視GDP成長」轉為追求「兼顧就業、薪資、所得分配、區域平衡」等多元目標。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
+                }
+              ],
+              "labels": [
+                "反成長經濟"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114061227/http://www.dpp.org.tw/news_content.php?kw=新經濟&m1=07&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=7903&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "6/1民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 },
                 {
                   "text": "、7/20",
@@ -1674,11 +1837,9 @@
             },
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": [
+              "children": [
                 {
-                  "text": "經濟][生產力]產業轉型：以「智慧台灣」(Smart Taiwan)為發展方向。以",
+                  "text": "產業轉型：以「智慧台灣」(Smart Taiwan)為發展方向。以",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -1699,11 +1860,29 @@
                   ]
                 },
                 {
-                  "text": "帶動台灣高科技等主要產業的成功升級、轉型。政府除提出政策營造健康市場環境之外，也須提升國家整體的創新能力。[出處 ",
+                  "text": "帶動台灣高科技等主要產業的成功升級、轉型。政府除提出政策營造健康市場環境之外，也須提升國家整體的創新能力。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
+                }
+              ],
+              "labels": [
+                "計畫經濟",
+                "生產力"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114061655/http://www.dpp.org.tw/news_content.php?kw=智慧台灣&m1=07&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=7957&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "6/23民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 }
               ]
             },
@@ -1868,6 +2047,18 @@
                   "comments": []
                 },
                 {
+                  "href": "http://web.archive.org/web/20151114061720/http://iing.tw/posts/159",
+                  "runs": [
+                    {
+                      "text": "10/1官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
                   "text": " ",
                   "isB": false,
                   "isU": false,
@@ -1887,6 +2078,18 @@
                   "isU": false,
                   "isI": false,
                   "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114061720/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 },
                 {
                   "text": " ",
