@@ -253,6 +253,8 @@ perspectives:
       ref: "親民黨政策專區"
     - content: "修改現行建築法令[ap]，如規定每棟房屋的綠屋頂比例、新能源比例，推動植栽產業、太陽能產業等相關綠能產業，有望技術輸出到國外"
       ref: "親民黨政策專區"
+    - content: "建立綠能教育中心，實驗性修正法規，成熟後再向全台灣推廣"
+      ref: "親民黨政策專區"
 - title: "經濟／營造業"
   positions:
   - summary: ''
@@ -309,7 +311,7 @@ perspectives:
       ref: 8/19 聯合新聞網
     - content: "[自由經濟]若證交稅與證所稅切割處理，證交稅率至少減半，其餘證所稅由投資人決定扣繳方式，或直接課 3‰ 證交稅[at][au]"
       ref: 8/19 聯合新聞網
-- title: "經濟／土地利用、規劃"
+- title: "經濟／國土規劃"
   positions:
   - summary: ''
     debateArguments:
@@ -333,7 +335,7 @@ perspectives:
       ref: "中廣「文茜的異想世界」節目10/28專訪（國民黨官網）"
   - summary: ''
     debateArguments: []
-- title: "經濟／法律改制、市場透明化"
+- title: "經濟／透明市場"
   positions:
   - summary: ''
     debateArguments:
@@ -351,7 +353,7 @@ perspectives:
     debateArguments: []
   - summary: ''
     debateArguments: []
-- title: "公共基礎建設"
+- title: "公共、基礎建設"
   positions:
   - summary: ''
     debateArguments:
@@ -373,7 +375,7 @@ perspectives:
       ref: 7/23民進黨新聞稿
     - content: "[反成長經濟]以環境永續[be]及在地經濟兩個核心，作為重建的原則。慢慢恢復921地震之後中斷的重建系統。執政後將政策支持自來水公司、電力公司建立災害復原的能量。"
       ref: 8/12粉專
-    - content: "[行政效率]地方政府是國土規劃及災害防救的第一線執行單位，中央結合地方政府的決策輔助系統。同時也請執政縣市長提供黨內政策部門相關的需求建議。"
+    - content: "[行政效率]地方政府是國土規劃及災害防救的第一線執行單位，中ㄉ央結合地方政府的決策輔助系統。同時也請執政縣市長提供黨內政策部門相關的需求建議。"
       ref: 8/12粉專
     - content: "選特定城市來發展示範物聯網智慧城市[bf]，找出物聯網的市場需求與應用模式"
       ref: 8/29 官網
@@ -392,8 +394,6 @@ perspectives:
     - content: "加速推動城市輕軌與 BRT"
       ref: "親民黨政策專區"
     - content: "補助地方普設公車專用道、自行車道/橋、人行專用步到、路外停車場等設施"
-      ref: "親民黨政策專區"
-    - content: "建立綠能教育中心，實驗性修正法規，成熟後再向全台灣推廣"
       ref: "親民黨政策專區"
 - title: "公共安全、食品安全"
   positions:
