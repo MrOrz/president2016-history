@@ -856,14 +856,16 @@
               "level": 0,
               "children": [
                 {
-                  "text": "積極爭取參加亞投行，但絕不接受使用「Taipei, China 中國台北」名稱，「Chinese Taipei 中華臺北」是底線",
+                  "text": "積極爭取參加亞投行，但絕不接受使用「Taipei, China 中國台北」名稱，而名稱「Chinese Taipei 中華臺北」是底線",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "名稱爭議"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150721045900/http://www.theway.best/2015/06/blog-post_30.html",
@@ -904,7 +906,9 @@
                   ]
                 }
               ],
-              "labels": [],
+              "labels": [
+                "名稱爭議"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150721045900/http://www.theway.best/2015/06/blog-post_30.html",
@@ -953,7 +957,7 @@
                 }
               ],
               "labels": [
-                "反對保護主義"
+                "自由主義"
               ],
               "ref": [
                 {
@@ -3617,7 +3621,7 @@
                 }
               ],
               "labels": [
-                "經濟控制"
+                "計劃經濟"
               ],
               "ref": [
                 {
@@ -3646,7 +3650,7 @@
                 }
               ],
               "labels": [
-                "農業與農民"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -3696,7 +3700,7 @@
                 }
               ],
               "labels": [
-                "農業與農民"
+                "計劃經濟"
               ],
               "ref": [
                 {
@@ -3724,7 +3728,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114064321/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=5&start_p=1&act=&sn=8227&stat=&order_type=desc&order_col=add_date&data_type=新聞",
@@ -3751,7 +3757,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114064709/http://iing.tw/posts/191",
@@ -3891,9 +3899,7 @@
                   "comments": []
                 }
               ],
-              "labels": [
-                "農業與農民"
-              ],
+              "labels": [],
               "ref": [
                 {
                   "href": "http://www.kmt.org.tw/2015/11/blog-post_44.html",
@@ -3921,8 +3927,7 @@
                 }
               ],
               "labels": [
-                "農業與農民",
-                "教育擴張"
+                "教育宣導"
               ],
               "ref": [
                 {
@@ -4047,8 +4052,7 @@
                 }
               ],
               "labels": [
-                "計劃經濟",
-                "生產力"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -4117,8 +4121,7 @@
                 }
               ],
               "labels": [
-                "計劃經濟",
-                "生產力"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -4189,8 +4192,7 @@
                 }
               ],
               "labels": [
-                "計劃經濟",
-                "生產力"
+                "發展方向 "
               ],
               "ref": [
                 {
@@ -4292,7 +4294,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -4319,7 +4323,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -4367,7 +4373,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -4394,7 +4402,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -4445,7 +4455,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150915070452/http://iing.tw/posts/73",
@@ -4542,7 +4554,7 @@
                 }
               ],
               "labels": [
-                "自由經濟"
+                "透明政府"
               ],
               "ref": [
                 {
@@ -4866,7 +4878,9 @@
                   ]
                 }
               ],
-              "labels": [],
+              "labels": [
+                "經濟誘因"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150819053644/http://theme.udn.com/theme/story/6773/1130188-%E8%AD%89%E6%89%80%E7%A8%85-%E8%94%A1%E6%B4%AA%E5%AE%8B%E3%80%8C%E5%94%AF%E4%B8%80%E3%80%8D%E5%85%B1%E8%AD%98",
@@ -4907,7 +4921,7 @@
                 }
               ],
               "labels": [
-                "自由經濟"
+                "經濟誘因"
               ],
               "ref": [
                 {
@@ -4969,7 +4983,7 @@
                 }
               ],
               "labels": [
-                "國土與城市規劃"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -5046,7 +5060,7 @@
                 }
               ],
               "labels": [
-                "國土與城市規劃"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -5088,7 +5102,7 @@
                   ]
                 },
                 {
-                  "text": "，鼓勵企業以台灣各大港口為母港，投資經營亞洲郵輪旅遊路線；閒置商港漁港則重新規劃成度假遊憩港區。[出處 7/30民進黨新聞稿]大台中定位為「精密機械之都」，將現有精密機械、工具機與資通訊產業結合，智慧化生產",
+                  "text": "，鼓勵企業以台灣各大港口為母港，投資經營亞洲郵輪旅遊路線；閒置商港漁港則重新規劃成度假遊憩港區。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -5096,7 +5110,36 @@
                 }
               ],
               "labels": [
-                "國土與城市規劃"
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://www.dpp.org.tw/news_content.php?sn=8060",
+                  "runs": [
+                    {
+                      "text": "7/30民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "大台中定位為「精密機械之都」，將現有精密機械、工具機與資通訊產業結合，智慧化生產",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
               ],
               "ref": [
                 {
@@ -5135,7 +5178,7 @@
                 }
               ],
               "labels": [
-                "國土與城市規劃"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -5164,7 +5207,7 @@
                 }
               ],
               "labels": [
-                "國土與城市規劃"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -5193,7 +5236,7 @@
                 }
               ],
               "labels": [
-                "國土與城市規劃"
+                "現況問題"
               ],
               "ref": [
                 {
@@ -5286,7 +5329,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "https://www.facebook.com/tsaiingwen/photos/a.10151242056081065.442660.46251501064/10152733417781065/?type=1",
@@ -5324,7 +5369,7 @@
                 }
               ],
               "labels": [
-                "市場秩序"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -5371,7 +5416,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "透明政府"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150914065436/http://www.theway.best/2015/09/1040901-40.html",
@@ -5399,7 +5446,7 @@
                 }
               ],
               "labels": [
-                "法律與秩序"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -5479,7 +5526,7 @@
                 }
               ],
               "labels": [
-                "地方自治"
+                "資源分享"
               ],
               "ref": [
                 {
@@ -5508,7 +5555,7 @@
                 }
               ],
               "labels": [
-                "科技與基礎建設"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -5580,7 +5627,7 @@
                 }
               ],
               "labels": [
-                "行政效率"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -5615,7 +5662,9 @@
                   ]
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://webcache.googleusercontent.com/search?q=cache:AjDK6bMyNqUJ:www.dpp.org.tw/m/index_content.php%3Fsn%3D8008+&cd=1&hl=zh-TW&ct=clnk&gl=tw",
@@ -5635,7 +5684,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "強調環保、人本：在敏感區的公共工程必須採用低衝擊工法。照顧設施、文教設施、交通設施的設計與施工需考量老人、兒童、身心障礙使用安全與便利性",
+                  "text": "強調環保、人本：在敏感區的公共工程必須採用低衝擊工法。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -5650,7 +5699,30 @@
                 }
               ],
               "labels": [
-                "反成長經濟"
+                "環境保護"
+              ],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "照顧設施、文教設施、交通設施的設計與施工需考量老人、兒童、身心障礙使用安全與便利性",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Chun-Yi Kuo",
+                      "date": "2015-11-14T15:02:37.000Z",
+                      "type": "REF_MISSING",
+                      "text": "這段內容並未出現於出處"
+                    }
+                  ]
+                }
+              ],
+              "labels": [
+                "發展方向"
               ],
               "ref": [
                 {
@@ -5700,7 +5772,7 @@
                 }
               ],
               "labels": [
-                "科技與基礎建設"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -5729,7 +5801,7 @@
                 }
               ],
               "labels": [
-                "科技與基礎建設"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -5779,7 +5851,7 @@
                 }
               ],
               "labels": [
-                "反成長經濟"
+                "現況問題"
               ],
               "ref": [
                 {
@@ -5808,7 +5880,7 @@
                 }
               ],
               "labels": [
-                "行政效率"
+                "現況問題"
               ],
               "ref": [
                 {
@@ -5857,7 +5929,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150915070452/http://iing.tw/posts/73",
@@ -5884,7 +5958,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "透明政府"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150915070452/http://iing.tw/posts/73",
@@ -5912,7 +5988,7 @@
                 }
               ],
               "labels": [
-                "制度改革"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -5945,7 +6021,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150914065436/http://www.theway.best/2015/09/1040901-40.html",
@@ -5991,7 +6069,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "現況問題"
+              ],
               "ref": [
                 {
                   "href": "http://www.pfp.org.tw/Article_Show.asp?id=1865",
@@ -6018,7 +6098,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -6045,7 +6127,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -6118,7 +6202,7 @@
                 }
               ],
               "labels": [
-                "市場秩序"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -6206,7 +6290,7 @@
                 }
               ],
               "labels": [
-                "市場秩序"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -6256,7 +6340,7 @@
                 }
               ],
               "labels": [
-                "法律與秩序"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -6344,7 +6428,7 @@
                 }
               ],
               "labels": [
-                "市場秩序"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -6411,7 +6495,7 @@
                 }
               ],
               "labels": [
-                "市場秩序"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -6477,7 +6561,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "教育宣導"
+              ],
               "ref": [
                 {
                   "href": "https://www.facebook.com/tsaiingwen/photos/a.390960786064.163647.46251501064/10152782719271065/",
@@ -6635,7 +6721,7 @@
                 }
               ],
               "labels": [
-                "市場秩序"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -6703,7 +6789,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150901055423/http://iing.tw/posts/56",
@@ -6723,14 +6811,45 @@
               "level": 0,
               "children": [
                 {
-                  "text": "建立生產履歷，從源頭將每一個生產階段資訊做紀錄並公開；簡化認證標章並與國際接軌。（食安五環之二）",
+                  "text": "建立生產履歷，從源頭將每一個生產階段資訊做紀錄並公開",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "制度改革"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114071821/http://iing.tw/posts/191",
+                  "runs": [
+                    {
+                      "text": "10/15官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "簡化認證標章並與國際接軌。（食安五環之二）",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114071821/http://iing.tw/posts/191",
@@ -6778,7 +6897,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114071821/http://iing.tw/posts/191",
@@ -6828,7 +6949,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://www.pfp.org.tw/Article_Show.asp?id=1865",
@@ -6876,7 +6999,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "建構資料"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151003052959/http://www.pfp.org.tw/article_show.asp?id=1842",
@@ -6922,7 +7047,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "建構資料"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151003052959/http://www.pfp.org.tw/article_show.asp?id=1842",
@@ -6968,7 +7095,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151003052959/http://www.pfp.org.tw/article_show.asp?id=1842",
@@ -7035,7 +7164,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151003052959/http://www.pfp.org.tw/article_show.asp?id=1842",
@@ -7081,7 +7212,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151003052959/http://www.pfp.org.tw/article_show.asp?id=1842",
@@ -7141,7 +7274,9 @@
                   ]
                 }
               ],
-              "labels": [],
+              "labels": [
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151003052959/http://www.pfp.org.tw/article_show.asp?id=1842",
@@ -7187,7 +7322,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "制度改革"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20151003052959/http://www.pfp.org.tw/article_show.asp?id=1842",
@@ -7271,7 +7408,7 @@
                 }
               ],
               "labels": [
-                "環境保護"
+                "核電廠"
               ],
               "ref": [
                 {
@@ -7333,7 +7470,7 @@
                 }
               ],
               "labels": [
-                "環境保護"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -7383,7 +7520,7 @@
                 }
               ],
               "labels": [
-                "自由經濟"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -7633,7 +7770,7 @@
                 }
               ],
               "labels": [
-                "計畫經濟"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -7683,7 +7820,8 @@
                 }
               ],
               "labels": [
-                "科技與基礎建設"
+                "發展方向",
+                "國際參與--經濟面"
               ],
               "ref": [
                 {
@@ -7712,7 +7850,7 @@
                 }
               ],
               "labels": [
-                "國土與城市規劃"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -7740,7 +7878,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150915070452/http://iing.tw/posts/73",
@@ -7777,7 +7917,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "核電廠"
+              ],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150721025404/http://www.theway.best/2015/07/blog-post_3.html",
@@ -7824,7 +7966,7 @@
                 }
               ],
               "labels": [
-                "經濟目標"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -7872,7 +8014,7 @@
                 }
               ],
               "labels": [
-                "國土與城市規劃"
+                "發展方向"
               ],
               "ref": [
                 {
@@ -7898,7 +8040,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "發展經濟、穩定民生，一定要有務實、健康的能源政策。在「2025非核家園」的目標下，具體主張：1. 核四已封存，核一、二、三廠不能延役；2. 提升火力與天然氣發電方式，作為電力供應；3. 整體輸配電系統數位化，以達到節電目標；4. 以電價或相對制衡的方式，推動智慧電網；5. 既有核廢料逐步處理，必要時送到國外為選項之一。",
+                  "text": "發展經濟、穩定民生，一定要有務實、健康的能源政策。在「2025非核家園」的目標下，具體主張：1. 核四已封存，核一、二、三廠不能延役；2. 提升火力與天然氣發電方式，作為電力供應",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -7906,7 +8048,36 @@
                 }
               ],
               "labels": [
-                "科技與基礎建設"
+                "核電廠"
+              ],
+              "ref": [
+                {
+                  "href": "https://www.facebook.com/mykmt/?fref=ts",
+                  "runs": [
+                    {
+                      "text": "1102國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "整體輸配電系統數位化，以達到節電目標。以電價或相對制衡的方式，推動智慧電網；5. 既有核廢料逐步處理，必要時送到國外為選項之一。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
               ],
               "ref": [
                 {
@@ -7935,7 +8106,8 @@
                 }
               ],
               "labels": [
-                "環境保護"
+                "環境保護",
+                "制度改革"
               ],
               "ref": [
                 {
@@ -7956,7 +8128,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "用電量最需調整的是工業用電的大戶，將以賞罰並進的方式推動智慧節能。",
+                  "text": "科技與基礎建設]用電量最需調整的是工業用電的大戶，將以賞罰並進的方式推動智慧節能。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -7964,7 +8136,7 @@
                 }
               ],
               "labels": [
-                "科技與基礎建設"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -8006,7 +8178,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -8033,7 +8207,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -8060,7 +8236,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -8087,7 +8265,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -8114,7 +8294,10 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "發展方向",
+                "環境保護"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -8162,7 +8345,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "環境保護"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
@@ -8210,7 +8395,9 @@
                   "comments": []
                 }
               ],
-              "labels": [],
+              "labels": [
+                "環境保護"
+              ],
               "ref": [
                 {
                   "href": "https://web.archive.org/web/20151003053244/http://www.pfp.org.tw/Article_Show.asp?id=1845",
