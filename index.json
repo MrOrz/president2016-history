@@ -6,7 +6,7 @@
           "level": -1,
           "children": [
             {
-              "text": "對外關係>兩岸",
+              "text": "對外關係／兩岸",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -20,76 +20,6 @@
         {
           "summaryParagraphs": [],
           "items": [
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "已成立 TPP 特別小組，探討",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "加入 TPP 的各層面問題",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-07-30T14:08:08.000Z",
-                      "type": "NOTE",
-                      "text": "包含結構調整與改革的需求、遵守國際標準的範疇、法規與行政程序的合理簡化，以及對特定產業的投資"
-                    }
-                  ]
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "https://www.facebook.com/tsaiingwen/posts/10152729123161065:0",
-                  "runs": [
-                    {
-                      "text": "6/4 粉絲頁",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "持續強化台美軍事合作，並共同因應網路安全等非傳統安全威脅。除對外採購武器系統、取得平台，也在本土國防計劃與研發上進行更多投資",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "擴增軍備"
-              ],
-              "ref": [
-                {
-                  "href": "https://www.facebook.com/tsaiingwen/posts/10152729123161065:0",
-                  "runs": [
-                    {
-                      "text": "6/4 粉絲頁",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "level": 0,
               "children": [
@@ -202,112 +132,6 @@
               "level": 0,
               "children": [
                 {
-                  "text": "在全募兵與全徵兵制之間找出最理想制度",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "https://www.facebook.com/tsaiingwen/photos/a.390960786064.163647.46251501064/10152643172646065/?type=1",
-                  "runs": [
-                    {
-                      "text": "4/22粉絲頁",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "「國防加值策略」：以「國防產業」帶動經濟發展及產業創新的動能，藉由對國防的投資，讓台灣的科技產業能領先，也希望民間科技可由國防運用；希望下個世代的科技發展與人才，都可以",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "軍民兩用",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "陳俊良",
-                      "date": "2015-08-16T01:20:10.000Z",
-                      "type": "NOTE",
-                      "text": "(同天粉專)\n將與能源、ICT(資通)、機械等產業相互合作，無論在技術、人才、研發等方面上互通有無。同時，擇取「航太」、「船舶」、「資安」等重點領域，做為積極推動的核心國防產業。"
-                    }
-                  ]
-                },
-                {
-                  "text": "。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "國防改革"
-              ],
-              "ref": [
-                {
-                  "href": "https://goo.gl/rZ6XIf",
-                  "runs": [
-                    {
-                      "text": "8/15粉專",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "對於一般軍備及武器裝備的採購，國內能自製的，應嚴格遵守國內採購的要求；若國內無法自製、需向外採購，則要盡最大可能落實技術轉移。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "國防改革"
-              ],
-              "ref": [
-                {
-                  "href": "https://goo.gl/rZ6XIf",
-                  "runs": [
-                    {
-                      "text": "8/15粉專",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
                   "text": "分期分階段開放",
                   "isB": false,
                   "isU": false,
@@ -355,12 +179,7 @@
           ]
         },
         {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
+          "summaryParagraphs": [],
           "items": [
             {
               "level": 0,
@@ -547,74 +366,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "積極爭取參加亞投行，但絕不接受使用「Taipei, China 中國台北」名稱，「Chinese Taipei 中華臺北」是底線",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150721045900/http://www.theway.best/2015/06/blog-post_30.html",
-                  "runs": [
-                    {
-                      "text": "洪秀柱官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "保有亞銀會員，但持續抗議",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "亞銀會員名稱",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-08-13T19:47:18.000Z",
-                      "type": "NOTE",
-                      "text": "我國為亞銀創始會員之一；但在 1968 年 3 月中華人民共和國加入後，被片面更改為 Taipei, China。中華民國代表團參加亞銀活動，就以「抗議中」（under protest）的標籤貼在「中國臺北」上，以示維護國家尊嚴。\n（ http://bit.ly/1Tv6QvB ）"
-                    }
-                  ]
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150721045900/http://www.theway.best/2015/06/blog-post_30.html",
-                  "runs": [
-                    {
-                      "text": "洪秀柱官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },
@@ -687,35 +438,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "聯合開發與經濟利益共享是解決南海爭議的正面方式，牽涉到主權跟經濟效益，應該以和平為基本原則，透過聯合開發、經濟利益共享的角度讓大家加入，是解決南海爭議比較正面的方式。台灣除了在太平島跟東沙島上的主權角色，也要擔任和平倡議者或維護者；在開發南海部分，太平島如果能做永續生態式且結合觀光的開發，絕對有非常大的價值，相對帶動南海群島的地位。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "台灣安全"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114040553/http://www.kmt.org.tw/2015/10/blog-post_984.html",
-                  "runs": [
-                    {
-                      "text": "中廣「文茜的異想世界」節目10/28專訪（國民黨官網）",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },
@@ -755,7 +477,224 @@
                   ]
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "level": -1,
+          "children": [
+            {
+              "text": "對外關係／國防",
+              "isB": false,
+              "isU": false,
+              "isI": false,
+              "comments": []
+            }
+          ]
+        }
+      ],
+      "colspan": 1,
+      "cells": [
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "持續強化台美軍事合作，並共同因應網路安全等非傳統安全威脅。除對外採購武器系統、取得平台，也在本土國防計劃與研發上進行更多投資",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "擴增軍備"
+              ],
+              "ref": [
+                {
+                  "href": "https://www.facebook.com/tsaiingwen/posts/10152729123161065:0",
+                  "runs": [
+                    {
+                      "text": "6/4 粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "在全募兵與全徵兵制之間找出最理想制度",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://www.facebook.com/tsaiingwen/photos/a.390960786064.163647.46251501064/10152643172646065/?type=1",
+                  "runs": [
+                    {
+                      "text": "4/22粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "「國防加值策略」：以「國防產業」帶動經濟發展及產業創新的動能，藉由對國防的投資，讓台灣的科技產業能領先，也希望民間科技可由國防運用；希望下個世代的科技發展與人才，都可以",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "軍民兩用",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "陳俊良",
+                      "date": "2015-08-16T01:20:10.000Z",
+                      "type": "NOTE",
+                      "text": "(同天粉專)\n將與能源、ICT(資通)、機械等產業相互合作，無論在技術、人才、研發等方面上互通有無。同時，擇取「航太」、「船舶」、「資安」等重點領域，做為積極推動的核心國防產業。"
+                    }
+                  ]
+                },
+                {
+                  "text": "。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "國防改革"
+              ],
+              "ref": [
+                {
+                  "href": "https://goo.gl/rZ6XIf",
+                  "runs": [
+                    {
+                      "text": "8/15粉專",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "對於一般軍備及武器裝備的採購，國內能自製的，應嚴格遵守國內採購的要求；若國內無法自製、需向外採購，則要盡最大可能落實技術轉移。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "國防改革"
+              ],
+              "ref": [
+                {
+                  "href": "https://goo.gl/rZ6XIf",
+                  "runs": [
+                    {
+                      "text": "8/15粉專",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [],
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "聯合開發與經濟利益共享是解決南海爭議的正面方式，牽涉到主權跟經濟效益，應該以和平為基本原則，透過聯合開發、經濟利益共享的角度讓大家加入，是解決南海爭議比較正面的方式。台灣除了在太平島跟東沙島上的主權角色，也要擔任和平倡議者或維護者。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "台灣安全"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114040553/http://www.kmt.org.tw/2015/10/blog-post_984.html",
+                  "runs": [
+                    {
+                      "text": "中廣「文茜的異想世界」節目10/28專訪（國民黨官網）",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": [
             {
               "level": 0,
               "children": [
@@ -795,7 +734,7 @@
           "level": -1,
           "children": [
             {
-              "text": "對外關係>國防",
+              "text": "對外關係／國際參與",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -807,77 +746,123 @@
       "colspan": 1,
       "cells": [
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        },
-        {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        },
-        {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        },
-        {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "level": -1,
-          "children": [
-            {
-              "text": "對外關係>國際策略",
-              "isB": false,
-              "isU": false,
-              "isI": false,
-              "comments": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "已成立 TPP 特別小組，探討",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "加入 TPP 的各層面問題",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-07-30T14:08:08.000Z",
+                      "type": "NOTE",
+                      "text": "包含結構調整與改革的需求、遵守國際標準的範疇、法規與行政程序的合理簡化，以及對特定產業的投資"
+                    }
+                  ]
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://www.facebook.com/tsaiingwen/posts/10152729123161065:0",
+                  "runs": [
+                    {
+                      "text": "6/4 粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
-        }
-      ],
-      "colspan": 1,
-      "cells": [
-        {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "積極爭取參加亞投行，但絕不接受使用「Taipei, China 中國台北」名稱，「Chinese Taipei 中華臺北」是底線",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150721045900/http://www.theway.best/2015/06/blog-post_30.html",
+                  "runs": [
+                    {
+                      "text": "洪秀柱官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "保有亞銀會員，但持續抗議",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "亞銀會員名稱",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-08-13T19:47:18.000Z",
+                      "type": "NOTE",
+                      "text": "我國為亞銀創始會員之一；但在 1968 年 3 月中華人民共和國加入後，被片面更改為 Taipei, China。中華民國代表團參加亞銀活動，就以「抗議中」（under protest）的標籤貼在「中國臺北」上，以示維護國家尊嚴。\n（ http://bit.ly/1Tv6QvB ）"
+                    }
+                  ]
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150721045900/http://www.theway.best/2015/06/blog-post_30.html",
+                  "runs": [
+                    {
+                      "text": "洪秀柱官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [
@@ -1854,7 +1839,7 @@
           "level": -1,
           "children": [
             {
-              "text": "經濟與產業發展、轉型",
+              "text": "經濟／產業發展、轉型",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -3299,7 +3284,7 @@
           "level": -1,
           "children": [
             {
-              "text": "經濟——農業",
+              "text": "經濟／農業",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -3675,7 +3660,7 @@
           "level": -1,
           "children": [
             {
-              "text": "經濟——綠能產業",
+              "text": "經濟／綠能產業",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -4106,7 +4091,7 @@
           "level": -1,
           "children": [
             {
-              "text": "經濟——營造業",
+              "text": "經濟／營造業",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -4184,7 +4169,7 @@
           "level": -1,
           "children": [
             {
-              "text": "經濟——進出口貿易及投資環境",
+              "text": "經濟／進出口、投資",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -4467,7 +4452,7 @@
           "level": -1,
           "children": [
             {
-              "text": "經濟——證所稅",
+              "text": "經濟／證所稅",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -4785,7 +4770,7 @@
           "level": -1,
           "children": [
             {
-              "text": "經濟——土地利用及規劃",
+              "text": "經濟／土地利用、規劃",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -5064,13 +5049,36 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "開發南海部分，太平島如果能做永續生態式且結合觀光的開發，絕對有非常大的價值，相對帶動南海群島的地位。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114040553/http://www.kmt.org.tw/2015/10/blog-post_984.html",
+                  "runs": [
+                    {
+                      "text": "中廣「文茜的異想世界」節目10/28專訪（國民黨官網）",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [
@@ -5089,7 +5097,7 @@
           "level": -1,
           "children": [
             {
-              "text": "經濟——法律改制及市場透明化",
+              "text": "經濟／法律改制、市場透明化",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -8342,7 +8350,7 @@
           "level": -1,
           "children": [
             {
-              "text": "公平正義——死刑",
+              "text": "公平正義／死刑",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -8427,7 +8435,7 @@
           "level": -1,
           "children": [
             {
-              "text": "公平正義——身心障礙者",
+              "text": "公平正義／身心障礙者",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -8751,7 +8759,7 @@
           "level": -1,
           "children": [
             {
-              "text": "公平正義——婚姻",
+              "text": "公平正義／婚姻",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -8902,7 +8910,7 @@
           "level": -1,
           "children": [
             {
-              "text": "公平正義——客家族群",
+              "text": "公平正義／客家族群",
               "isB": false,
               "isU": false,
               "isI": false,
