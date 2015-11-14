@@ -8074,7 +8074,7 @@
           "level": -1,
           "children": [
             {
-              "text": "人權、平等與公平正義",
+              "text": "人權、平等、公平正義",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -9392,7 +9392,7 @@
           "level": -1,
           "children": [
             {
-              "text": "公平正義——原住民族群",
+              "text": "公平正義／原住民族群",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -10095,7 +10095,7 @@
           "level": -1,
           "children": [
             {
-              "text": "公平正義——新住民",
+              "text": "公平正義／新住民",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -10289,7 +10289,158 @@
           "level": -1,
           "children": [
             {
-              "text": "公平正義——居住權",
+              "text": "社會正義／身心障礙者",
+              "isB": false,
+              "isU": false,
+              "isI": false,
+              "comments": []
+            }
+          ]
+        }
+      ],
+      "colspan": 1,
+      "cells": [
+        {
+          "summaryParagraphs": [],
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "替三十歲後就提前老化的唐寶寶與其他障礙者，檢討社會保險年金發放與退休的規範",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150915065828/http://iing.tw/posts/71",
+                  "runs": [
+                    {
+                      "text": "8/28 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
+                  "runs": [
+                    {
+                      "text": "9/2官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "8年完成20萬戶只租不賣的社會住宅，且採無障礙設計",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150916032213/http://iing.tw/posts/76",
+                  "runs": [
+                    {
+                      "text": "8/30 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "強化身心障礙者提早老化與平均餘命等研究，作為政策規劃基礎；發展適合不同障礙類別、年齡、性別的體適能活動並提供營養咨詢；提供女性障礙者足夠資訊與支持，維護她們的生育權利與健康",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
+                  "runs": [
+                    {
+                      "text": "9/2 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "level": -1,
+          "children": [
+            {
+              "text": "公平正義／居住權",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -11810,6 +11961,126 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "鼓勵企業加薪：",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "中小企業替基層員工加薪，雇主可以抵稅",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-08-19T22:32:18.000Z",
+                      "type": "NOTE",
+                      "text": "官網圖表內說明，此政策方案與希拉蕊在 2015.7.13 發表之《成長與公平經濟》演講中提到的政策方案，在額度與機制設計上類似。"
+                    }
+                  ]
+                },
+                {
+                  "text": "「加薪數額」的",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": " 200% ~ 130%，可連續扣抵 3 年",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-08-19T22:35:56.000Z",
+                      "type": "NOTE",
+                      "text": "舉例而言，如果中小企業基層員工年薪每增加10000元，雇主在第1年可扣稅 10000 元的 200％ (20,000 元)，第2年可扣稅 16,000元，第3年可扣稅 13,000元，可以連續提報3年，希望中小企業主會更有誘因為員工加薪。\n今年行政院修正之《中小企業發展條例》則是固定以加薪數額 130% 扣稅。"
+                    }
+                  ]
+                },
+                {
+                  "text": "；未來將加入防護機制，避免單一企業減稅太多。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "提升社福預算",
+                "經濟誘因"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150819152110/http://www.theway.best/2015/08/1040816.html",
+                  "runs": [
+                    {
+                      "text": "8/16洪秀柱官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "員工加薪企業抵稅之稅收損失有限：估計",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "對稅收之淨影響",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-08-19T22:43:22.000Z",
+                      "type": "NOTE",
+                      "text": "這裡用固定抵稅 130% 之加薪數額的行政院現行方案來估計，並且考量消費增加與外溢效果帶來的稅收增加，與對雇主的稅收減少互相抵消。"
+                    }
+                  ]
+                },
+                {
+                  "text": "為損失 0.64 億，但可鼓勵加薪與刺激景氣。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150819152110/http://www.theway.best/2015/08/1040816.html",
+                  "runs": [
+                    {
+                      "text": "8/16洪秀柱官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -12028,7 +12299,7 @@
           "level": -1,
           "children": [
             {
-              "text": "社會安全與社會福利",
+              "text": "社會安全、社會福利",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -12702,7 +12973,7 @@
           "level": -1,
           "children": [
             {
-              "text": "社會福利---老年人",
+              "text": "社會福利／老人",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -13352,7 +13623,7 @@
           "level": -1,
           "children": [
             {
-              "text": "社會福利---幼兒",
+              "text": "社會福利／幼兒",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -13501,158 +13772,7 @@
           "level": -1,
           "children": [
             {
-              "text": "社會福利---身心障礙者",
-              "isB": false,
-              "isU": false,
-              "isI": false,
-              "comments": []
-            }
-          ]
-        }
-      ],
-      "colspan": 1,
-      "cells": [
-        {
-          "summaryParagraphs": [],
-          "items": [
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "替三十歲後就提前老化的唐寶寶與其他障礙者，檢討社會保險年金發放與退休的規範",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150915065828/http://iing.tw/posts/71",
-                  "runs": [
-                    {
-                      "text": "8/28 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
-                  "runs": [
-                    {
-                      "text": "9/2官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "8年完成20萬戶只租不賣的社會住宅，且採無障礙設計",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150916032213/http://iing.tw/posts/76",
-                  "runs": [
-                    {
-                      "text": "8/30 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "強化身心障礙者提早老化與平均餘命等研究，作為政策規劃基礎；發展適合不同障礙類別、年齡、性別的體適能活動並提供營養咨詢；提供女性障礙者足夠資訊與支持，維護她們的生育權利與健康",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
-                  "runs": [
-                    {
-                      "text": "9/2 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        },
-        {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        },
-        {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "level": -1,
-          "children": [
-            {
-              "text": "社會福利---失業及薪資問題",
+              "text": "社會福利／失業、就業",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -13855,78 +13975,6 @@
               "level": 0,
               "children": [
                 {
-                  "text": "鼓勵企業加薪：",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "中小企業替基層員工加薪，雇主可以抵稅",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-08-19T22:32:18.000Z",
-                      "type": "NOTE",
-                      "text": "官網圖表內說明，此政策方案與希拉蕊在 2015.7.13 發表之《成長與公平經濟》演講中提到的政策方案，在額度與機制設計上類似。"
-                    }
-                  ]
-                },
-                {
-                  "text": "「加薪數額」的",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": " 200% ~ 130%，可連續扣抵 3 年",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-08-19T22:35:56.000Z",
-                      "type": "NOTE",
-                      "text": "舉例而言，如果中小企業基層員工年薪每增加10000元，雇主在第1年可扣稅 10000 元的 200％ (20,000 元)，第2年可扣稅 16,000元，第3年可扣稅 13,000元，可以連續提報3年，希望中小企業主會更有誘因為員工加薪。\n今年行政院修正之《中小企業發展條例》則是固定以加薪數額 130% 扣稅。"
-                    }
-                  ]
-                },
-                {
-                  "text": "；未來將加入防護機制，避免單一企業減稅太多。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "提升社福預算",
-                "經濟誘因"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150819152110/http://www.theway.best/2015/08/1040816.html",
-                  "runs": [
-                    {
-                      "text": "8/16洪秀柱官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
                   "text": "鼓勵增聘失業青年：增聘 29 歲以下失業者為新員工時，雇主可抵稅所付出薪資的 150%",
                   "isB": false,
                   "isU": false,
@@ -13937,54 +13985,6 @@
               "labels": [
                 "提升社福預算"
               ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150819152110/http://www.theway.best/2015/08/1040816.html",
-                  "runs": [
-                    {
-                      "text": "8/16洪秀柱官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "員工加薪企業抵稅之稅收損失有限：估計",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "對稅收之淨影響",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-08-19T22:43:22.000Z",
-                      "type": "NOTE",
-                      "text": "這裡用固定抵稅 130% 之加薪數額的行政院現行方案來估計，並且考量消費增加與外溢效果帶來的稅收增加，與對雇主的稅收減少互相抵消。"
-                    }
-                  ]
-                },
-                {
-                  "text": "為損失 0.64 億，但可鼓勵加薪與刺激景氣。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150819152110/http://www.theway.best/2015/08/1040816.html",
@@ -14028,7 +14028,7 @@
           "level": -1,
           "children": [
             {
-              "text": "社會福利---動保",
+              "text": "社會福利／動保",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -15265,7 +15265,7 @@
           "level": -1,
           "children": [
             {
-              "text": "國民教育與職能教育",
+              "text": "國民教育、職能教育",
               "isB": false,
               "isU": false,
               "isI": false,
