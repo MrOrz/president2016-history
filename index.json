@@ -366,6 +366,64 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "在民主監督與授權機制上，進行 ECFA 後續協議談判",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "透明政府"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150819020210/http://www.theway.best/2015/08/blog-post_6.html",
+                  "runs": [
+                    {
+                      "text": "洪秀柱官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "儘速通過兩岸協議監督條例。主張民主監督與授權應擴大到其他的國際談判。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "透明政府"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150819020210/http://www.theway.best/2015/08/blog-post_6.html",
+                  "runs": [
+                    {
+                      "text": "洪秀柱官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -850,6 +908,56 @@
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150721045900/http://www.theway.best/2015/06/blog-post_30.html",
+                  "runs": [
+                    {
+                      "text": "洪秀柱官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "堅定做好 ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "TPP、RCEP、TiSA",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-08-19T09:11:20.000Z",
+                      "type": "NOTE",
+                      "text": "TPP：跨太平洋夥伴協定\nRCEP：區域全面經濟夥伴協定\nTiSA：服務貿易協定"
+                    }
+                  ]
+                },
+                {
+                  "text": " 等國際經貿協定的決心與準備",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "反對保護主義"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150819020210/http://www.theway.best/2015/08/blog-post_6.html",
                   "runs": [
                     {
                       "text": "洪秀柱官網",
@@ -3255,6 +3363,62 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "積極吸引跨國企業在台設置營運總部、設置服務臺商海外物流基地。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "經濟誘因"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150819025003/http://www.theway.best/2015/08/1040812_71.html",
+                  "runs": [
+                    {
+                      "text": "8/12洪秀柱官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "政府在資訊軟體投資應超過GDP的2%",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150914070229/http://www.theway.best/2015/09/1040901-gdp2.html",
+                  "runs": [
+                    {
+                      "text": "9/1洪秀柱官網新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -4227,172 +4391,7 @@
               "children": []
             }
           ],
-          "items": [
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "在民主監督與授權機制上，進行 ECFA 後續協議談判",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "透明政府"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150819020210/http://www.theway.best/2015/08/blog-post_6.html",
-                  "runs": [
-                    {
-                      "text": "洪秀柱官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "積極吸引跨國企業在台設置營運總部、設置服務臺商海外物流基地。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟誘因"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150819025003/http://www.theway.best/2015/08/1040812_71.html",
-                  "runs": [
-                    {
-                      "text": "8/12洪秀柱官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "堅定做好 ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "TPP、RCEP、TiSA",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-08-19T09:11:20.000Z",
-                      "type": "NOTE",
-                      "text": "TPP：跨太平洋夥伴協定\nRCEP：區域全面經濟夥伴協定\nTiSA：服務貿易協定"
-                    }
-                  ]
-                },
-                {
-                  "text": " 等國際經貿協定的決心與準備",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "反對保護主義"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150819020210/http://www.theway.best/2015/08/blog-post_6.html",
-                  "runs": [
-                    {
-                      "text": "洪秀柱官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "儘速通過兩岸協議監督條例。主張民主監督與授權應擴大到其他的國際談判。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "透明政府"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150819020210/http://www.theway.best/2015/08/blog-post_6.html",
-                  "runs": [
-                    {
-                      "text": "洪秀柱官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "政府在資訊軟體投資應超過GDP的2%",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150914070229/http://www.theway.best/2015/09/1040901-gdp2.html",
-                  "runs": [
-                    {
-                      "text": "9/1洪秀柱官網新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "items": []
         },
         {
           "summaryParagraphs": [],
@@ -10107,13 +10106,125 @@
       "colspan": 1,
       "cells": [
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "讓新移民得到與本國國民同等的社福待遇。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "新移民"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
+                  "runs": [
+                    {
+                      "text": "10/21演講稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "使地方政府各單位業務提供雙語服務、提升文化民感度。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "新移民"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
+                  "runs": [
+                    {
+                      "text": "10/21演講稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "承認新移民學歷，與台灣認證機制接軌。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "新移民"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
+                  "runs": [
+                    {
+                      "text": "10/21演講稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "提供新移民職業訓練的機會，以及就業媒合的服務。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "新移民"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
+                  "runs": [
+                    {
+                      "text": "10/21演講稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [
@@ -15822,122 +15933,6 @@
             }
           ],
           "items": [
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "讓新移民得到與本國國民同等的社福待遇。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "新移民"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
-                  "runs": [
-                    {
-                      "text": "10/21演講稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "使地方政府各單位業務提供雙語服務、提升文化民感度。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "新移民"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
-                  "runs": [
-                    {
-                      "text": "10/21演講稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "承認新移民學歷，與台灣認證機制接軌。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "新移民"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
-                  "runs": [
-                    {
-                      "text": "10/21演講稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "提供新移民職業訓練的機會，以及就業媒合的服務。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "新移民"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151023171429/http://iing.tw/posts/203",
-                  "runs": [
-                    {
-                      "text": "10/21演講稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "level": 0,
               "children": [
