@@ -6,7 +6,7 @@
           "level": -1,
           "children": [
             {
-              "text": "兩岸、國際策略與國防",
+              "text": "對外關係>兩岸",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -786,6 +786,116 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "level": -1,
+          "children": [
+            {
+              "text": "對外關係>國防",
+              "isB": false,
+              "isU": false,
+              "isI": false,
+              "comments": []
+            }
+          ]
+        }
+      ],
+      "colspan": 1,
+      "cells": [
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "level": -1,
+          "children": [
+            {
+              "text": "對外關係>國際策略",
+              "isB": false,
+              "isU": false,
+              "isI": false,
+              "comments": []
+            }
+          ]
+        }
+      ],
+      "colspan": 1,
+      "cells": [
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
         }
       ]
     },
@@ -1917,11 +2027,9 @@
             },
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": [
+              "children": [
                 {
-                  "text": "谷計畫",
+                  "text": "亞洲矽谷計畫",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -2040,12 +2148,15 @@
                   ]
                 },
                 {
-                  "text": ")，與矽谷(甚至全球)創新交流與接軌的角色。[出處 ",
+                  "text": ")，與矽谷(甚至全球)創新交流與接軌的角色。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
-                },
+                }
+              ],
+              "labels": [],
+              "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114061720/http://iing.tw/posts/159",
                   "runs": [
@@ -2064,21 +2175,34 @@
                   "isU": false,
                   "isI": false,
                   "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114061720/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 }
               ]
             },
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": [
+              "children": [
                 {
-                  "text": "谷計畫執行基地，設立於桃園航空城高鐵A19站周邊，銜接幼獅國際青年創業村。[出處 ",
+                  "text": "亞洲矽谷計畫執行基地，設立於桃園航空城高鐵A19站周邊，銜接幼獅國際青年創業村。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
-                },
+                }
+              ],
+              "labels": [],
+              "ref": [
                 {
                   "href": "http://web.archive.org/web/20151114061720/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
@@ -2097,6 +2221,18 @@
                   "isU": false,
                   "isI": false,
                   "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114062847/http://iing.tw/posts/161",
+                  "runs": [
+                    {
+                      "text": "10/1投影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 }
               ]
             },
@@ -5425,7 +5561,7 @@
               ],
               "ref": [
                 {
-                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=07&y1=2015&menu_sn=&sub_menu=43&show_title=%E6%96%B0%E8%81%9E&one_page=10&page=1&start_p=1&act=&sn=8036&stat=&order_type=desc&order_col=add_date&data_type=%E6%96%B0%E8%81%9E",
+                  "href": "http://web.archive.org/web/20151114070507/http://www.dpp.org.tw/news_content.php?kw=&m1=07&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8036&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
                     {
                       "text": "7/23民進黨新聞稿",
@@ -5826,7 +5962,7 @@
                   "comments": []
                 },
                 {
-                  "href": "http://iing.tw/posts/191",
+                  "href": "http://web.archive.org/web/20151114070537/http://iing.tw/posts/191",
                   "runs": [
                     {
                       "text": "10/15官網",
@@ -5845,7 +5981,7 @@
                   "comments": []
                 },
                 {
-                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8268&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "href": "http://web.archive.org/web/20151114070604/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8268&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
                     {
                       "text": "10/15民進黨新聞稿",
@@ -5964,7 +6100,7 @@
                   "comments": []
                 },
                 {
-                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8268&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "href": "http://web.archive.org/web/20151114070604/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8268&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
                     {
                       "text": "10/15民進黨新聞稿",
@@ -5983,7 +6119,7 @@
                   "comments": []
                 },
                 {
-                  "href": "http://iing.tw/posts/191",
+                  "href": "http://web.archive.org/web/20151114070745/http://iing.tw/posts/191",
                   "runs": [
                     {
                       "text": "10/15官網",
@@ -6052,7 +6188,7 @@
                   "comments": []
                 },
                 {
-                  "href": "http://iing.tw/posts/191",
+                  "href": "http://web.archive.org/web/20151114070745/http://iing.tw/posts/191",
                   "runs": [
                     {
                       "text": "10/15官網",
@@ -6071,7 +6207,7 @@
                   "comments": []
                 },
                 {
-                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8268&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "href": "http://web.archive.org/web/20151114070604/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8268&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
                     {
                       "text": "10/15民進黨新聞稿",
@@ -6119,7 +6255,7 @@
                   "comments": []
                 },
                 {
-                  "href": "http://iing.tw/posts/191",
+                  "href": "http://web.archive.org/web/20151114070537/http://iing.tw/posts/191",
                   "runs": [
                     {
                       "text": "10/15官網",
@@ -6138,7 +6274,7 @@
                   "comments": []
                 },
                 {
-                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8268&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "href": "http://web.archive.org/web/20151114070604/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=8268&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
                     {
                       "text": "10/15民進黨新聞稿",
@@ -6184,7 +6320,7 @@
                   "comments": []
                 },
                 {
-                  "href": "http://iing.tw/posts/191",
+                  "href": "http://web.archive.org/web/20151114070537/http://iing.tw/posts/191",
                   "runs": [
                     {
                       "text": "10/15官網",
@@ -6276,7 +6412,7 @@
               ],
               "ref": [
                 {
-                  "href": "http://www.dpp.org.tw/news_content.php?kw=&m1=07&y1=2015&menu_sn=&sub_menu=43&show_title=&one_page=10&page=1&start_p=1&act=&sn=8054&stat=&order_type=desc&order_col=add_date&data_type=%E6%96%B0%E8%81%9E",
+                  "href": "http://web.archive.org/web/20151114071741/http://www.dpp.org.tw/news_content.php?kw=&m1=07&y1=2015&menu_sn=&sub_menu=43&show_title=&one_page=10&page=1&start_p=1&act=&sn=8054&stat=&order_type=desc&order_col=add_date&data_type=新聞",
                   "runs": [
                     {
                       "text": "7/29民進黨新聞稿",
@@ -6418,7 +6554,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/191",
+                  "href": "http://web.archive.org/web/20151114071821/http://iing.tw/posts/191",
                   "runs": [
                     {
                       "text": "10/15官網",
@@ -6466,7 +6602,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/191",
+                  "href": "http://web.archive.org/web/20151114071821/http://iing.tw/posts/191",
                   "runs": [
                     {
                       "text": "10/15官網",
@@ -7122,7 +7258,7 @@
               ],
               "ref": [
                 {
-                  "href": "http://www.appledaily.com.tw/realtimenews/article/new/20150717/650148/",
+                  "href": "http://web.archive.org/web/20151114071924/http://www.appledaily.com.tw/realtimenews/article/new/20150717/650148/",
                   "runs": [
                     {
                       "text": "2015/7/17蘋果",
@@ -7172,7 +7308,7 @@
               ],
               "ref": [
                 {
-                  "href": "http://www.google.com/url?q=http%3A%2F%2Fwww.dpp.org.tw%2Fnews_content.php%3Fsn%3D8060&sa=D&sntz=1&usg=AFQjCNFWmahwNYZK-pCnw7SJKlm--PwYbQ",
+                  "href": "http://web.archive.org/web/20151114071926/http://www.dpp.org.tw/news_content.php?sn=8060",
                   "runs": [
                     {
                       "text": "7/30民進黨新聞稿",
@@ -7222,7 +7358,7 @@
               ],
               "ref": [
                 {
-                  "href": "http://www.google.com/url?q=http%3A%2F%2Fwww.dpp.org.tw%2Fnews_content.php%3Fsn%3D8060&sa=D&sntz=1&usg=AFQjCNFWmahwNYZK-pCnw7SJKlm--PwYbQ",
+                  "href": "http://web.archive.org/web/20151114071926/http://www.dpp.org.tw/news_content.php?sn=8060",
                   "runs": [
                     {
                       "text": "7/30民進黨新聞稿",
@@ -7272,7 +7408,7 @@
               ],
               "ref": [
                 {
-                  "href": "http://www.google.com/url?q=http%3A%2F%2Fwww.dpp.org.tw%2Fnews_content.php%3Fsn%3D8060&sa=D&sntz=1&usg=AFQjCNFWmahwNYZK-pCnw7SJKlm--PwYbQ",
+                  "href": "http://web.archive.org/web/20151114071926/http://www.dpp.org.tw/news_content.php?sn=8060",
                   "runs": [
                     {
                       "text": "7/30民進黨新聞稿",
@@ -7322,7 +7458,7 @@
               ],
               "ref": [
                 {
-                  "href": "http://www.google.com/url?q=http%3A%2F%2Fwww.dpp.org.tw%2Fnews_content.php%3Fsn%3D8060&sa=D&sntz=1&usg=AFQjCNFWmahwNYZK-pCnw7SJKlm--PwYbQ",
+                  "href": "http://web.archive.org/web/20151114071926/http://www.dpp.org.tw/news_content.php?sn=8060",
                   "runs": [
                     {
                       "text": "7/30民進黨新聞稿",
@@ -7372,7 +7508,7 @@
               ],
               "ref": [
                 {
-                  "href": "http://www.google.com/url?q=http%3A%2F%2Fwww.dpp.org.tw%2Fnews_content.php%3Fsn%3D8060&sa=D&sntz=1&usg=AFQjCNFWmahwNYZK-pCnw7SJKlm--PwYbQ",
+                  "href": "http://web.archive.org/web/20151114071926/http://www.dpp.org.tw/news_content.php?sn=8060",
                   "runs": [
                     {
                       "text": "7/30民進黨新聞稿",
@@ -8691,7 +8827,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://udn.com/news/story/1/1019143-%E5%90%8C%E5%BF%97%E5%A9%9A%E5%A7%BB%E5%90%88%E6%B3%95-%E8%94%A1%E8%8B%B1%E6%96%87%EF%BC%9A%E5%BD%B0%E9%A1%AF%E5%B9%B3%E7%AD%89%E8%88%87%E4%BA%BA%E6%AC%8A",
+                  "href": "http://web.archive.org/save/http://udn.com/news/story/1/1019143-同志婚姻合法-蔡英文：彰顯平等與人權",
                   "runs": [
                     {
                       "text": "2015/6/27udn",
@@ -10185,7 +10321,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/157",
+                  "href": "http://web.archive.org/web/20151114072258/http://iing.tw/posts/157",
                   "runs": [
                     {
                       "text": "9/30官網(短片與投影片)",
@@ -10212,7 +10348,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/157",
+                  "href": "http://web.archive.org/web/20151114072258/http://iing.tw/posts/157",
                   "runs": [
                     {
                       "text": "9/30官網",
@@ -10246,7 +10382,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/157",
+                  "href": "http://web.archive.org/web/20151114072258/http://iing.tw/posts/157",
                   "runs": [
                     {
                       "text": "9/30官網",
@@ -10301,7 +10437,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/157",
+                  "href": "http://web.archive.org/web/20151114072258/http://iing.tw/posts/157",
                   "runs": [
                     {
                       "text": "9/30官網",
@@ -12142,7 +12278,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/158",
+                  "href": "http://web.archive.org/web/20151114072352/http://iing.tw/posts/158",
                   "runs": [
                     {
                       "text": "9/30官網",
@@ -12211,7 +12347,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/171",
+                  "href": "http://web.archive.org/web/20151114072352/http://iing.tw/posts/171",
                   "runs": [
                     {
                       "text": "10/4官網",
@@ -12238,7 +12374,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/171",
+                  "href": "http://web.archive.org/web/20151114072352/http://iing.tw/posts/171",
                   "runs": [
                     {
                       "text": "10/4官網",
@@ -12265,7 +12401,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/171",
+                  "href": "http://web.archive.org/web/20151114072352/http://iing.tw/posts/171",
                   "runs": [
                     {
                       "text": "10/4官網",
@@ -12292,7 +12428,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/171",
+                  "href": "http://web.archive.org/web/20151114072352/http://iing.tw/posts/171",
                   "runs": [
                     {
                       "text": "10/4官網",
@@ -12754,7 +12890,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/80",
+                  "href": "http://web.archive.org/web/20151114073511/http://iing.tw/posts/80",
                   "runs": [
                     {
                       "text": "9/1 官網",
@@ -12773,7 +12909,7 @@
                   "comments": []
                 },
                 {
-                  "href": "http://iing.tw/posts/81",
+                  "href": "http://web.archive.org/web/20151114073529/http://iing.tw/posts/81",
                   "runs": [
                     {
                       "text": "9/1新聞稿",
@@ -14314,7 +14450,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/81",
+                  "href": "http://web.archive.org/web/20151114073529/http://iing.tw/posts/81",
                   "runs": [
                     {
                       "text": "9/1新聞稿",
@@ -14362,7 +14498,7 @@
               "labels": [],
               "ref": [
                 {
-                  "href": "http://iing.tw/posts/80",
+                  "href": "http://web.archive.org/web/20151114073511/http://iing.tw/posts/80",
                   "runs": [
                     {
                       "text": "9/1 官網",
