@@ -1002,7 +1002,7 @@
           "level": -1,
           "children": [
             {
-              "text": "憲政與國家體制",
+              "text": "政府體制",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -1945,7 +1945,7 @@
           "level": -1,
           "children": [
             {
-              "text": "經濟／產業發展、轉型",
+              "text": "經濟／跨產業轉型",
               "isB": false,
               "isU": false,
               "isI": false,
@@ -1959,85 +1959,6 @@
         {
           "summaryParagraphs": [],
           "items": [
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "產業發展、社會福利、教育等領域，由中央適度下放錢與權力給地方政府",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150722031505/http://www.dpp.org.tw/news_content.php?sn=7967",
-                  "runs": [
-                    {
-                      "text": "6/27民進黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "以「創新、就業、分配」為核心的新經濟發展模式，降低對單一市場的依賴，並從「重視GDP成長」轉為追求「兼顧就業、薪資、所得分配、區域平衡」等多元目標。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "全民共享"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114061227/http://www.dpp.org.tw/news_content.php?kw=新經濟&m1=07&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=7903&stat=&order_type=desc&order_col=add_date&data_type=新聞",
-                  "runs": [
-                    {
-                      "text": "6/1民進黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、7/20",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://www.chinatimes.com/newspapers/20150720000039-260202",
-                  "runs": [
-                    {
-                      "text": "中時",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "level": 0,
               "children": [
@@ -2071,7 +1992,6 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "創新"
               ],
               "ref": [
@@ -2101,7 +2021,6 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "創新"
               ],
               "ref": [
@@ -2110,547 +2029,6 @@
                   "runs": [
                     {
                       "text": "7/29粉絲專頁",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "亞洲矽谷計畫",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T10:27:36.000Z",
-                      "type": "NOTE",
-                      "text": "據10/1官網：亞洲矽谷計畫，是一個網絡的概念。\n1. 跟過去的科學園區或工業園區是不一樣的，並不是要引進大規模的製造活動，也不需要非常多的土地。\n2. 我們要做的，是讓產業、學術與研究單位，能夠有適當的環境，可以彼此交流和支援，同時引進國際資源，形成一個有助於創新的生態體系。"
-                    }
-                  ]
-                },
-                {
-                  "text": "(屬於「",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "未來產業",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-13T21:02:46.000Z",
-                      "type": "NOTE",
-                      "text": "據10/1官網，未來產業包括：IoT產品（物聯網產業）、Big Data、智慧化生產－也就是工業4.0，以及尖端國防科技。"
-                    }
-                  ]
-                },
-                {
-                  "text": "」)：依據「",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "面對在地",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-13T22:12:42.000Z",
-                      "type": "NOTE",
-                      "text": "據10/1官網：面對在地：讓台灣的智慧應用、物聯網的供應鏈可以強化。\n1. 台灣廠商的製造與研發能力，結合矽谷的技術、資金和人才，形成一個具有高度創新能力的世界級供應鏈。\n2. 讓矽谷企業與本土企業合作，選定不同城市，在台灣發展智慧城市，投入智慧物流、交通、健康照護等建設，作為物聯網與大數據應用的實驗場域（demo site)。\n3. 成果：提升台灣廠商技術，台灣民眾也享受到便利的科技生活；進一步把整套系統行銷全世界。"
-                    }
-                  ]
-                },
-                {
-                  "text": "」與「",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "朝向國際",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-14T21:07:59.000Z",
-                      "type": "NOTE",
-                      "text": "據官網，朝向國際指得是，讓台灣成為亞太創新交流樞紐。\n1. 在桃園機場旁建構的「亞洲創新研發人才交流中心」，與矽谷的創新交流中心緊密聯繫，保持雙邊的同步。\n2. 大專院校國際化，鼓勵世界各國年輕人來台灣學習；透過台灣育成系統幫助他們在台灣創業，為解決從初期募資、發展產品到上市櫃過程的所有問題，將成立「亞洲青年創新IPO中心」以提供系統性協助；並媒合矽谷資深人才，讓台灣創業者與美國西岸的天使基金及創投交流，讓台灣創新事業的資本市場跟世界連結起來。"
-                    }
-                  ]
-                },
-                {
-                  "text": "」兩條軸線，亞洲矽谷以",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "桃園",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-13T22:51:26.000Z",
-                      "type": "NOTE",
-                      "text": "據官網，桃園在交通、人力、產業、研發體系，都具備很好的基礎。\n1. 交通：距離亞洲五大城市，也就是香港、上海、首爾、東京、新加坡，飛行距離都不到三小時，是在一個中心點的位置。\n2. 產業：桃園現在有29個工業區，1萬多家工廠，供應鏈相當完整，完全可以支應「智慧產業」、「未來產業」的發展。\n3. 研發：桃園距離新竹的資通訊產業聚落，以及台北的軟體產業和企業總部，都是一個小時以內的車程；對於一個新創公司、或者一個年輕創業者，如果他有一個產品的新想法，想要找工廠合作，開發試產，桃園可以說是完美的地點。\n3. 人力：桃園也有六都中，最年輕的人口，也有涵蓋多元面向的高等教育體系，而且，大多數的學科教育，都可以跟產業緊密接軌。無論是工程師，或是專業經理人，各種有學習能力、敢拼、想衝的專業人才，都可以找得到。"
-                    }
-                  ]
-                },
-                {
-                  "text": "為中心，串聯北北基竹與台中，創造物聯網及智慧應用的研發與產業效益，扮演台灣產官學創新部門(含",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "國家級投資機構",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T10:15:06.000Z",
-                      "type": "NOTE",
-                      "text": "據10/2新聞稿：\nA. 國家級投資公司將有民間參與，在組織形式、資金來源、規模、功能和國發基金不盡相同（未來國發基金也可以評估投資轉型為國家級投資公司）。\nB. 國家級機構主要是分擔風險與媒合：1.有國家級投資機構「領投」、信用擔保，會讓更多民間創投公司願意投資；2.國家級機構目的並非牟利，也不是要跟民間搶商機。假設國際科技公司若願意來台投資，但要求相對擔保投資，降低風險，國家級機構可以協助媒合。"
-                    }
-                  ]
-                },
-                {
-                  "text": ")，與矽谷(甚至全球)創新交流與接軌的角色。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114061720/http://iing.tw/posts/159",
-                  "runs": [
-                    {
-                      "text": "10/1官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": " ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20151114061720/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
-                  "runs": [
-                    {
-                      "text": "10/2民進黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "亞洲矽谷計畫執行基地，設立於桃園航空城高鐵A19站周邊，銜接幼獅國際青年創業村。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114061720/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
-                  "runs": [
-                    {
-                      "text": "10/2民進黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": " ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20151114062847/http://iing.tw/posts/161",
-                  "runs": [
-                    {
-                      "text": "10/1投影片",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "亞洲矽谷計畫打造台灣成為亞洲人才的舞台、適合科技創新創業的基地：1. 政府高層領銜",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "積極招商",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T09:52:04.000Z",
-                      "type": "NOTE",
-                      "text": "10/1投影片：政府成立單一推動窗口，與矽谷創投或投資公司合作，引進矽谷具有潛力的企業直接到桃園駐點。"
-                    }
-                  ]
-                },
-                {
-                  "text": "。2. 與國會配合",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "改善法規",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T09:48:19.000Z",
-                      "type": "NOTE",
-                      "text": "據官網：放寬高階技術人才簽證及移民條件，完善天使基金、創投及IPO的機制。合理化薪資所得稅率、鬆綁學校以及師生參與創業的相關規範。"
-                    }
-                  ]
-                },
-                {
-                  "text": "。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114062857/http://iing.tw/posts/159",
-                  "runs": [
-                    {
-                      "text": "10/1官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": " ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20151114062847/http://iing.tw/posts/161",
-                  "runs": [
-                    {
-                      "text": "10/1投影片",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": " ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20151114063014/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
-                  "runs": [
-                    {
-                      "text": "10/2民進黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "亞洲矽谷計劃有四大功能，",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "人才交流中心",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T10:33:00.000Z",
-                      "type": "NOTE",
-                      "text": "據投影片：連結矽谷(舊金山機場旁)的Global Innovation Center，於桃園機場旁建構亞洲創新研發人才交流中心。"
-                    }
-                  ]
-                },
-                {
-                  "text": "、和矽谷成為合作夥伴、IOT與智慧應用的研發中心與試驗場域，以及成為",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "亞洲青年IPO中心",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T10:35:09.000Z",
-                      "type": "NOTE",
-                      "text": "據10/1投影片：連結矽谷創投與市場(以色列模式 to Nasdaq)，發展亞洲青年IPO中心(Nasdaq+1)：\n1.消弭創業者與天使、創投間訊息不對稱：落實閉鎖期法規的開放精神，以協助創業者度過前期募資（天使、A輪、B輪）的高風險與死亡低谷。\n2. 降低興櫃門檻與交易成本，不要求於一定期間上市櫃的規定，進而打造活絡的興櫃市場。"
-                    }
-                  ]
-                },
-                {
-                  "text": "。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114063018/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8233&stat=&order_type=desc&order_col=add_date&data_type=新聞",
-                  "runs": [
-                    {
-                      "text": "10/1民進黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": " ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20151114063052/http://iing.tw/posts/161",
-                  "runs": [
-                    {
-                      "text": "10/1投影片",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "「五大創新研發計畫」：(1)台南沙崙「綠能研發中心」；(2)台北資安、台中航太、高雄船艦的「國防產業聚落」；(3)桃園「亞洲矽谷計劃」，發展IOT及智慧產業；(4)「生技產業聚落」，從南港中研院、竹北生醫園區至台南科學園區；(5)台中的「智慧精密機械產業聚落」，精密機械加上未來的ICT及資訊產業。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114063052/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8237&stat=&order_type=desc&order_col=add_date&data_type=新聞",
-                  "runs": [
-                    {
-                      "text": "10/2新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "創投業的資本挹注，將帶動產業創新的源頭活水：(一) 擴大",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "壽險業資金",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T12:49:54.000Z",
-                      "type": "NOTE",
-                      "text": "據新聞稿：壽險資金在本質上，非常適合拿來做長期投資。\n1. 投資公共服務及新創事業，對國內經濟發展可以帶來正向循環的力量。"
-                    }
-                  ]
-                },
-                {
-                  "text": "的投資運用；(二) 研議讓退休基金投資於創投；(三) 國發基金和民間業者合組大型創投；(四) 發展",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "科技創新版",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T12:48:07.000Z",
-                      "type": "NOTE",
-                      "text": "據新聞稿：讓新創事業、尤其是中小型科技事業，在資本市場中有暢通的直接籌資管道。"
-                    }
-                  ]
-                },
-                {
-                  "text": "，鬆綁科技創新事業的掛牌；(五) 適度允許",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "銀行",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-17T12:49:20.000Z",
-                      "type": "NOTE",
-                      "text": "據新聞稿：在銀行融資方面，由於過去國內的工業銀行都已經轉型，成為以中、短期融資為主要業務的商業銀行，這項改變，削弱了產業發展所仰賴的中長期資金與股權融資。未來如果能夠仿照美國矽谷銀行的做法，提高銀行提供貸款給新創事業及中小企業的政策誘因，只要能夠好好落實對金融業分級管理的金融監督制度，在不牴觸產金分離原則下，應該可以適度地允許銀行，在提供貸款給新創事業及中小企業的同時，擁有以債轉股的選擇權。"
-                    }
-                  ]
-                },
-                {
-                  "text": "給新創事業的貸款得以債轉股。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114063052/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8237&stat=&order_type=desc&order_col=add_date&data_type=新聞",
-                  "runs": [
-                    {
-                      "text": "10/2新聞稿",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -2693,7 +2071,6 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "創新"
               ],
               "ref": [
@@ -2723,243 +2100,7 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "制度改革"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "海洋觀光：1.各大港口投資發展亞洲郵輪觀光路線；2.閒置商、漁港也可重新規劃為觀光重鎮；3.結合在地居民、在地建築師，打造在地特色的觀光港口與水岸勝地。4.企業化管理統籌全台港埠資源。5.夏天觀光遊憩、冬天舉辦競技活動（如風帆賽）及教育培訓。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "成立",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "北中南東四個觀光區域工作區",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-27T20:18:53.000Z",
-                      "type": "NOTE",
-                      "text": "據新聞稿，目前國際自由行的觀光客，有83%會到台北觀光，但是只有1/3的旅客到訪其他縣市，全台灣也只有8個縣市的到訪率超過18%。\n據官網，區域整備工作需建立「觀光承載分析」與「觀光政策環評」制度，發展永續觀光。"
-                    }
-                  ]
-                },
-                {
-                  "text": "，",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "區域內各縣市",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-24T16:36:14.000Z",
-                      "type": "NOTE",
-                      "text": "據新聞稿，中央政府需整合區域內所有縣市，規劃特色廟宇、古蹟、文化活動、慶典的深度觀光路線與行銷。\n例如：桃竹苗台三線、和南部美濃的客家文化，各地區的原住民文化，花東縱谷跟海岸線，高屏的海洋氣息，我來自南台灣，我知道我的家鄉屏東楓港有漂亮的海岸線，除了這些地方以外，在南部還可以到高雄可以去享受南部都會風情，同時我們也可以到高雄縣享受客家和農村的傳統文化，這其實本身就很值得花好幾天在那邊的地方，台南和鹿港的古都歷史，雲嘉南的田園農村、中部的台鐵舊山線和溼地，如果細心雕琢，都有國際觀光的價值，可以來規劃深度的旅程，讓旅客體驗在地生活，而不只是走馬看花。"
-                    }
-                  ]
-                },
-                {
-                  "text": "合作發展觀光。扶植旅行社的區域深度入境觀光業務。各地展覽亦須結合",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "地區特色",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-24T16:48:29.000Z",
-                      "type": "OTHER",
-                      "text": "據官網，北部發展電子展、中部發展精密機械與觀光休閒展、南部可發展精緻農業與遊艇展、東部可藉由召開國際會議結合獎勵旅遊發展觀光。"
-                    }
-                  ]
-                },
-                {
-                  "text": "。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
-                  "runs": [
-                    {
-                      "text": "9/10官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": " ",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20151114063153/http://iing.tw/posts/103",
-                  "runs": [
-                    {
-                      "text": "9/10新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "陸客觀光：1.減少低價團，增加",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "自由行、優質團",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-24T16:29:09.000Z",
-                      "type": "NOTE",
-                      "text": "據官網，鼓勵在區域內深度觀光的陸客，再次來台時優先配發簽證。"
-                    }
-                  ]
-                },
-                {
-                  "text": "、高端團配額，設計",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "簽證專案",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-24T16:21:32.000Z",
-                      "type": "NOTE",
-                      "text": "據官網，針對陸客來台，將設計原有配額以外的簽證專案，例如農村觀光簽證配額。"
-                    }
-                  ]
-                },
-                {
-                  "text": "。2. 透過簽證審核機制調節陸客觀光地區和路線，",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "分區、分時、分流",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "溫智媛",
-                      "date": "2015-10-24T16:25:52.000Z",
-                      "type": "NOTE",
-                      "text": "據官網，需要重新設計團客的觀光行程，並運用「景點預約、時段限量、收費管制、交通分流、航線分配」等管理措施。"
-                    }
-                  ]
-                },
-                {
-                  "text": "，紓解熱門景點人潮與交通。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
               ],
               "ref": [
                 {
@@ -2988,7 +2129,6 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "制度改革"
               ],
               "ref": [
@@ -3018,7 +2158,6 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "創新"
               ],
               "ref": [
@@ -3043,100 +2182,13 @@
             {
               "level": -1,
               "children": []
+            },
+            {
+              "level": -1,
+              "children": []
             }
           ],
           "items": [
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "積極建立與國際接軌的法規環境，引入資金與人才，並且確保開放之利益為全民所共享",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "自由主義",
-                "全民共享"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/save/_embed/https://www.facebook.com/ChuChuPepper/photos/a.797092740380027.1073741828.796255990463702/837331913022776/?type=1",
-                  "runs": [
-                    {
-                      "text": "6/23 洪秀柱粉絲頁",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "產業創新三層意義：(1) 設法讓更多新創企業出現。 (2) 現存企業推動技術、製程、產品創新 (3)  提升服務輸出比重，將高素質人力投入金融服務、資訊服務、工程服務等現代服務業。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/save/_embed/https://www.facebook.com/ChuChuPepper/photos/a.797092740380027.1073741828.796255990463702/837331913022776/?type=1",
-                  "runs": [
-                    {
-                      "text": "6/23 洪秀柱粉絲頁",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "學習德國（而不是學習韓國），以中小企業為經濟發展基礎，視協助中小企業壯大發展為首要之務",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150722005538/http://www.theway.best/2015/06/blog-post_6.html",
-                  "runs": [
-                    {
-                      "text": "洪秀柱官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "level": 0,
               "children": [
@@ -3149,7 +2201,6 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "溝通"
               ],
               "ref": [
@@ -3179,7 +2230,6 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "創新"
               ],
               "ref": [
@@ -3209,7 +2259,6 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "創新"
               ],
               "ref": [
@@ -3231,36 +2280,6 @@
               "level": 0,
               "children": [
                 {
-                  "text": "加速推動自經區、鬆綁自貿港區相關規範",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "自由主義"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150819025003/http://www.theway.best/2015/08/1040812_71.html",
-                  "runs": [
-                    {
-                      "text": "8/12洪秀柱官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
                   "text": "發展智慧物流，延伸產業價值鏈到國內與海外各類深層加工工業區",
                   "isB": false,
                   "isU": false,
@@ -3269,7 +2288,6 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "創新"
               ],
               "ref": [
@@ -3341,7 +2359,6 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "制度改革"
               ],
               "ref": [
@@ -3363,76 +2380,6 @@
               "level": 0,
               "children": [
                 {
-                  "text": "推動民間提出的《",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "資訊基本法",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-09-14T14:02:19.000Z",
-                      "type": "NOTE",
-                      "text": "iThome 新聞：\n11公協學會共組聯盟，促政府加速制定資訊基本法\nhttp://www.ithome.com.tw/news/95925\n訴求包括：確立政府整體資訊政策及架構、設立中央政府的資訊主管機關與資訊首長、確立各級政府資訊單位及從屬關係、政府資訊經費配置標準、政府資訊安全防護基本規範與機關首長職責、賦予資訊整合與民間資料介接法源、政府重大施政計畫的資訊影響評估、民間企業應用發展的投資獎勵、其他有利於資訊應用發展的事項。"
-                    }
-                  ]
-                },
-                {
-                  "text": "》立法，充實政府各階層的資訊人力",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "制度改革"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150914065436/http://www.theway.best/2015/09/1040901-40.html",
-                  "runs": [
-                    {
-                      "text": "9/1 洪秀柱官網投影片",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20150914070229/http://www.theway.best/2015/09/1040901-gdp2.html",
-                  "runs": [
-                    {
-                      "text": "9/1洪秀柱官網新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
                   "text": "發展行動支付、並推動金融商業行動化",
                   "isB": false,
                   "isU": false,
@@ -3441,7 +2388,6 @@
                 }
               ],
               "labels": [
-                "產業轉型",
                 "創新"
               ],
               "ref": [
@@ -3464,66 +2410,6 @@
                   "isI": false,
                   "comments": []
                 },
-                {
-                  "href": "http://web.archive.org/web/20150914070229/http://www.theway.best/2015/09/1040901-gdp2.html",
-                  "runs": [
-                    {
-                      "text": "9/1洪秀柱官網新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "積極吸引跨國企業在台設置營運總部、設置服務臺商海外物流基地。",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "經濟誘因"
-              ],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150819025003/http://www.theway.best/2015/08/1040812_71.html",
-                  "runs": [
-                    {
-                      "text": "8/12洪秀柱官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "政府在資訊軟體投資應超過GDP的2%",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "經濟發展",
-                "發展方向"
-              ],
-              "ref": [
                 {
                   "href": "http://web.archive.org/web/20150914070229/http://www.theway.best/2015/09/1040901-gdp2.html",
                   "runs": [
@@ -4483,6 +3369,1141 @@
             }
           ],
           "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        },
+        {
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
+          "items": []
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "level": -1,
+          "children": [
+            {
+              "text": "經濟／其他產業",
+              "isB": false,
+              "isU": false,
+              "isI": false,
+              "comments": []
+            }
+          ]
+        }
+      ],
+      "colspan": 1,
+      "cells": [
+        {
+          "summaryParagraphs": [],
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "產業發展、社會福利、教育等領域，由中央適度下放錢與權力給地方政府",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150722031505/http://www.dpp.org.tw/news_content.php?sn=7967",
+                  "runs": [
+                    {
+                      "text": "6/27民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "以「創新、就業、分配」為核心的新經濟發展模式，降低對單一市場的依賴，並從「重視GDP成長」轉為追求「兼顧就業、薪資、所得分配、區域平衡」等多元目標。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "全民共享"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114061227/http://www.dpp.org.tw/news_content.php?kw=新經濟&m1=07&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=1&start_p=1&act=&sn=7903&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "6/1民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、7/20",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.chinatimes.com/newspapers/20150720000039-260202",
+                  "runs": [
+                    {
+                      "text": "中時",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "亞洲矽谷計畫",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T10:27:36.000Z",
+                      "type": "NOTE",
+                      "text": "據10/1官網：亞洲矽谷計畫，是一個網絡的概念。\n1. 跟過去的科學園區或工業園區是不一樣的，並不是要引進大規模的製造活動，也不需要非常多的土地。\n2. 我們要做的，是讓產業、學術與研究單位，能夠有適當的環境，可以彼此交流和支援，同時引進國際資源，形成一個有助於創新的生態體系。"
+                    }
+                  ]
+                },
+                {
+                  "text": "(屬於「",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "未來產業",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-13T21:02:46.000Z",
+                      "type": "NOTE",
+                      "text": "據10/1官網，未來產業包括：IoT產品（物聯網產業）、Big Data、智慧化生產－也就是工業4.0，以及尖端國防科技。"
+                    }
+                  ]
+                },
+                {
+                  "text": "」)：依據「",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "面對在地",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-13T22:12:42.000Z",
+                      "type": "NOTE",
+                      "text": "據10/1官網：面對在地：讓台灣的智慧應用、物聯網的供應鏈可以強化。\n1. 台灣廠商的製造與研發能力，結合矽谷的技術、資金和人才，形成一個具有高度創新能力的世界級供應鏈。\n2. 讓矽谷企業與本土企業合作，選定不同城市，在台灣發展智慧城市，投入智慧物流、交通、健康照護等建設，作為物聯網與大數據應用的實驗場域（demo site)。\n3. 成果：提升台灣廠商技術，台灣民眾也享受到便利的科技生活；進一步把整套系統行銷全世界。"
+                    }
+                  ]
+                },
+                {
+                  "text": "」與「",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "朝向國際",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-14T21:07:59.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，朝向國際指得是，讓台灣成為亞太創新交流樞紐。\n1. 在桃園機場旁建構的「亞洲創新研發人才交流中心」，與矽谷的創新交流中心緊密聯繫，保持雙邊的同步。\n2. 大專院校國際化，鼓勵世界各國年輕人來台灣學習；透過台灣育成系統幫助他們在台灣創業，為解決從初期募資、發展產品到上市櫃過程的所有問題，將成立「亞洲青年創新IPO中心」以提供系統性協助；並媒合矽谷資深人才，讓台灣創業者與美國西岸的天使基金及創投交流，讓台灣創新事業的資本市場跟世界連結起來。"
+                    }
+                  ]
+                },
+                {
+                  "text": "」兩條軸線，亞洲矽谷以",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "桃園",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-13T22:51:26.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，桃園在交通、人力、產業、研發體系，都具備很好的基礎。\n1. 交通：距離亞洲五大城市，也就是香港、上海、首爾、東京、新加坡，飛行距離都不到三小時，是在一個中心點的位置。\n2. 產業：桃園現在有29個工業區，1萬多家工廠，供應鏈相當完整，完全可以支應「智慧產業」、「未來產業」的發展。\n3. 研發：桃園距離新竹的資通訊產業聚落，以及台北的軟體產業和企業總部，都是一個小時以內的車程；對於一個新創公司、或者一個年輕創業者，如果他有一個產品的新想法，想要找工廠合作，開發試產，桃園可以說是完美的地點。\n3. 人力：桃園也有六都中，最年輕的人口，也有涵蓋多元面向的高等教育體系，而且，大多數的學科教育，都可以跟產業緊密接軌。無論是工程師，或是專業經理人，各種有學習能力、敢拼、想衝的專業人才，都可以找得到。"
+                    }
+                  ]
+                },
+                {
+                  "text": "為中心，串聯北北基竹與台中，創造物聯網及智慧應用的研發與產業效益，扮演台灣產官學創新部門(含",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "國家級投資機構",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T10:15:06.000Z",
+                      "type": "NOTE",
+                      "text": "據10/2新聞稿：\nA. 國家級投資公司將有民間參與，在組織形式、資金來源、規模、功能和國發基金不盡相同（未來國發基金也可以評估投資轉型為國家級投資公司）。\nB. 國家級機構主要是分擔風險與媒合：1.有國家級投資機構「領投」、信用擔保，會讓更多民間創投公司願意投資；2.國家級機構目的並非牟利，也不是要跟民間搶商機。假設國際科技公司若願意來台投資，但要求相對擔保投資，降低風險，國家級機構可以協助媒合。"
+                    }
+                  ]
+                },
+                {
+                  "text": ")，與矽谷(甚至全球)創新交流與接軌的角色。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114061720/http://iing.tw/posts/159",
+                  "runs": [
+                    {
+                      "text": "10/1官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114061720/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "亞洲矽谷計畫執行基地，設立於桃園航空城高鐵A19站周邊，銜接幼獅國際青年創業村。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114061720/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114062847/http://iing.tw/posts/161",
+                  "runs": [
+                    {
+                      "text": "10/1投影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "亞洲矽谷計畫打造台灣成為亞洲人才的舞台、適合科技創新創業的基地：1. 政府高層領銜",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "積極招商",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T09:52:04.000Z",
+                      "type": "NOTE",
+                      "text": "10/1投影片：政府成立單一推動窗口，與矽谷創投或投資公司合作，引進矽谷具有潛力的企業直接到桃園駐點。"
+                    }
+                  ]
+                },
+                {
+                  "text": "。2. 與國會配合",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "改善法規",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T09:48:19.000Z",
+                      "type": "NOTE",
+                      "text": "據官網：放寬高階技術人才簽證及移民條件，完善天使基金、創投及IPO的機制。合理化薪資所得稅率、鬆綁學校以及師生參與創業的相關規範。"
+                    }
+                  ]
+                },
+                {
+                  "text": "。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114062857/http://iing.tw/posts/159",
+                  "runs": [
+                    {
+                      "text": "10/1官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114062847/http://iing.tw/posts/161",
+                  "runs": [
+                    {
+                      "text": "10/1投影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114063014/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=3&start_p=1&act=&sn=8239&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "亞洲矽谷計劃有四大功能，",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "人才交流中心",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T10:33:00.000Z",
+                      "type": "NOTE",
+                      "text": "據投影片：連結矽谷(舊金山機場旁)的Global Innovation Center，於桃園機場旁建構亞洲創新研發人才交流中心。"
+                    }
+                  ]
+                },
+                {
+                  "text": "、和矽谷成為合作夥伴、IOT與智慧應用的研發中心與試驗場域，以及成為",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "亞洲青年IPO中心",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T10:35:09.000Z",
+                      "type": "NOTE",
+                      "text": "據10/1投影片：連結矽谷創投與市場(以色列模式 to Nasdaq)，發展亞洲青年IPO中心(Nasdaq+1)：\n1.消弭創業者與天使、創投間訊息不對稱：落實閉鎖期法規的開放精神，以協助創業者度過前期募資（天使、A輪、B輪）的高風險與死亡低谷。\n2. 降低興櫃門檻與交易成本，不要求於一定期間上市櫃的規定，進而打造活絡的興櫃市場。"
+                    }
+                  ]
+                },
+                {
+                  "text": "。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114063018/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8233&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/1民進黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114063052/http://iing.tw/posts/161",
+                  "runs": [
+                    {
+                      "text": "10/1投影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "「五大創新研發計畫」：(1)台南沙崙「綠能研發中心」；(2)台北資安、台中航太、高雄船艦的「國防產業聚落」；(3)桃園「亞洲矽谷計劃」，發展IOT及智慧產業；(4)「生技產業聚落」，從南港中研院、竹北生醫園區至台南科學園區；(5)台中的「智慧精密機械產業聚落」，精密機械加上未來的ICT及資訊產業。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114063052/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8237&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "創投業的資本挹注，將帶動產業創新的源頭活水：(一) 擴大",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "壽險業資金",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T12:49:54.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿：壽險資金在本質上，非常適合拿來做長期投資。\n1. 投資公共服務及新創事業，對國內經濟發展可以帶來正向循環的力量。"
+                    }
+                  ]
+                },
+                {
+                  "text": "的投資運用；(二) 研議讓退休基金投資於創投；(三) 國發基金和民間業者合組大型創投；(四) 發展",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "科技創新版",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T12:48:07.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿：讓新創事業、尤其是中小型科技事業，在資本市場中有暢通的直接籌資管道。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，鬆綁科技創新事業的掛牌；(五) 適度允許",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "銀行",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-17T12:49:20.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿：在銀行融資方面，由於過去國內的工業銀行都已經轉型，成為以中、短期融資為主要業務的商業銀行，這項改變，削弱了產業發展所仰賴的中長期資金與股權融資。未來如果能夠仿照美國矽谷銀行的做法，提高銀行提供貸款給新創事業及中小企業的政策誘因，只要能夠好好落實對金融業分級管理的金融監督制度，在不牴觸產金分離原則下，應該可以適度地允許銀行，在提供貸款給新創事業及中小企業的同時，擁有以債轉股的選擇權。"
+                    }
+                  ]
+                },
+                {
+                  "text": "給新創事業的貸款得以債轉股。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114063052/http://www.dpp.org.tw/news_content.php?kw=&m1=10&y1=2015&menu_sn=&sub_menu=43&show_title=新聞&one_page=10&page=4&start_p=1&act=&sn=8237&stat=&order_type=desc&order_col=add_date&data_type=新聞",
+                  "runs": [
+                    {
+                      "text": "10/2新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "海洋觀光：1.各大港口投資發展亞洲郵輪觀光路線；2.閒置商、漁港也可重新規劃為觀光重鎮；3.結合在地居民、在地建築師，打造在地特色的觀光港口與水岸勝地。4.企業化管理統籌全台港埠資源。5.夏天觀光遊憩、冬天舉辦競技活動（如風帆賽）及教育培訓。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
+                  "runs": [
+                    {
+                      "text": "9/10官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "成立",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "北中南東四個觀光區域工作區",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-27T20:18:53.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿，目前國際自由行的觀光客，有83%會到台北觀光，但是只有1/3的旅客到訪其他縣市，全台灣也只有8個縣市的到訪率超過18%。\n據官網，區域整備工作需建立「觀光承載分析」與「觀光政策環評」制度，發展永續觀光。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "區域內各縣市",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:36:14.000Z",
+                      "type": "NOTE",
+                      "text": "據新聞稿，中央政府需整合區域內所有縣市，規劃特色廟宇、古蹟、文化活動、慶典的深度觀光路線與行銷。\n例如：桃竹苗台三線、和南部美濃的客家文化，各地區的原住民文化，花東縱谷跟海岸線，高屏的海洋氣息，我來自南台灣，我知道我的家鄉屏東楓港有漂亮的海岸線，除了這些地方以外，在南部還可以到高雄可以去享受南部都會風情，同時我們也可以到高雄縣享受客家和農村的傳統文化，這其實本身就很值得花好幾天在那邊的地方，台南和鹿港的古都歷史，雲嘉南的田園農村、中部的台鐵舊山線和溼地，如果細心雕琢，都有國際觀光的價值，可以來規劃深度的旅程，讓旅客體驗在地生活，而不只是走馬看花。"
+                    }
+                  ]
+                },
+                {
+                  "text": "合作發展觀光。扶植旅行社的區域深度入境觀光業務。各地展覽亦須結合",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "地區特色",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:48:29.000Z",
+                      "type": "OTHER",
+                      "text": "據官網，北部發展電子展、中部發展精密機械與觀光休閒展、南部可發展精緻農業與遊艇展、東部可藉由召開國際會議結合獎勵旅遊發展觀光。"
+                    }
+                  ]
+                },
+                {
+                  "text": "。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
+                  "runs": [
+                    {
+                      "text": "9/10官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114063153/http://iing.tw/posts/103",
+                  "runs": [
+                    {
+                      "text": "9/10新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "陸客觀光：1.減少低價團，增加",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "自由行、優質團",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:29:09.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，鼓勵在區域內深度觀光的陸客，再次來台時優先配發簽證。"
+                    }
+                  ]
+                },
+                {
+                  "text": "、高端團配額，設計",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "簽證專案",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:21:32.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，針對陸客來台，將設計原有配額以外的簽證專案，例如農村觀光簽證配額。"
+                    }
+                  ]
+                },
+                {
+                  "text": "。2. 透過簽證審核機制調節陸客觀光地區和路線，",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "分區、分時、分流",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "溫智媛",
+                      "date": "2015-10-24T16:25:52.000Z",
+                      "type": "NOTE",
+                      "text": "據官網，需要重新設計團客的觀光行程，並運用「景點預約、時段限量、收費管制、交通分流、航線分配」等管理措施。"
+                    }
+                  ]
+                },
+                {
+                  "text": "，紓解熱門景點人潮與交通。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114063151/http://iing.tw/posts/102",
+                  "runs": [
+                    {
+                      "text": "9/10官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "summaryParagraphs": [],
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "積極建立與國際接軌的法規環境，引入資金與人才，並且確保開放之利益為全民所共享",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "自由主義",
+                "全民共享"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/save/_embed/https://www.facebook.com/ChuChuPepper/photos/a.797092740380027.1073741828.796255990463702/837331913022776/?type=1",
+                  "runs": [
+                    {
+                      "text": "6/23 洪秀柱粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "產業創新三層意義：(1) 設法讓更多新創企業出現。 (2) 現存企業推動技術、製程、產品創新 (3)  提升服務輸出比重，將高素質人力投入金融服務、資訊服務、工程服務等現代服務業。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/save/_embed/https://www.facebook.com/ChuChuPepper/photos/a.797092740380027.1073741828.796255990463702/837331913022776/?type=1",
+                  "runs": [
+                    {
+                      "text": "6/23 洪秀柱粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "學習德國（而不是學習韓國），以中小企業為經濟發展基礎，視協助中小企業壯大發展為首要之務",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150722005538/http://www.theway.best/2015/06/blog-post_6.html",
+                  "runs": [
+                    {
+                      "text": "洪秀柱官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "推動民間提出的《",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "資訊基本法",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-09-14T14:02:19.000Z",
+                      "type": "NOTE",
+                      "text": "iThome 新聞：\n11公協學會共組聯盟，促政府加速制定資訊基本法\nhttp://www.ithome.com.tw/news/95925\n訴求包括：確立政府整體資訊政策及架構、設立中央政府的資訊主管機關與資訊首長、確立各級政府資訊單位及從屬關係、政府資訊經費配置標準、政府資訊安全防護基本規範與機關首長職責、賦予資訊整合與民間資料介接法源、政府重大施政計畫的資訊影響評估、民間企業應用發展的投資獎勵、其他有利於資訊應用發展的事項。"
+                    }
+                  ]
+                },
+                {
+                  "text": "》立法，充實政府各階層的資訊人力",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "制度改革"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150914065436/http://www.theway.best/2015/09/1040901-40.html",
+                  "runs": [
+                    {
+                      "text": "9/1 洪秀柱官網投影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20150914070229/http://www.theway.best/2015/09/1040901-gdp2.html",
+                  "runs": [
+                    {
+                      "text": "9/1洪秀柱官網新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "積極吸引跨國企業在台設置營運總部、設置服務臺商海外物流基地。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "經濟誘因"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150819025003/http://www.theway.best/2015/08/1040812_71.html",
+                  "runs": [
+                    {
+                      "text": "8/12洪秀柱官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "政府在資訊軟體投資應超過GDP的2%",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150914070229/http://www.theway.best/2015/09/1040901-gdp2.html",
+                  "runs": [
+                    {
+                      "text": "9/1洪秀柱官網新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "加速推動自經區、鬆綁自貿港區相關規範",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "自由主義"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150819025003/http://www.theway.best/2015/08/1040812_71.html",
+                  "runs": [
+                    {
+                      "text": "8/12洪秀柱官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "summaryParagraphs": [
