@@ -11505,7 +11505,51 @@
           ]
         },
         {
-          "summaryParagraphs": [],
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": [
+                {
+                  "text": "1",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-11-27T09:31:33.000Z",
+                      "type": "OTHER",
+                      "text": "_Accepted suggestion_"
+                    }
+                  ]
+                },
+                {
+                  "text": ".BOT模式社會住宅|目標:18萬4千戶(已完成11戶)",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-11-27T09:31:33.000Z",
+                      "type": "OTHER",
+                      "text": "_Accepted suggestion_"
+                    },
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-11-27T09:31:39.000Z",
+                      "type": "OTHER",
+                      "text": "_Accepted suggestion_"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
           "items": [
             {
               "level": 0,
@@ -11564,6 +11608,12 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
             }
           ]
         },
