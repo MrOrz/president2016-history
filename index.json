@@ -11505,7 +11505,16 @@
           ]
         },
         {
-          "summaryParagraphs": [],
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            },
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
           "items": [
             {
               "level": 0,
@@ -11564,6 +11573,12 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
             }
           ]
         },
