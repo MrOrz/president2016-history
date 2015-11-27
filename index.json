@@ -11508,45 +11508,6 @@
           "summaryParagraphs": [
             {
               "level": -1,
-              "children": [
-                {
-                  "text": "1",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-11-27T09:31:33.000Z",
-                      "type": "OTHER",
-                      "text": "_Accepted suggestion_"
-                    }
-                  ]
-                },
-                {
-                  "text": ".BOT模式社會住宅|目標:18萬4千戶(已完成11戶)",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-11-27T09:31:33.000Z",
-                      "type": "OTHER",
-                      "text": "_Accepted suggestion_"
-                    },
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-11-27T09:31:39.000Z",
-                      "type": "OTHER",
-                      "text": "_Accepted suggestion_"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": -1,
               "children": []
             }
           ],
@@ -11584,7 +11545,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "政府不應廣蓋社會住宅，而應該要提供租稅誘因、鼓勵房東租出空屋租給青年或弱勢；政府再另外提供房客津貼，就能找出超過十萬空屋來作為社會住宅。",
+                  "text": "政府不應廣蓋社會住宅，而應該要提供租稅誘因、鼓勵房東租出空屋租給青年或弱勢；政府再另外提供房客津貼，就能找出超過十萬空屋來作為社會住宅。[出處11/08經濟日報專訪])",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -11594,25 +11555,6 @@
               "labels": [
                 "社會正義"
               ],
-              "ref": [
-                {
-                  "href": "http://money.udn.com/money/story/7307/1302094-%E6%9C%B1%E7%AB%8B%E5%80%AB%EF%BC%9A%E6%8E%A8%E5%8B%95%E7%A8%85%E6%94%B9-%E9%80%80%E7%A8%85%E4%BD%8E%E8%96%AA%E6%97%8F",
-                  "runs": [
-                    {
-                      "text": "11/08經濟日報專訪",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [],
-              "labels": [],
               "ref": []
             }
           ]
