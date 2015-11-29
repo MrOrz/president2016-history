@@ -9132,6 +9132,106 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "替三十歲後就提前老化的唐寶寶與其他障礙者，檢討社會保險年金發放與退休的規範",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150915065828/http://iing.tw/posts/71",
+                  "runs": [
+                    {
+                      "text": "8/28 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
+                  "runs": [
+                    {
+                      "text": "9/2官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "8年完成20萬戶社會住宅採無障礙設計",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150916032213/http://iing.tw/posts/76",
+                  "runs": [
+                    {
+                      "text": "8/30 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "強化身心障礙者提早老化與平均餘命等研究，作為政策規劃基礎；發展適合不同障礙類別、年齡、性別的體適能活動並提供營養咨詢；提供女性障礙者足夠資訊與支持，維護她們的生育權利與健康",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
+                  "runs": [
+                    {
+                      "text": "9/2 官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -10796,157 +10896,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "level": -1,
-          "children": [
-            {
-              "text": "社會正義／身心障礙者",
-              "isB": false,
-              "isU": false,
-              "isI": false,
-              "comments": []
-            }
-          ]
-        }
-      ],
-      "colspan": 1,
-      "cells": [
-        {
-          "summaryParagraphs": [],
-          "items": [
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "替三十歲後就提前老化的唐寶寶與其他障礙者，檢討社會保險年金發放與退休的規範",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150915065828/http://iing.tw/posts/71",
-                  "runs": [
-                    {
-                      "text": "8/28 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
-                  "runs": [
-                    {
-                      "text": "9/2官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "8年完成20萬戶只租不賣的社會住宅，且採無障礙設計",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150916032213/http://iing.tw/posts/76",
-                  "runs": [
-                    {
-                      "text": "8/30 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "level": 0,
-              "children": [
-                {
-                  "text": "強化身心障礙者提早老化與平均餘命等研究，作為政策規劃基礎；發展適合不同障礙類別、年齡、性別的體適能活動並提供營養咨詢；提供女性障礙者足夠資訊與支持，維護她們的生育權利與健康",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [],
-              "ref": [
-                {
-                  "href": "http://web.archive.org/web/20150916034526/http://iing.tw/posts/84",
-                  "runs": [
-                    {
-                      "text": "9/2 官網",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        },
-        {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
-        },
-        {
-          "summaryParagraphs": [
-            {
-              "level": -1,
-              "children": []
-            }
-          ],
-          "items": []
         }
       ]
     },
