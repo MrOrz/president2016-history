@@ -7930,6 +7930,35 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "]",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2015-12-03T15:33:14.000Z",
+                      "type": "OTHER",
+                      "text": "_Rejected suggestion_"
+                    }
+                  ]
+                }
+              ],
+              "labels": [
+                "發展方向制度改革"
+              ],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
+              "ref": []
             }
           ]
         },
