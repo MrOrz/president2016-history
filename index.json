@@ -1064,7 +1064,7 @@
               ],
               "labels": [
                 "立法院",
-                "制度改革"
+                "制度保留"
               ],
               "ref": [
                 {
@@ -1280,15 +1280,425 @@
           "items": [
             {
               "level": 0,
-              "children": [],
-              "labels": [],
-              "ref": [
+              "children": [
                 {
-                  "text": "院效率] 三大國會改革政策：議事效率化、協商透明化、議長中立化。1、強化常設委員會專業職能，提昇議事效率（建立委員會的「資深制度」、強化國",
+                  "text": "三大國會改革政策：議事效率化、協商透明化、議長中立化。強化常設委員會專業職能，提昇議事效率（建立委員會的「資深制度」、強化國會助理專業度、推動院調查權與聽證權的法制化、法案回歸委員會專業審查、提高委員會表決門檻）",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
+                }
+              ],
+              "labels": [
+                "立法院",
+                "效率提升"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114060012/http://www.kmt.org.tw/2015/11/blog-post_36.html",
+                  "runs": [
+                    {
+                      "text": "1104國會改革政策",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
+                  "runs": [
+                    {
+                      "text": "2015華人企業領袖遠見高峰會",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114060040/http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114054617/http://www.kmt.org.tw/2015/10/blog-post_376.html",
+                  "runs": [
+                    {
+                      "text": "10/28國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "推動朝野協商制度公開化、透明化（各黨團代表參與協商前應獲得授權、協商過程應依法全程公開透明化、參與協商人員必須「利益迴避」）",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "立法院",
+                "透明政府"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114060012/http://www.kmt.org.tw/2015/11/blog-post_36.html",
+                  "runs": [
+                    {
+                      "text": "1104國會改革政策",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
+                  "runs": [
+                    {
+                      "text": "2015華人企業領袖遠見高峰會",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114060040/http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114054617/http://www.kmt.org.tw/2015/10/blog-post_376.html",
+                  "runs": [
+                    {
+                      "text": "10/28國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "推動議事透明化，擴大公民參與（網路公告委員發言＆表決記錄、擴大公民參與監督管道）",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "立法院",
+                "透明政府"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114060012/http://www.kmt.org.tw/2015/11/blog-post_36.html",
+                  "runs": [
+                    {
+                      "text": "1104國會改革政策",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
+                  "runs": [
+                    {
+                      "text": "2015華人企業領袖遠見高峰會",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114060040/http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114054617/http://www.kmt.org.tw/2015/10/blog-post_376.html",
+                  "runs": [
+                    {
+                      "text": "10/28國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "建構國會議長中立化的政治環境（推動紀律委員會常設化、禮讓資深議長擺脫選區經營成為提名慣例）",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "立法院",
+                "制度改革"
+              ],
+              "ref": [
+                {
+                  "href": "http://web.archive.org/web/20151114060012/http://www.kmt.org.tw/2015/11/blog-post_36.html",
+                  "runs": [
+                    {
+                      "text": "1104國會改革政策",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
+                  "runs": [
+                    {
+                      "text": "2015華人企業領袖遠見高峰會",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114060040/http://www.kmt.org.tw/2015/10/blog-post_684.html",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
+                  "runs": [
+                    {
+                      "text": "10/29國民黨粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://web.archive.org/web/20151114054617/http://www.kmt.org.tw/2015/10/blog-post_376.html",
+                  "runs": [
+                    {
+                      "text": "10/28國民黨新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
                 }
               ]
             },
@@ -1652,7 +2062,8 @@
                 }
               ],
               "labels": [
-                "經濟正統"
+                "制度改革",
+                "赤字"
               ],
               "ref": [
                 {
@@ -1915,6 +2326,7 @@
                 }
               ],
               "labels": [
+                "發展方向",
                 "創新"
               ],
               "ref": [
@@ -1944,6 +2356,7 @@
                 }
               ],
               "labels": [
+                "發展方向",
                 "創新"
               ],
               "ref": [
@@ -1994,6 +2407,7 @@
                 }
               ],
               "labels": [
+                "發展方向",
                 "創新"
               ],
               "ref": [
@@ -2081,6 +2495,7 @@
                 }
               ],
               "labels": [
+                "發展方向",
                 "創新"
               ],
               "ref": [
@@ -2153,6 +2568,7 @@
                 }
               ],
               "labels": [
+                "發展方向",
                 "創新"
               ],
               "ref": [
@@ -2182,6 +2598,7 @@
                 }
               ],
               "labels": [
+                "發展方向",
                 "創新"
               ],
               "ref": [
@@ -2211,6 +2628,7 @@
                 }
               ],
               "labels": [
+                "發展方向",
                 "創新"
               ],
               "ref": [
@@ -2311,6 +2729,7 @@
                 }
               ],
               "labels": [
+                "發展方向",
                 "創新"
               ],
               "ref": [
@@ -5643,7 +6062,8 @@
                 }
               ],
               "labels": [
-                "環境保護"
+                "環境保護",
+                "發展方向"
               ],
               "ref": []
             },
@@ -7514,7 +7934,8 @@
                 }
               ],
               "labels": [
-                "環境保護"
+                "環境保護",
+                "發展方向"
               ],
               "ref": [
                 {
@@ -7564,7 +7985,8 @@
                 }
               ],
               "labels": [
-                "環境保護"
+                "環境保護",
+                "發展方向"
               ],
               "ref": [
                 {
@@ -7614,7 +8036,8 @@
                 }
               ],
               "labels": [
-                "環境保護"
+                "環境保護",
+                "發展方向"
               ],
               "ref": [
                 {
@@ -7664,7 +8087,8 @@
                 }
               ],
               "labels": [
-                "環境保護"
+                "環境保護",
+                "發展方向"
               ],
               "ref": [
                 {
@@ -8290,7 +8714,8 @@
                 }
               ],
               "labels": [
-                "環境保護"
+                "環境保護",
+                "發展方向"
               ],
               "ref": [
                 {
@@ -8340,7 +8765,8 @@
                 }
               ],
               "labels": [
-                "環境保護"
+                "環境保護",
+                "發展方向"
               ],
               "ref": [
                 {
@@ -9221,11 +9647,72 @@
                       "text": "包含：\n婚姻平權草案\n伴侶制度草案\n家屬制度草案\nWikipedia「多元成家立法草案」：http://bit.ly/1Ii9T3e"
                     }
                   ]
+                },
+                {
+                  "text": "婚姻平權（含同性婚姻）草案",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
                 }
               ],
               "labels": [
-                "發展方向"
+                "制度改革"
               ],
+              "ref": [
+                {
+                  "href": "https://www.facebook.com/tsaiingwen/posts/10151549902476065",
+                  "runs": [
+                    {
+                      "text": "2013/9/6 粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "伴侶制度草案",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://www.facebook.com/tsaiingwen/posts/10151549902476065",
+                  "runs": [
+                    {
+                      "text": "2013/9/6 粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "家屬制度草案",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
               "ref": [
                 {
                   "href": "https://www.facebook.com/tsaiingwen/posts/10151549902476065",
@@ -9253,7 +9740,7 @@
                 }
               ],
               "labels": [
-                "制度改革"
+                "權益保障"
               ],
               "ref": [
                 {
@@ -9287,7 +9774,8 @@
                 }
               ],
               "labels": [
-                "社會正義"
+                "社會正義",
+                "權益保障"
               ],
               "ref": [
                 {
@@ -10534,7 +11022,7 @@
                 }
               ],
               "labels": [
-                "新移民"
+                "社會正義"
               ],
               "ref": [
                 {
@@ -10563,7 +11051,7 @@
                 }
               ],
               "labels": [
-                "新移民"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -10592,7 +11080,7 @@
                 }
               ],
               "labels": [
-                "新移民"
+                "制度改革"
               ],
               "ref": [
                 {
@@ -10621,7 +11109,7 @@
                 }
               ],
               "labels": [
-                "新移民"
+                "發展方向"
               ],
               "ref": [
                 {
