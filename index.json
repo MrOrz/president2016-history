@@ -1280,106 +1280,15 @@
           "items": [
             {
               "level": 0,
-              "children": [
-                {
-                  "text": "三大國會改革政策：議事效率化、協商透明化、議長中立化。1、強化常設委員會專業職能，提昇議事效率（建立委員會的「資深制度」、強化國會助理專業度、推動院調查權與聽證權的法制化、法案回歸委員會專業審查、提高委員會表決門檻）2、推動朝野協商制度公開化、透明化（各黨團代表參與協商前應獲得授權、協商過程應依法全程公開透明化、參與協商人員必須「利益迴避」）3、推動議事透明化，擴大公民參與（網路公告委員發言＆表決記錄、擴大公民參與監督管道）4、建構國會議長中立化的政治環境（推動紀律委員會常設化、禮讓資深議長擺脫選區經營成為提名慣例）",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
-              "labels": [
-                "立法院效率"
-              ],
+              "children": [],
+              "labels": [],
               "ref": [
                 {
-                  "href": "http://web.archive.org/web/20151114060012/http://www.kmt.org.tw/2015/11/blog-post_36.html",
-                  "runs": [
-                    {
-                      "text": "1104國會改革政策",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
+                  "text": "院效率] 三大國會改革政策：議事效率化、協商透明化、議長中立化。1、強化常設委員會專業職能，提昇議事效率（建立委員會的「資深制度」、強化國",
                   "isB": false,
                   "isU": false,
                   "isI": false,
                   "comments": []
-                },
-                {
-                  "href": "http://www.gvm.com.tw/webonly_content_6748.html",
-                  "runs": [
-                    {
-                      "text": "2015華人企業領袖遠見高峰會",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20151114060040/http://www.kmt.org.tw/2015/10/blog-post_684.html",
-                  "runs": [
-                    {
-                      "text": "10/29國民黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "https://www.facebook.com/mykmt/photos/a.150164682972.111841.131181017972/10153665376087973/?type=3&theater",
-                  "runs": [
-                    {
-                      "text": "10/29國民黨粉絲頁",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
-                },
-                {
-                  "text": "、",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "href": "http://web.archive.org/web/20151114054617/http://www.kmt.org.tw/2015/10/blog-post_376.html",
-                  "runs": [
-                    {
-                      "text": "10/28國民黨新聞稿",
-                      "isB": false,
-                      "isU": false,
-                      "isI": false,
-                      "comments": []
-                    }
-                  ]
                 }
               ]
             },
