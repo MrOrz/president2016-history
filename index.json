@@ -22,39 +22,16 @@
           "items": [
             {
               "level": 0,
-              "children": [
-                {
-                  "text": "以",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                },
-                {
-                  "text": "貨櫃安全倡議及大港倡議",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": [
-                    {
-                      "author": "Johnson Liang",
-                      "date": "2015-07-22T13:06:32.000Z",
-                      "type": "NOTE",
-                      "text": "現已有《大港倡議作業要點》\nhttp://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040070061019900-1020125"
-                    }
-                  ]
-                },
-                {
-                  "text": "為模式推動與美國的反恐合作",
-                  "isB": false,
-                  "isU": false,
-                  "isI": false,
-                  "comments": []
-                }
-              ],
+              "children": [],
               "labels": [
                 "支持國際主義"
               ],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
               "ref": [
                 {
                   "href": "https://www.facebook.com/tsaiingwen/posts/10152729123161065:0",
