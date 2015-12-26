@@ -804,7 +804,12 @@
       "colspan": 1,
       "cells": [
         {
-          "summaryParagraphs": [],
+          "summaryParagraphs": [
+            {
+              "level": -1,
+              "children": []
+            }
+          ],
           "items": [
             {
               "level": 0,
@@ -838,6 +843,33 @@
                   "runs": [
                     {
                       "text": "6/4 粉絲頁",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "積極爭取加入RCEP，雙邊及區域FTA簽署的機會",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/439",
+                  "runs": [
+                    {
+                      "text": "12/22官網",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -2512,6 +2544,102 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "醫材器材、航太等級的產品體質、技術都必須提升，已符合五金加工業製造條件，創造企業升級轉型的誘因。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/439",
+                  "runs": [
+                    {
+                      "text": "12/22官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.youtube.com/watch?v=ThiiL5a6WK4",
+                  "runs": [
+                    {
+                      "text": "影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "五個產業為創新研發計畫，包括國家安全、能源自主、智慧城市、高齡化社會，因符合台灣及全球市場的未來潮流",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/439",
+                  "runs": [
+                    {
+                      "text": "12/22官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.youtube.com/watch?v=ThiiL5a6WK4",
+                  "runs": [
+                    {
+                      "text": "影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -3412,7 +3540,7 @@
                   ]
                 },
                 {
-                  "text": "，創造離鋒、尖峰之間的儲能需求。4.系統整合：培植台灣廠商整廠規劃的能力，把握接軌物聯網的發展契機，讓台灣綠能產業不只是代工，更可以是系統品牌。",
+                  "text": "，創造離鋒、尖峰之間的儲能需求，鼓勵民間設置儲能和節能設備。4.系統整合：培植台灣廠商整廠規劃的能力，把握接軌物聯網的發展契機，讓台灣綠能產業不只是代工，更可以是系統品牌。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -6265,7 +6393,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "選特定城市來發展示範",
+                  "text": "選定台中市與基隆市發展示範",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -6286,7 +6414,7 @@
                   ]
                 },
                 {
-                  "text": "，找出物聯網的市場需求與應用模式",
+                  "text": "，找出物聯網的市場需求與應用模式，，作為demo site也就是示範的據點。上個月這兩個城市的市長，已經跟思科簽署MOU，開始規劃智慧城市。透過智慧城市的建置，除了能提供產業發展機會，還能夠便利市民的生活。，同時也能帶來很多年輕人創意的空間。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -6296,6 +6424,12 @@
               "labels": [
                 "發展方向"
               ],
+              "ref": []
+            },
+            {
+              "level": 0,
+              "children": [],
+              "labels": [],
               "ref": [
                 {
                   "href": "http://web.archive.org/web/20150915070452/http://iing.tw/posts/73",
@@ -7764,7 +7898,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "核四停建、核一、二、三不延役，2025 完成非核家園，並且保證不會缺電",
+                  "text": "核四停建、核一、二、三不延役，2025 完成非核家園，並且透過如綠能產業者，而保證不會缺電",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -7799,6 +7933,25 @@
                   "runs": [
                     {
                       "text": "8/29官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://iing.tw/posts/439",
+                  "runs": [
+                    {
+                      "text": "8/22官網",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -8109,6 +8262,102 @@
               "level": 0,
               "children": [
                 {
+                  "text": "沿海工業區，以及科學園區建立多元性的水源供應系統，透過海水淡化廠和廢污水回收再利用系統，都是合適的方案。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/439",
+                  "runs": [
+                    {
+                      "text": "12/22官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.youtube.com/watch?v=ThiiL5a6WK4",
+                  "runs": [
+                    {
+                      "text": "影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "節水計畫，以及自來水管的減漏計畫更是當務之急。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/439",
+                  "runs": [
+                    {
+                      "text": "12/22官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.youtube.com/watch?v=ThiiL5a6WK4",
+                  "runs": [
+                    {
+                      "text": "影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
                   "text": "推動",
                   "isB": false,
                   "isU": false,
@@ -8210,7 +8459,7 @@
               "level": 0,
               "children": [
                 {
-                  "text": "黨內之前提出多元水資源方案，建議「地面水與地下水聯合運用」，在各地下水區建立戰備井網，在沒有地層下陷疑慮的條件下取水。",
+                  "text": "黨內之前提出多元水資源方案，建議「地面水與地下水聯合運用」，在各地下水區建立[戰備井網]，在沒有地層下陷疑慮的條件下取水。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -8255,6 +8504,54 @@
                   "runs": [
                     {
                       "text": "8/29官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "「電源開發方案」，包括林口、通霄、大林、大潭電廠的興建、更新和擴充，並且積極利用民間閒置的「汽電共生」發電能力",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/439",
+                  "runs": [
+                    {
+                      "text": "8/22官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": "、",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.youtube.com/watch?v=ThiiL5a6WK4",
+                  "runs": [
+                    {
+                      "text": "影片",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -14022,7 +14319,7 @@
                   ]
                 },
                 {
-                  "text": "的長照服務體系。",
+                  "text": "的長照服務體系，進而發展成一個具相當規模的產業，服務老人並創造就業機會。",
                   "isB": false,
                   "isU": false,
                   "isI": false,
@@ -14055,6 +14352,44 @@
                   "runs": [
                     {
                       "text": "9/1新聞稿",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "http://iing.tw/posts/439",
+                  "runs": [
+                    {
+                      "text": "12/22官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.youtube.com/watch?v=ThiiL5a6WK4",
+                  "runs": [
+                    {
+                      "text": "影片",
                       "isB": false,
                       "isU": false,
                       "isI": false,
@@ -14638,13 +14973,105 @@
       "colspan": 1,
       "cells": [
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "外籍人才標籤化，設計相對應的簽證及工作許可證，並且合理化外國人士的所得稅制，打造友善外籍人士永久居留的環境",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/439",
+                  "runs": [
+                    {
+                      "text": "12/22官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.youtube.com/watch?v=ThiiL5a6WK4",
+                  "runs": [
+                    {
+                      "text": "影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "創造與國際接軌的產業環境，並透過員工股票分紅、專利及技術入股、緩課所得稅等作法，使人才不外流",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [
+                "發展方向"
+              ],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/439",
+                  "runs": [
+                    {
+                      "text": "12/22官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.youtube.com/watch?v=ThiiL5a6WK4",
+                  "runs": [
+                    {
+                      "text": "影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         },
         {
           "summaryParagraphs": [],
@@ -16137,7 +16564,54 @@
               "children": []
             }
           ],
-          "items": []
+          "items": [
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "至於人力的培養這一部分，技職教育應該要重新受到重視。技職教育與產業連結必須強化，學校要增進學生的基本能力，產業資源要直接連結學校，讓技職體制朝向產學雙軌制的方向發展，降低學用之間的落差。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "http://iing.tw/posts/439",
+                  "runs": [
+                    {
+                      "text": "12/22官網",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "href": "https://www.youtube.com/watch?v=ThiiL5a6WK4",
+                  "runs": [
+                    {
+                      "text": "影片",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "summaryParagraphs": [
