@@ -2300,6 +2300,33 @@
                   ]
                 }
               ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "嚴格要求政府債務成長率必須低於經濟成長率 1%",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://www.youtube.com/watch?v=Je8f4yfDUxo",
+                  "runs": [
+                    {
+                      "text": "第一場總統大選電視辯論 8m45s",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -2906,13 +2933,36 @@
           "items": []
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "設定經濟成長率每年要高於南韓的經濟成長率 1.5%",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://www.youtube.com/watch?v=Je8f4yfDUxo",
+                  "runs": [
+                    {
+                      "text": "第一場總統大選電視辯論 7m20s",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         }
       ]
     },
@@ -5106,13 +5156,36 @@
           ]
         },
         {
-          "summaryParagraphs": [
+          "summaryParagraphs": [],
+          "items": [
             {
-              "level": -1,
-              "children": []
+              "level": 0,
+              "children": [
+                {
+                  "text": "運用政府資源與民間合作，重點南進至菲律賓、越南、緬甸",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://www.youtube.com/watch?v=Je8f4yfDUxo",
+                  "runs": [
+                    {
+                      "text": "第一場總統大選電視辯論 10m47s",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "items": []
+          ]
         }
       ]
     },
@@ -6662,6 +6735,54 @@
                   "runs": [
                     {
                       "text": "親民黨政策專區",
+                      "isB": false,
+                      "isU": false,
+                      "isI": false,
+                      "comments": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 0,
+              "children": [
+                {
+                  "text": "推動ADSL全面升級光纖，4年內上網速度達到",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                },
+                {
+                  "text": "全球前 10 名",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": [
+                    {
+                      "author": "Johnson Liang",
+                      "date": "2016-01-02T12:16:53.000Z",
+                      "type": "NOTE",
+                      "text": "宋於辯論會中表示，目前台灣是第33名，韓國第1名。"
+                    }
+                  ]
+                },
+                {
+                  "text": "。限期改善高鐵、國道斷訊問題。",
+                  "isB": false,
+                  "isU": false,
+                  "isI": false,
+                  "comments": []
+                }
+              ],
+              "labels": [],
+              "ref": [
+                {
+                  "href": "https://www.youtube.com/watch?v=Je8f4yfDUxo",
+                  "runs": [
+                    {
+                      "text": "第一場總統大選電視辯論 9m45s",
                       "isB": false,
                       "isU": false,
                       "isI": false,
