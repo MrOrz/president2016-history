@@ -1,5 +1,5 @@
 ﻿2016 總統大選承諾一覽表
-開放記名編輯（報名成為編輯請按我）・閱讀介面：http://hacktabl.org/president2016 ・公開版本記錄：https://github.com/MrOrz/president2016-history
+大選結束，停止新增編輯・閱讀介面：http://hacktabl.org/president2016 ・公開版本記錄：https://github.com/MrOrz/president2016-history
 
 
 ________________
