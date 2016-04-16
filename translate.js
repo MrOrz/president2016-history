@@ -3,6 +3,14 @@
 const data = require('./src.json')
 const fs = require('fs');
 
+const typeMap = {
+  NOTE: '補充說明',
+  REF_MISSING: '需要出處',
+  REF_CONTROVERSIAL: '出處爭議',
+  QUESTIONABLE: '質疑',
+  OTHER: null,
+}
+
 var lastCommentId = 1
 var commentMap = {}
 var commentToId = {}
@@ -19,6 +27,9 @@ function traverseAndMutate(obj) {
 
         for(let comment of obj.comments){
           let commentKey = comment.author + comment.type + comment.text
+
+          comment.type = typeMap[comment.type]
+
           if(commentToId[commentKey]) {
             // comment already exists in commentMap
             ids.push(commentToId[commentKey])
