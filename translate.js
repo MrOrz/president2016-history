@@ -37,7 +37,7 @@ function traverseAndMutate(obj) {
           }else{
             // insert to commentMap
             commentMap[lastCommentId] = comment
-            commentToId[commentKey] = lastCommentId
+            commentToId[commentKey] = '' + lastCommentId
             ids.push('' + lastCommentId)
             lastCommentId += 1
           }
