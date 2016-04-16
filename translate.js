@@ -31,7 +31,7 @@ function traverseAndMutate(obj) {
             lastCommentId += 1
           }
         }
-
+        delete obj.comments
         obj.commentIds = ids
       }
     }
