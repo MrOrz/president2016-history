@@ -32,7 +32,7 @@ function traverseAndMutate(obj) {
           }
         }
 
-        obj.comments = ids
+        obj.commentIds = ids
       }
     }
   }
